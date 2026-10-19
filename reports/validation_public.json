@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "errors": [],
+  "event_rows": 1735,
+  "input_rows": 1735,
+  "quarantined_rows": 0,
+  "event_replay_identical": true,
+  "private_price_validation_run": false,
+  "private_price_rows": 0,
+  "public_price_rows": 0,
+  "checked_at_utc": "2026-10-19T02:48:20.126797+00:00"
+}

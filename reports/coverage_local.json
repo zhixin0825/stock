@@ -1,0 +1,4109 @@
+{
+  "scope": "Observed downloaded sample only; not source-wide or US-market coverage",
+  "event_rows": 1735,
+  "tickers": 578,
+  "firms": 56,
+  "publication_date_min": "2026-02-20",
+  "publication_date_max": "2026-10-18",
+  "ratings_normalized": {
+    "Buy": 1135,
+    "Hold": 419,
+    "Sell": 63,
+    "Unmapped": 118
+  },
+  "ratings_unmapped_nonempty": {
+    "Positive": 6,
+    "Perform": 1
+  },
+  "missing_counts": {
+    "analyst_name": 1735,
+    "previous_price_target": 1735,
+    "published_at_utc": 1735,
+    "target_currency": 1735,
+    "rating_raw": 111,
+    "price_target": 0,
+    "source_url": 0
+  },
+  "status_counts": {
+    "open": 1735
+  },
+  "horizon_counts": {
+    "12-month default horizon": 1727,
+    "stated in the report": 8
+  },
+  "source_url_host_counts": {
+    "www.investing.com": 907,
+    "news.google.com": 760,
+    "finance.yahoo.com": 65,
+    "www.marketwatch.com": 1,
+    "www.coindesk.com": 1,
+    "www.benzinga.com": 1
+  },
+  "duplicate_firm_ticker_date_target_rows": 0,
+  "individual_analyst_eligible_rows": 0,
+  "revision_chain_eligible_rows": 0,
+  "price_scope": "IBM demo only; private local data",
+  "price_tickers": [
+    "IBM"
+  ],
+  "price_rows": 6781,
+  "public_price_rows": 0,
+  "events_with_next_session": 14,
+  "events_with_28_day_followup": 11,
+  "coverage_fractions": {
+    "named_individual_events_over_all_events": 0.0,
+    "mapped_ratings_over_all_events": 0.9319884726224784,
+    "tickers_with_local_prices_over_observed_tickers": 0.0017301038062283738,
+    "events_with_next_session_over_all_events": 0.008069164265129682,
+    "events_with_28_day_followup_over_all_events": 0.006340057636887608
+  },
+  "per_ticker": [
+    {
+      "ticker": "A",
+      "events": 1,
+      "date_min": "2026-08-27",
+      "date_max": "2026-08-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AA",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AAL",
+      "events": 4,
+      "date_min": "2026-09-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AAPL",
+      "events": 19,
+      "date_min": "2026-04-15",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ABBV",
+      "events": 15,
+      "date_min": "2026-04-30",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ABNB",
+      "events": 5,
+      "date_min": "2026-08-11",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ABSI",
+      "events": 1,
+      "date_min": "2026-09-28",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ABT",
+      "events": 13,
+      "date_min": "2026-06-08",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ACAD",
+      "events": 2,
+      "date_min": "2026-09-28",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ACGL",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ACHV",
+      "events": 4,
+      "date_min": "2026-08-13",
+      "date_max": "2026-08-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ACI",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ACN",
+      "events": 14,
+      "date_min": "2026-06-16",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ACT",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ADBE",
+      "events": 21,
+      "date_min": "2026-06-19",
+      "date_max": "2026-10-18",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ADI",
+      "events": 1,
+      "date_min": "2026-08-17",
+      "date_max": "2026-08-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ADSK",
+      "events": 2,
+      "date_min": "2026-08-19",
+      "date_max": "2026-08-20",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AEE",
+      "events": 3,
+      "date_min": "2026-07-23",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AFRM",
+      "events": 3,
+      "date_min": "2026-09-02",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AFYA",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AGYS",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AIG",
+      "events": 1,
+      "date_min": "2026-08-10",
+      "date_max": "2026-08-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AIR",
+      "events": 1,
+      "date_min": "2026-09-29",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AJG",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AKAM",
+      "events": 10,
+      "date_min": "2026-07-29",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ALHC",
+      "events": 3,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ALL",
+      "events": 1,
+      "date_min": "2026-08-07",
+      "date_max": "2026-08-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ALNT",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AMAT",
+      "events": 2,
+      "date_min": "2026-08-14",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AMCR",
+      "events": 1,
+      "date_min": "2026-08-18",
+      "date_max": "2026-08-18",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AMD",
+      "events": 31,
+      "date_min": "2026-06-13",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AME",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AMGN",
+      "events": 37,
+      "date_min": "2026-05-18",
+      "date_max": "2026-10-18",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AMRX",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AMSF",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AMZN",
+      "events": 28,
+      "date_min": "2026-07-15",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ANET",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ANGO",
+      "events": 1,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AON",
+      "events": 2,
+      "date_min": "2026-09-01",
+      "date_max": "2026-09-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "APA",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "APAM",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "APLD",
+      "events": 1,
+      "date_min": "2026-09-22",
+      "date_max": "2026-09-22",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "APP",
+      "events": 3,
+      "date_min": "2026-08-11",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "APPF",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "APPS",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AR",
+      "events": 2,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ARES",
+      "events": 1,
+      "date_min": "2026-08-03",
+      "date_max": "2026-08-03",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ARM",
+      "events": 1,
+      "date_min": "2026-07-20",
+      "date_max": "2026-07-20",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ARRY",
+      "events": 6,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ARXS",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ASPN",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ASTS",
+      "events": 2,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ATO",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AVGO",
+      "events": 11,
+      "date_min": "2026-06-09",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AVY",
+      "events": 1,
+      "date_min": "2026-09-25",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AXON",
+      "events": 1,
+      "date_min": "2026-09-02",
+      "date_max": "2026-09-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AXSM",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "AZO",
+      "events": 5,
+      "date_min": "2026-09-15",
+      "date_max": "2026-09-23",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BA",
+      "events": 7,
+      "date_min": "2026-08-04",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BAC",
+      "events": 6,
+      "date_min": "2026-04-13",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BAX",
+      "events": 1,
+      "date_min": "2026-07-28",
+      "date_max": "2026-07-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BBIO",
+      "events": 2,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BBY",
+      "events": 6,
+      "date_min": "2026-08-28",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BE",
+      "events": 2,
+      "date_min": "2026-09-29",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BHVN",
+      "events": 1,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BIIB",
+      "events": 3,
+      "date_min": "2026-07-31",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BKH",
+      "events": 1,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BKNG",
+      "events": 4,
+      "date_min": "2026-07-31",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BKR",
+      "events": 2,
+      "date_min": "2026-07-28",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BLDR",
+      "events": 2,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BMRN",
+      "events": 1,
+      "date_min": "2026-08-31",
+      "date_max": "2026-08-31",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BMY",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BOX",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BRO",
+      "events": 1,
+      "date_min": "2026-09-02",
+      "date_max": "2026-09-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BROS",
+      "events": 1,
+      "date_min": "2026-08-07",
+      "date_max": "2026-08-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BSX",
+      "events": 5,
+      "date_min": "2026-07-28",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BULL",
+      "events": 1,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BX",
+      "events": 3,
+      "date_min": "2026-07-24",
+      "date_max": "2026-09-23",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "BZ",
+      "events": 1,
+      "date_min": "2026-08-25",
+      "date_max": "2026-08-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "C",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CAKE",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CALM",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CARR",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CASY",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CAT",
+      "events": 1,
+      "date_min": "2026-07-29",
+      "date_max": "2026-07-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CBK",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CBNA",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CBRS",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CC",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CCC",
+      "events": 1,
+      "date_min": "2026-10-16",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CCEP",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CCI",
+      "events": 2,
+      "date_min": "2026-07-24",
+      "date_max": "2026-07-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CCL",
+      "events": 1,
+      "date_min": "2026-09-15",
+      "date_max": "2026-09-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CDNS",
+      "events": 1,
+      "date_min": "2026-07-28",
+      "date_max": "2026-07-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CERT",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CF",
+      "events": 1,
+      "date_min": "2026-08-07",
+      "date_max": "2026-08-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CHRW",
+      "events": 3,
+      "date_min": "2026-07-31",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CHTR",
+      "events": 3,
+      "date_min": "2026-07-13",
+      "date_max": "2026-07-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CHYM",
+      "events": 1,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CI",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CIEN",
+      "events": 5,
+      "date_min": "2026-09-03",
+      "date_max": "2026-09-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CIFR",
+      "events": 1,
+      "date_min": "2026-09-17",
+      "date_max": "2026-09-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CL",
+      "events": 3,
+      "date_min": "2026-08-03",
+      "date_max": "2026-09-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CLF",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CLH",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CLX",
+      "events": 2,
+      "date_min": "2026-07-28",
+      "date_max": "2026-08-04",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CMCSA",
+      "events": 4,
+      "date_min": "2026-07-13",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CNC",
+      "events": 2,
+      "date_min": "2026-07-29",
+      "date_max": "2026-08-03",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CNXC",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "COHR",
+      "events": 5,
+      "date_min": "2026-08-13",
+      "date_max": "2026-08-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "COIN",
+      "events": 10,
+      "date_min": "2026-07-17",
+      "date_max": "2026-10-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "COMP",
+      "events": 1,
+      "date_min": "2026-09-22",
+      "date_max": "2026-09-22",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "COO",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "COP",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "COR",
+      "events": 1,
+      "date_min": "2026-09-08",
+      "date_max": "2026-09-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CORZ",
+      "events": 2,
+      "date_min": "2026-07-29",
+      "date_max": "2026-07-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "COST",
+      "events": 17,
+      "date_min": "2026-09-17",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CPAY",
+      "events": 1,
+      "date_min": "2026-08-06",
+      "date_max": "2026-08-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CPRT",
+      "events": 1,
+      "date_min": "2026-09-14",
+      "date_max": "2026-09-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CPT",
+      "events": 1,
+      "date_min": "2026-09-25",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CRC",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CRCL",
+      "events": 1,
+      "date_min": "2026-08-03",
+      "date_max": "2026-08-03",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CRGY",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CRH",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CRL",
+      "events": 4,
+      "date_min": "2026-07-20",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CRM",
+      "events": 21,
+      "date_min": "2026-07-01",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CRSP",
+      "events": 2,
+      "date_min": "2026-07-30",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CRWD",
+      "events": 13,
+      "date_min": "2026-08-14",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CRWV",
+      "events": 2,
+      "date_min": "2026-07-22",
+      "date_max": "2026-09-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CSCO",
+      "events": 12,
+      "date_min": "2026-08-13",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CSGP",
+      "events": 3,
+      "date_min": "2026-07-29",
+      "date_max": "2026-07-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CSL",
+      "events": 1,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CSQR",
+      "events": 1,
+      "date_min": "2026-08-10",
+      "date_max": "2026-08-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CTAS",
+      "events": 1,
+      "date_min": "2026-07-16",
+      "date_max": "2026-07-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CTRE",
+      "events": 2,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CTSH",
+      "events": 3,
+      "date_min": "2026-07-24",
+      "date_max": "2026-07-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CTVA",
+      "events": 5,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CVCO",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CVNA",
+      "events": 1,
+      "date_min": "2026-07-20",
+      "date_max": "2026-07-20",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CVX",
+      "events": 18,
+      "date_min": "2026-05-26",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "CYTK",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "D",
+      "events": 1,
+      "date_min": "2026-08-19",
+      "date_max": "2026-08-19",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DAL",
+      "events": 4,
+      "date_min": "2026-09-14",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DASH",
+      "events": 3,
+      "date_min": "2026-08-10",
+      "date_max": "2026-09-03",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DAVE",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DC",
+      "events": 1,
+      "date_min": "2026-08-28",
+      "date_max": "2026-08-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DDOG",
+      "events": 1,
+      "date_min": "2026-07-21",
+      "date_max": "2026-07-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DE",
+      "events": 1,
+      "date_min": "2026-09-02",
+      "date_max": "2026-09-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DELL",
+      "events": 9,
+      "date_min": "2026-08-13",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DG",
+      "events": 4,
+      "date_min": "2026-08-28",
+      "date_max": "2026-09-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DGX",
+      "events": 1,
+      "date_min": "2026-07-24",
+      "date_max": "2026-07-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DHR",
+      "events": 1,
+      "date_min": "2026-09-09",
+      "date_max": "2026-09-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DINO",
+      "events": 2,
+      "date_min": "2026-07-29",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DIS",
+      "events": 12,
+      "date_min": "2026-03-31",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DKS",
+      "events": 1,
+      "date_min": "2026-08-26",
+      "date_max": "2026-08-26",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DLR",
+      "events": 1,
+      "date_min": "2026-07-24",
+      "date_max": "2026-07-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DLTR",
+      "events": 6,
+      "date_min": "2026-08-25",
+      "date_max": "2026-08-31",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DOV",
+      "events": 2,
+      "date_min": "2026-07-24",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DPZ",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DRI",
+      "events": 1,
+      "date_min": "2026-09-25",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DT",
+      "events": 2,
+      "date_min": "2026-08-25",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DTE",
+      "events": 1,
+      "date_min": "2026-09-28",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DTM",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DUOL",
+      "events": 1,
+      "date_min": "2026-09-01",
+      "date_max": "2026-09-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DVA",
+      "events": 1,
+      "date_min": "2026-08-07",
+      "date_max": "2026-08-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DXCM",
+      "events": 3,
+      "date_min": "2026-07-31",
+      "date_max": "2026-07-31",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "DYN",
+      "events": 2,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EBAY",
+      "events": 3,
+      "date_min": "2026-08-07",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ECHO",
+      "events": 1,
+      "date_min": "2026-09-08",
+      "date_max": "2026-09-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EFX",
+      "events": 2,
+      "date_min": "2026-07-22",
+      "date_max": "2026-08-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EH",
+      "events": 1,
+      "date_min": "2026-09-15",
+      "date_max": "2026-09-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EIX",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EL",
+      "events": 1,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ELV",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ELVN",
+      "events": 3,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EME",
+      "events": 1,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EMR",
+      "events": 1,
+      "date_min": "2026-09-25",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ENLT",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ENOV",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ENTG",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EOG",
+      "events": 9,
+      "date_min": "2026-08-03",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EOSE",
+      "events": 1,
+      "date_min": "2026-09-02",
+      "date_max": "2026-09-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EPAM",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EQH",
+      "events": 1,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ETN",
+      "events": 2,
+      "date_min": "2026-09-08",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ETSY",
+      "events": 1,
+      "date_min": "2026-08-17",
+      "date_max": "2026-08-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EVRG",
+      "events": 1,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EW",
+      "events": 1,
+      "date_min": "2026-07-21",
+      "date_max": "2026-07-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EXE",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EXPD",
+      "events": 2,
+      "date_min": "2026-09-30",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EXPE",
+      "events": 7,
+      "date_min": "2026-07-20",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "EXR",
+      "events": 2,
+      "date_min": "2026-07-29",
+      "date_max": "2026-08-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "F",
+      "events": 2,
+      "date_min": "2026-07-29",
+      "date_max": "2026-08-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FANG",
+      "events": 5,
+      "date_min": "2026-07-21",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FAST",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FCX",
+      "events": 1,
+      "date_min": "2026-09-04",
+      "date_max": "2026-09-04",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FDX",
+      "events": 2,
+      "date_min": "2026-08-28",
+      "date_max": "2026-09-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FDXF",
+      "events": 2,
+      "date_min": "2026-09-08",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FHTX",
+      "events": 2,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FIG",
+      "events": 2,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FIS",
+      "events": 2,
+      "date_min": "2026-08-05",
+      "date_max": "2026-08-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FISV",
+      "events": 2,
+      "date_min": "2026-07-22",
+      "date_max": "2026-08-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FLNC",
+      "events": 1,
+      "date_min": "2026-09-17",
+      "date_max": "2026-09-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FLUT",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FORM",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FOUR",
+      "events": 2,
+      "date_min": "2026-08-25",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FROG",
+      "events": 1,
+      "date_min": "2026-08-07",
+      "date_max": "2026-08-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FRPT",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FSLR",
+      "events": 3,
+      "date_min": "2026-07-20",
+      "date_max": "2026-08-11",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FTDR",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FTI",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FTNT",
+      "events": 2,
+      "date_min": "2026-07-30",
+      "date_max": "2026-07-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "FUN",
+      "events": 1,
+      "date_min": "2026-10-16",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GANX",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GAP",
+      "events": 3,
+      "date_min": "2026-08-07",
+      "date_max": "2026-08-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GDDY",
+      "events": 2,
+      "date_min": "2026-09-25",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GE",
+      "events": 6,
+      "date_min": "2026-07-20",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GEHC",
+      "events": 2,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GEMI",
+      "events": 1,
+      "date_min": "2026-07-28",
+      "date_max": "2026-07-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GEV",
+      "events": 3,
+      "date_min": "2026-07-22",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GHM",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GIC",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GKOS",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GLBE",
+      "events": 1,
+      "date_min": "2026-08-10",
+      "date_max": "2026-08-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GLW",
+      "events": 3,
+      "date_min": "2026-07-27",
+      "date_max": "2026-09-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GM",
+      "events": 2,
+      "date_min": "2026-07-22",
+      "date_max": "2026-07-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GNRC",
+      "events": 3,
+      "date_min": "2026-09-17",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GOOGL",
+      "events": 14,
+      "date_min": "2026-07-04",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GPK",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GPN",
+      "events": 2,
+      "date_min": "2026-07-20",
+      "date_max": "2026-08-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GS",
+      "events": 5,
+      "date_min": "2026-07-15",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GSHD",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "GWRE",
+      "events": 1,
+      "date_min": "2026-09-04",
+      "date_max": "2026-09-04",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HAL",
+      "events": 1,
+      "date_min": "2026-09-23",
+      "date_max": "2026-09-23",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HASI",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HBAN",
+      "events": 3,
+      "date_min": "2026-07-24",
+      "date_max": "2026-09-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HCA",
+      "events": 1,
+      "date_min": "2026-07-27",
+      "date_max": "2026-07-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HD",
+      "events": 4,
+      "date_min": "2026-09-10",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HE",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HEI",
+      "events": 1,
+      "date_min": "2026-09-14",
+      "date_max": "2026-09-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HIMS",
+      "events": 1,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HLMN",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HON",
+      "events": 2,
+      "date_min": "2026-07-28",
+      "date_max": "2026-08-19",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HONA",
+      "events": 3,
+      "date_min": "2026-08-19",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HOOD",
+      "events": 3,
+      "date_min": "2026-07-17",
+      "date_max": "2026-09-03",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HP",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HPE",
+      "events": 4,
+      "date_min": "2026-08-10",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HUBB",
+      "events": 1,
+      "date_min": "2026-08-21",
+      "date_max": "2026-08-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HUBG",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HUBS",
+      "events": 5,
+      "date_min": "2026-08-06",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HUM",
+      "events": 5,
+      "date_min": "2026-07-20",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HUN",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HUT",
+      "events": 1,
+      "date_min": "2026-07-20",
+      "date_max": "2026-07-20",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "HWM",
+      "events": 2,
+      "date_min": "2026-08-24",
+      "date_max": "2026-09-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IART",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IBE.MC",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IBKR",
+      "events": 1,
+      "date_min": "2026-09-01",
+      "date_max": "2026-09-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IBM",
+      "events": 14,
+      "date_min": "2026-06-24",
+      "date_max": "2026-10-15",
+      "local_price_rows": 6781
+    },
+    {
+      "ticker": "ICE",
+      "events": 1,
+      "date_min": "2026-09-01",
+      "date_max": "2026-09-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IDT",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IDXX",
+      "events": 1,
+      "date_min": "2026-09-18",
+      "date_max": "2026-09-18",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IDYA",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IEX",
+      "events": 2,
+      "date_min": "2026-08-12",
+      "date_max": "2026-08-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IMAX",
+      "events": 1,
+      "date_min": "2026-09-24",
+      "date_max": "2026-09-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IMNM",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "INCY",
+      "events": 2,
+      "date_min": "2026-07-28",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "INSE",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "INSM",
+      "events": 1,
+      "date_min": "2026-09-24",
+      "date_max": "2026-09-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "INTC",
+      "events": 16,
+      "date_min": "2026-06-11",
+      "date_max": "2026-09-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "INTU",
+      "events": 22,
+      "date_min": "2026-03-09",
+      "date_max": "2026-09-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "INVH",
+      "events": 1,
+      "date_min": "2026-09-21",
+      "date_max": "2026-09-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IONQ",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IOT",
+      "events": 2,
+      "date_min": "2026-09-04",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IP",
+      "events": 2,
+      "date_min": "2026-07-31",
+      "date_max": "2026-07-31",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IQV",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "IRM",
+      "events": 1,
+      "date_min": "2026-08-27",
+      "date_max": "2026-08-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ISRG",
+      "events": 5,
+      "date_min": "2026-07-18",
+      "date_max": "2026-08-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ITG",
+      "events": 1,
+      "date_min": "2026-07-27",
+      "date_max": "2026-07-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "JBHT",
+      "events": 4,
+      "date_min": "2026-08-19",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "JBL",
+      "events": 1,
+      "date_min": "2026-08-11",
+      "date_max": "2026-08-11",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "JBLU",
+      "events": 3,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "JCI",
+      "events": 1,
+      "date_min": "2026-09-25",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "JILL",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "JNJ",
+      "events": 8,
+      "date_min": "2026-07-17",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "JPM",
+      "events": 10,
+      "date_min": "2026-07-15",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KDP",
+      "events": 1,
+      "date_min": "2026-08-20",
+      "date_max": "2026-08-20",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KER.PA",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KLAC",
+      "events": 1,
+      "date_min": "2026-07-20",
+      "date_max": "2026-07-20",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KMI",
+      "events": 2,
+      "date_min": "2026-09-17",
+      "date_max": "2026-09-22",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KNTK",
+      "events": 1,
+      "date_min": "2026-07-29",
+      "date_max": "2026-07-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KO",
+      "events": 6,
+      "date_min": "2026-07-29",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KOD",
+      "events": 4,
+      "date_min": "2026-09-28",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KR",
+      "events": 3,
+      "date_min": "2026-09-04",
+      "date_max": "2026-09-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KRMN",
+      "events": 1,
+      "date_min": "2026-09-28",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KRRO",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KRUS",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KTOS",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KURA",
+      "events": 3,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "KYMR",
+      "events": 1,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LBRX",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LDOS",
+      "events": 2,
+      "date_min": "2026-09-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LECO",
+      "events": 1,
+      "date_min": "2026-08-10",
+      "date_max": "2026-08-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LEN",
+      "events": 2,
+      "date_min": "2026-09-14",
+      "date_max": "2026-09-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LENZ",
+      "events": 1,
+      "date_min": "2026-08-13",
+      "date_max": "2026-08-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LEVI",
+      "events": 4,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LIFE",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LIN",
+      "events": 16,
+      "date_min": "2026-02-20",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LITE",
+      "events": 5,
+      "date_min": "2026-08-12",
+      "date_max": "2026-09-23",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LLY",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LMT",
+      "events": 6,
+      "date_min": "2026-07-24",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LNSR",
+      "events": 1,
+      "date_min": "2026-09-28",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LNT",
+      "events": 2,
+      "date_min": "2026-08-27",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LQDA",
+      "events": 3,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LRCX",
+      "events": 5,
+      "date_min": "2026-07-21",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LTC",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LTH",
+      "events": 1,
+      "date_min": "2026-08-03",
+      "date_max": "2026-08-03",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LULU",
+      "events": 1,
+      "date_min": "2026-09-04",
+      "date_max": "2026-09-04",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LUV",
+      "events": 1,
+      "date_min": "2026-07-24",
+      "date_max": "2026-07-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LW",
+      "events": 1,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "LWAY",
+      "events": 2,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MA",
+      "events": 4,
+      "date_min": "2026-05-17",
+      "date_max": "2026-07-31",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MANH",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MARA",
+      "events": 3,
+      "date_min": "2026-08-13",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MATX",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MBX",
+      "events": 1,
+      "date_min": "2026-09-28",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MCD",
+      "events": 9,
+      "date_min": "2026-07-23",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MCK",
+      "events": 1,
+      "date_min": "2026-08-11",
+      "date_max": "2026-08-11",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MCO",
+      "events": 1,
+      "date_min": "2026-10-16",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MDB",
+      "events": 6,
+      "date_min": "2026-08-19",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MDT",
+      "events": 4,
+      "date_min": "2026-09-01",
+      "date_max": "2026-09-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MELI",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MET",
+      "events": 1,
+      "date_min": "2026-08-24",
+      "date_max": "2026-08-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "META",
+      "events": 42,
+      "date_min": "2026-07-10",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MFA",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MGEE",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MGNI",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MIRM",
+      "events": 3,
+      "date_min": "2026-09-28",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MITT",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MMED",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MNDY",
+      "events": 1,
+      "date_min": "2026-10-17",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MNST",
+      "events": 1,
+      "date_min": "2026-07-20",
+      "date_max": "2026-07-20",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MO",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MOS",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MPC",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MPLT",
+      "events": 1,
+      "date_min": "2026-07-27",
+      "date_max": "2026-07-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MRK",
+      "events": 15,
+      "date_min": "2026-07-29",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MRNA",
+      "events": 4,
+      "date_min": "2026-08-19",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MRVL",
+      "events": 12,
+      "date_min": "2026-08-12",
+      "date_max": "2026-10-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MS",
+      "events": 2,
+      "date_min": "2026-07-20",
+      "date_max": "2026-07-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MSFT",
+      "events": 43,
+      "date_min": "2026-06-01",
+      "date_max": "2026-10-18",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MSTR",
+      "events": 2,
+      "date_min": "2026-08-25",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MTB",
+      "events": 2,
+      "date_min": "2026-09-08",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MTN",
+      "events": 1,
+      "date_min": "2026-09-29",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MU",
+      "events": 11,
+      "date_min": "2026-08-18",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "MUR",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NAVN",
+      "events": 1,
+      "date_min": "2026-09-04",
+      "date_max": "2026-09-04",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NB",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NBIS",
+      "events": 6,
+      "date_min": "2026-07-23",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NCLH",
+      "events": 2,
+      "date_min": "2026-08-18",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NEE",
+      "events": 2,
+      "date_min": "2026-07-20",
+      "date_max": "2026-07-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NEM",
+      "events": 2,
+      "date_min": "2026-08-03",
+      "date_max": "2026-09-18",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NEXA",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NFLX",
+      "events": 21,
+      "date_min": "2026-05-17",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NGNE",
+      "events": 1,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NI",
+      "events": 1,
+      "date_min": "2026-08-26",
+      "date_max": "2026-08-26",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NKE",
+      "events": 17,
+      "date_min": "2026-09-21",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NOC",
+      "events": 4,
+      "date_min": "2026-07-22",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NOW",
+      "events": 6,
+      "date_min": "2026-07-20",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NRIX",
+      "events": 1,
+      "date_min": "2026-07-27",
+      "date_max": "2026-07-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NTAP",
+      "events": 2,
+      "date_min": "2026-09-03",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NTRS",
+      "events": 1,
+      "date_min": "2026-07-23",
+      "date_max": "2026-07-23",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NU",
+      "events": 1,
+      "date_min": "2026-09-28",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NUE",
+      "events": 1,
+      "date_min": "2026-07-29",
+      "date_max": "2026-07-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NVDA",
+      "events": 18,
+      "date_min": "2026-07-15",
+      "date_max": "2026-08-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NVT",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "NXPI",
+      "events": 2,
+      "date_min": "2026-07-29",
+      "date_max": "2026-10-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "O",
+      "events": 1,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OABI",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OC",
+      "events": 2,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ODFL",
+      "events": 2,
+      "date_min": "2026-09-04",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OIG",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OKE",
+      "events": 2,
+      "date_min": "2026-09-02",
+      "date_max": "2026-09-11",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OKLO",
+      "events": 2,
+      "date_min": "2026-09-28",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OKTA",
+      "events": 3,
+      "date_min": "2026-08-17",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OLED",
+      "events": 1,
+      "date_min": "2026-10-10",
+      "date_max": "2026-10-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ONON",
+      "events": 1,
+      "date_min": "2026-09-22",
+      "date_max": "2026-09-22",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OOMA",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OPFI",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ORCL",
+      "events": 15,
+      "date_min": "2026-06-09",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ORLY",
+      "events": 1,
+      "date_min": "2026-07-31",
+      "date_max": "2026-07-31",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OVV",
+      "events": 2,
+      "date_min": "2026-10-18",
+      "date_max": "2026-10-18",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "OXY",
+      "events": 2,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "P",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PANW",
+      "events": 13,
+      "date_min": "2026-08-18",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PATH",
+      "events": 1,
+      "date_min": "2026-09-04",
+      "date_max": "2026-09-04",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PAYP",
+      "events": 1,
+      "date_min": "2026-07-23",
+      "date_max": "2026-07-23",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PAYS",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PAYX",
+      "events": 2,
+      "date_min": "2026-09-24",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PBF",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PCG",
+      "events": 3,
+      "date_min": "2026-08-31",
+      "date_max": "2026-09-03",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PCRX",
+      "events": 1,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PCVX",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PD",
+      "events": 1,
+      "date_min": "2026-07-21",
+      "date_max": "2026-07-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PEG",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PENN",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PEP",
+      "events": 18,
+      "date_min": "2026-07-06",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PFE",
+      "events": 7,
+      "date_min": "2026-06-14",
+      "date_max": "2026-10-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PG",
+      "events": 5,
+      "date_min": "2026-07-16",
+      "date_max": "2026-10-18",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PGR",
+      "events": 3,
+      "date_min": "2026-07-24",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PH",
+      "events": 2,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PHM",
+      "events": 2,
+      "date_min": "2026-08-18",
+      "date_max": "2026-09-04",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PHR",
+      "events": 1,
+      "date_min": "2026-09-03",
+      "date_max": "2026-09-03",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PLTR",
+      "events": 7,
+      "date_min": "2026-08-04",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PM",
+      "events": 1,
+      "date_min": "2026-07-30",
+      "date_max": "2026-07-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PNC",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PODD",
+      "events": 2,
+      "date_min": "2026-08-06",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "POR",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PPL",
+      "events": 3,
+      "date_min": "2026-07-20",
+      "date_max": "2026-09-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PRLD",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PRME",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PRU",
+      "events": 1,
+      "date_min": "2026-09-17",
+      "date_max": "2026-09-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PS",
+      "events": 1,
+      "date_min": "2026-10-11",
+      "date_max": "2026-10-11",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PSKY",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PSX",
+      "events": 2,
+      "date_min": "2026-07-27",
+      "date_max": "2026-09-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PTC",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PTCT",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PTON",
+      "events": 1,
+      "date_min": "2026-09-08",
+      "date_max": "2026-09-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PVH",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PWR",
+      "events": 2,
+      "date_min": "2026-08-17",
+      "date_max": "2026-09-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "PYPL",
+      "events": 3,
+      "date_min": "2026-07-24",
+      "date_max": "2026-08-31",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "QCOM",
+      "events": 12,
+      "date_min": "2026-05-04",
+      "date_max": "2026-09-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "QNT",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "QTWO",
+      "events": 1,
+      "date_min": "2026-09-12",
+      "date_max": "2026-09-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "QXO",
+      "events": 2,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RACE.MI",
+      "events": 1,
+      "date_min": "2026-09-30",
+      "date_max": "2026-09-30",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RARE",
+      "events": 2,
+      "date_min": "2026-08-28",
+      "date_max": "2026-08-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RBLX",
+      "events": 2,
+      "date_min": "2026-09-28",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RBRK",
+      "events": 1,
+      "date_min": "2026-08-19",
+      "date_max": "2026-08-19",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RCKT",
+      "events": 1,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RCL",
+      "events": 3,
+      "date_min": "2026-09-23",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "REGN",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RF",
+      "events": 1,
+      "date_min": "2026-09-18",
+      "date_max": "2026-09-18",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RGEN",
+      "events": 1,
+      "date_min": "2026-09-29",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RGNX",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RIOT",
+      "events": 2,
+      "date_min": "2026-08-13",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RIVN",
+      "events": 1,
+      "date_min": "2026-08-02",
+      "date_max": "2026-08-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RKLB",
+      "events": 4,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RKT",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RMD",
+      "events": 3,
+      "date_min": "2026-08-31",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ROK",
+      "events": 1,
+      "date_min": "2026-08-21",
+      "date_max": "2026-08-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ROL",
+      "events": 1,
+      "date_min": "2026-07-24",
+      "date_max": "2026-07-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ROST",
+      "events": 1,
+      "date_min": "2026-08-21",
+      "date_max": "2026-08-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RPD",
+      "events": 1,
+      "date_min": "2026-07-21",
+      "date_max": "2026-07-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RPM",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RRC",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RTX",
+      "events": 4,
+      "date_min": "2026-07-24",
+      "date_max": "2026-08-03",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RWT",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RXO",
+      "events": 3,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "RYTM",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "S",
+      "events": 2,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SAIA",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SAIL",
+      "events": 2,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SBUX",
+      "events": 3,
+      "date_min": "2026-07-30",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SCHW",
+      "events": 5,
+      "date_min": "2026-07-20",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SEI",
+      "events": 1,
+      "date_min": "2026-08-03",
+      "date_max": "2026-08-03",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SG",
+      "events": 1,
+      "date_min": "2026-09-28",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SGMT",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SHOP",
+      "events": 2,
+      "date_min": "2026-09-13",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SHW",
+      "events": 4,
+      "date_min": "2026-07-28",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SKHY",
+      "events": 1,
+      "date_min": "2026-09-10",
+      "date_max": "2026-09-10",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SKYD",
+      "events": 1,
+      "date_min": "2026-10-16",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SLVM",
+      "events": 1,
+      "date_min": "2026-09-16",
+      "date_max": "2026-09-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SM",
+      "events": 1,
+      "date_min": "2026-08-13",
+      "date_max": "2026-08-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SMCI",
+      "events": 1,
+      "date_min": "2026-08-20",
+      "date_max": "2026-08-20",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SMG",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SMMT",
+      "events": 2,
+      "date_min": "2026-09-30",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SMTC",
+      "events": 4,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SNDK",
+      "events": 5,
+      "date_min": "2026-08-06",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SNOW",
+      "events": 4,
+      "date_min": "2026-07-29",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SNPS",
+      "events": 5,
+      "date_min": "2026-08-25",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SNX",
+      "events": 1,
+      "date_min": "2026-09-27",
+      "date_max": "2026-09-27",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SOFI",
+      "events": 2,
+      "date_min": "2026-08-28",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SPCX",
+      "events": 6,
+      "date_min": "2026-07-19",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SPGI",
+      "events": 2,
+      "date_min": "2026-09-02",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SPOT",
+      "events": 5,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "STAA",
+      "events": 3,
+      "date_min": "2026-09-29",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "STLAM.MI",
+      "events": 1,
+      "date_min": "2026-09-14",
+      "date_max": "2026-09-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "STUB",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "STX",
+      "events": 1,
+      "date_min": "2026-07-29",
+      "date_max": "2026-07-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "STZ",
+      "events": 7,
+      "date_min": "2026-09-17",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SUNB",
+      "events": 1,
+      "date_min": "2026-09-16",
+      "date_max": "2026-09-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SVC",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SVRA",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SWKS",
+      "events": 2,
+      "date_min": "2026-07-29",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SYK",
+      "events": 5,
+      "date_min": "2026-08-03",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SYNA",
+      "events": 1,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "SYY",
+      "events": 1,
+      "date_min": "2026-08-13",
+      "date_max": "2026-08-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "T",
+      "events": 5,
+      "date_min": "2026-07-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TCBX",
+      "events": 1,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TDG",
+      "events": 1,
+      "date_min": "2026-09-14",
+      "date_max": "2026-09-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TDY",
+      "events": 3,
+      "date_min": "2026-07-23",
+      "date_max": "2026-09-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TEL",
+      "events": 1,
+      "date_min": "2026-09-23",
+      "date_max": "2026-09-23",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TEM",
+      "events": 1,
+      "date_min": "2026-09-21",
+      "date_max": "2026-09-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TER",
+      "events": 1,
+      "date_min": "2026-08-21",
+      "date_max": "2026-08-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TEX",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TFIN",
+      "events": 2,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-02",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TH",
+      "events": 2,
+      "date_min": "2026-08-17",
+      "date_max": "2026-09-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TJX",
+      "events": 1,
+      "date_min": "2026-08-26",
+      "date_max": "2026-08-26",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TMO",
+      "events": 7,
+      "date_min": "2026-04-21",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TMUS",
+      "events": 4,
+      "date_min": "2026-07-13",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TNGX",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TPR",
+      "events": 1,
+      "date_min": "2026-09-08",
+      "date_max": "2026-09-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TREX",
+      "events": 1,
+      "date_min": "2026-10-08",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TRGP",
+      "events": 2,
+      "date_min": "2026-09-18",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TROW",
+      "events": 1,
+      "date_min": "2026-08-31",
+      "date_max": "2026-08-31",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TRVI",
+      "events": 1,
+      "date_min": "2026-10-07",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TSCO",
+      "events": 3,
+      "date_min": "2026-07-20",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TSLA",
+      "events": 11,
+      "date_min": "2026-06-05",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TT",
+      "events": 1,
+      "date_min": "2026-09-25",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TTAN",
+      "events": 2,
+      "date_min": "2026-10-02",
+      "date_max": "2026-10-07",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TXN",
+      "events": 12,
+      "date_min": "2026-05-28",
+      "date_max": "2026-07-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TXRH",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "TYL",
+      "events": 4,
+      "date_min": "2026-07-20",
+      "date_max": "2026-10-17",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "U",
+      "events": 2,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "UAL",
+      "events": 2,
+      "date_min": "2026-07-20",
+      "date_max": "2026-09-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "UBER",
+      "events": 5,
+      "date_min": "2026-08-05",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "UCTT",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "UHS",
+      "events": 1,
+      "date_min": "2026-07-29",
+      "date_max": "2026-07-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ULTA",
+      "events": 5,
+      "date_min": "2026-07-21",
+      "date_max": "2026-08-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "UNH",
+      "events": 16,
+      "date_min": "2026-06-05",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "UNIT",
+      "events": 1,
+      "date_min": "2026-09-29",
+      "date_max": "2026-09-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "UNP",
+      "events": 1,
+      "date_min": "2026-09-16",
+      "date_max": "2026-09-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "UPS",
+      "events": 5,
+      "date_min": "2026-07-21",
+      "date_max": "2026-09-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "UPST",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "URBN",
+      "events": 1,
+      "date_min": "2026-07-20",
+      "date_max": "2026-07-20",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "URI",
+      "events": 1,
+      "date_min": "2026-07-24",
+      "date_max": "2026-07-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "UTHR",
+      "events": 1,
+      "date_min": "2026-09-24",
+      "date_max": "2026-09-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "V",
+      "events": 6,
+      "date_min": "2026-03-23",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VEEV",
+      "events": 7,
+      "date_min": "2026-07-20",
+      "date_max": "2026-09-08",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VG",
+      "events": 1,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VIR",
+      "events": 2,
+      "date_min": "2026-09-28",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VLO",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VMC",
+      "events": 2,
+      "date_min": "2026-09-04",
+      "date_max": "2026-09-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VMRK",
+      "events": 1,
+      "date_min": "2026-08-21",
+      "date_max": "2026-08-21",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VNOM",
+      "events": 1,
+      "date_min": "2026-10-12",
+      "date_max": "2026-10-12",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VRNS",
+      "events": 3,
+      "date_min": "2026-10-16",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VRSK",
+      "events": 2,
+      "date_min": "2026-07-23",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VRT",
+      "events": 2,
+      "date_min": "2026-07-30",
+      "date_max": "2026-09-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VRTX",
+      "events": 4,
+      "date_min": "2026-08-10",
+      "date_max": "2026-09-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VST",
+      "events": 1,
+      "date_min": "2026-10-01",
+      "date_max": "2026-10-01",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VSTM",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VTEX",
+      "events": 1,
+      "date_min": "2026-08-28",
+      "date_max": "2026-08-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VVV",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VYLR",
+      "events": 1,
+      "date_min": "2026-10-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "VZ",
+      "events": 11,
+      "date_min": "2026-07-13",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WAT",
+      "events": 1,
+      "date_min": "2026-08-05",
+      "date_max": "2026-08-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WD",
+      "events": 1,
+      "date_min": "2026-10-16",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WDAY",
+      "events": 7,
+      "date_min": "2026-07-21",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WELL",
+      "events": 1,
+      "date_min": "2026-07-28",
+      "date_max": "2026-07-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WEN",
+      "events": 1,
+      "date_min": "2026-07-28",
+      "date_max": "2026-07-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WEST",
+      "events": 1,
+      "date_min": "2026-08-31",
+      "date_max": "2026-08-31",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WFC",
+      "events": 8,
+      "date_min": "2026-08-14",
+      "date_max": "2026-10-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WMT",
+      "events": 18,
+      "date_min": "2026-07-27",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WRD",
+      "events": 1,
+      "date_min": "2026-08-19",
+      "date_max": "2026-08-19",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WSC",
+      "events": 1,
+      "date_min": "2026-10-16",
+      "date_max": "2026-10-16",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WSM",
+      "events": 2,
+      "date_min": "2026-08-13",
+      "date_max": "2026-08-24",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WTFC",
+      "events": 1,
+      "date_min": "2026-10-13",
+      "date_max": "2026-10-13",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WWD",
+      "events": 1,
+      "date_min": "2026-09-14",
+      "date_max": "2026-09-14",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "WYNN",
+      "events": 1,
+      "date_min": "2026-07-28",
+      "date_max": "2026-07-28",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "XOM",
+      "events": 9,
+      "date_min": "2026-07-23",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "XPO",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "XYL",
+      "events": 1,
+      "date_min": "2026-07-29",
+      "date_max": "2026-07-29",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "YSS",
+      "events": 1,
+      "date_min": "2026-08-25",
+      "date_max": "2026-08-25",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ZETA",
+      "events": 3,
+      "date_min": "2026-10-09",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ZGN",
+      "events": 1,
+      "date_min": "2026-10-05",
+      "date_max": "2026-10-05",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ZION",
+      "events": 1,
+      "date_min": "2026-10-15",
+      "date_max": "2026-10-15",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ZLAB",
+      "events": 1,
+      "date_min": "2026-10-06",
+      "date_max": "2026-10-06",
+      "local_price_rows": 0
+    },
+    {
+      "ticker": "ZS",
+      "events": 4,
+      "date_min": "2026-09-23",
+      "date_max": "2026-10-09",
+      "local_price_rows": 0
+    }
+  ],
+  "backtest_run": false
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://dalsnafin.com/analysts/data.csv",
+  "fetched_at_utc": "2026-10-19T02:47:58.831470+00:00",
+  "raw_path": "data/raw/dalsna/2026-10-19-a732c9d468fe.csv",
+  "sha256": "a732c9d468fe3150b7a8e68efee4463c89679c7ecec9308d85e124f6086601a5",
+  "bytes": 574400,
+  "license": "CC-BY-4.0",
+  "raw_committed": true,
+  "http_status": 200,
+  "content_type": "text/csv; charset=utf-8",
+  "etag": "W/\"pzLJ1Gj-MVC3qOaO_uRGPIlnnH7\"",
+  "last_modified": null,
+  "provider": "Dalsna Finance",
+  "rows": 1735,
+  "license_url": "https://dalsnafin.com/analysts/methodology",
+  "attribution": "Dalsna Finance analyst price-target tracker, dalsnafin.com, CC BY 4.0",
+  "modifications": "CSV normalized; research rating mapping added; missing fields left empty."
+}

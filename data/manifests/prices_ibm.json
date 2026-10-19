@@ -1,0 +1,28 @@
+{
+  "source_url": "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=IBM&outputsize=full&apikey=demo",
+  "fetched_at_utc": "2026-10-19T02:47:59.310763+00:00",
+  "raw_path": ".local-data/raw/alpha_vantage/IBM.json",
+  "sha256": "034606c3b9c33e312228d624c019f6a5f70fe22787190a80d7cb71b8248e5721",
+  "bytes": 2318455,
+  "license": "Personal non-commercial research; no public redistribution grant verified",
+  "raw_committed": false,
+  "http_status": 200,
+  "content_type": "application/json",
+  "etag": null,
+  "last_modified": null,
+  "provider": "Alpha Vantage",
+  "ticker": "IBM",
+  "rows": 6781,
+  "date_min": "1999-11-01",
+  "date_max": "2026-10-16",
+  "terms_url": "https://www.alphavantage.co/terms_of_service/",
+  "documentation_url": "https://www.alphavantage.co/documentation/#dailyadj",
+  "metadata": {
+    "1. Information": "Daily Time Series with Splits and Dividend Events",
+    "2. Symbol": "IBM",
+    "3. Last Refreshed": "2026-10-16",
+    "4. Output Size": "Full size",
+    "5. Time Zone": "US/Eastern"
+  },
+  "public_price_rows_committed": 0
+}
