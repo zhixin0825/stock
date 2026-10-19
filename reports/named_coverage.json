@@ -1,0 +1,91 @@
+{
+  "scope": "AnaChart AAPL 100-row dated preview; aggregate inventory only; no market-wide coverage claim",
+  "attribution": "AnaChart, https://anachart.store/free-sample/; EODHD price coverage metadata only",
+  "raw_rows": 100,
+  "primary_events": 90,
+  "duplicate_rows_retained_and_flagged": 10,
+  "tickers": [
+    "AAPL"
+  ],
+  "publication_date_min": "2025-09-09",
+  "publication_date_max": "2026-04-14",
+  "named_analysts": 28,
+  "broker_ids": 25,
+  "raw_rows_with_name_rating_target": 84,
+  "primary_events_with_name_rating_target": 75,
+  "raw_rows_with_reported_target_change": 62,
+  "primary_events_with_reported_target_change": 55,
+  "primary_named_events_with_reported_target_change": 54,
+  "missing_primary_counts": {
+    "analyst_name": 1,
+    "broker_id": 3,
+    "rating_before": 34,
+    "rating_after": 9,
+    "target_before_adjusted": 26,
+    "target_after_adjusted": 7,
+    "target_after_nominal": 11,
+    "split_ratio": 4,
+    "source_url": 90,
+    "published_at_utc": 90,
+    "analyst_firm": 90,
+    "target_currency": 90
+  },
+  "primary_ratings_after_normalized": {
+    "Buy": 57,
+    "Unmapped": 9,
+    "Hold": 18,
+    "Sell": 6
+  },
+  "analyst_broker_groups_on_multiple_dates": 17,
+  "ambiguous_same_day_identity_groups": 9,
+  "observed_adjacent_date_pair_status_counts": {
+    "linked_observed_pair": 27,
+    "missing_target": 13,
+    "ambiguous_same_day": 9,
+    "prior_target_mismatch": 1
+  },
+  "complete_revision_histories_verified": 0,
+  "price_tickers": [
+    "AAPL"
+  ],
+  "price_rows": 449,
+  "price_date_min": "2025-01-02",
+  "price_date_max": "2026-10-16",
+  "corporate_action_rows": {
+    "splits": 0,
+    "dividends": 7
+  },
+  "primary_events_with_next_session": 90,
+  "primary_events_with_28_day_followup": 90,
+  "primary_event_close_comparisons": 90,
+  "primary_event_closes_matching_within_0_02_usd": 90,
+  "primary_event_close_mismatches": 0,
+  "distinct_event_dates_compared": 40,
+  "coverage_fractions": {
+    "named_over_primary_events": 0.9888888888888889,
+    "name_rating_target_over_primary_events": 0.8333333333333334,
+    "priced_tickers_over_sample_tickers": 1.0,
+    "next_session_over_primary_events": 1.0,
+    "28_day_followup_over_primary_events": 1.0
+  },
+  "outcome_columns_quarantined": [
+    "target_direction",
+    "target_met",
+    "date_met",
+    "days_to_hit"
+  ],
+  "public_analyst_rows": 0,
+  "public_price_rows": 0,
+  "historical_availability_verified": false,
+  "backtest_run": false,
+  "limitations": [
+    "No row-level article links or original brokerage wording",
+    "Names are vendor canonical identities, not independently verified",
+    "Same-day conflicts have no recoverable ordering",
+    "Observed target matches do not establish complete revision history",
+    "Date-only publication; current snapshot is not verified point-in-time",
+    "Only AAPL recent preview; selection bias",
+    "Vendor outcomes excluded from event inputs; no hit rate or returns computed",
+    "Calendar-window inventory does not prove every expected session is present"
+  ]
+}

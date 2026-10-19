@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "errors": [],
+  "raw_rows": 100,
+  "normalized_rows": 100,
+  "primary_events": 90,
+  "price_rows": 449,
+  "snapshot_replay_checks": 5,
+  "public_raw_rows": 0,
+  "backtest_run": false,
+  "checked_at_utc": "2026-10-19T03:26:59.116297+00:00",
+  "scope": "Structure and replay only; quality warnings remain in named_coverage.json"
+}

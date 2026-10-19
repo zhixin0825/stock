@@ -1,0 +1,31 @@
+{
+  "datasets": [
+    {
+      "name": "Dalsna",
+      "public_event_rows": 1735,
+      "named_person_rows": 0,
+      "coverage_report": "coverage_public.json"
+    },
+    {
+      "name": "AnaChart AAPL preview",
+      "local_source_rows": 100,
+      "local_primary_events": 90,
+      "public_event_rows": 0,
+      "coverage_report": "named_coverage.json"
+    }
+  ],
+  "price_datasets": [
+    {
+      "name": "Alpha Vantage IBM",
+      "local_rows_as_recorded_in_manifest": 6781,
+      "public_rows": 0
+    },
+    {
+      "name": "EODHD AAPL",
+      "local_rows": 449,
+      "public_rows": 0
+    }
+  ],
+  "datasets_deduplicated_against_each_other": false,
+  "backtest_run": false
+}

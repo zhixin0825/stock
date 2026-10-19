@@ -1,5 +1,13 @@
 # 資料授權及署名
 
+## 新增的具名樣本與 AAPL 日價
+
+**Analyst sample: AnaChart / VADJ Inc.** [免費樣本頁](https://anachart.store/free-sample/)明確提供內部測試與價格核對權限，[條款 §4](https://anachart.store/terms-of-service/)允許不重現原始記錄的彙總衍生分析。本專案僅公開程式、來源及統計；原始 CSV、正規化事件、供應商事後標籤、逐筆配對與接合全部留在 `.local-data/`。這份樣本沒有套用 Dalsna 的 CC BY 授權。
+
+**Daily prices: EODHD.** [官方 demo](https://eodhd.com/financial-apis/quick-start-with-our-financial-data-apis)供試用；[條款](https://eodhd.com/financial-apis/terms-conditions)允許私人非商業保存及分析，限制再分發與展示。AAPL 日價與股息／拆股原始及逐筆資料均不公開，manifest 及覆蓋報告不含市場價格。若用途不符合個人非商業範圍，需另取得適用授權。
+
+詳見 [新增樣本說明](docs/NAMED_SAMPLE.md)。
+
 ## 公開的 Dalsna 資料
 
 Data: **Dalsna Finance analyst price-target tracker**, [dalsnafin.com/analysts](https://dalsnafin.com/analysts)，存取日 2026-10-19，依 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 使用。
