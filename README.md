@@ -7,7 +7,7 @@
 - [完整选股流水线与BKNG事件复盘](docs/STOCK_SELECTION_PIPELINE.md)
 - [每次推荐的复核记录模板](docs/STOCK_REVIEW_TEMPLATE.md)
 - [仓库执行规则](AGENTS.md)
-- [100只机会观察池与维护方法](docs/WATCHLIST_100.md)、[逐股资料 CSV](data/watchlists/universe_100_20261022.csv)（2026-10-22，全部为观察，研究深度逐股记录）
+- [100只机会观察池与维护方法](docs/WATCHLIST_100.md)、[逐股资料 CSV](data/watchlists/universe_100_20261022.csv)（2026-10-22覆盖修订，现持个股必须在池内；新增资金资格与现持复核分开；研究深度逐股记录），[原成员备选留档](data/watchlists/reserve_20261022.csv)
 
 2026-10-19（Asia/Shanghai）。已取得真實來源樣本、建立可重現轉換並完成基本驗證；**尚未進行回測、相關性或到達時間研究**。目前仍未取得能公開再分發、包含個人分析師姓名與完整修訂歷史的資料。
 
@@ -95,3 +95,4 @@ python scripts/phase1.py report --with-private-prices
 下一階段需擴大具適當權利的具名樣本、取得原始報告時間與完整修訂歷史，以及更廣股票的價格。在計算 50%／75% 價差進度或四週報酬前，還需決定成交時點、交易日曆、拆股／股息尺度及截尾規則。名目目標價不可直接與今日回溯調整的股價比較。
 
 Data: [Dalsna Finance](https://dalsnafin.com/analysts), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。本專案加入欄位、評級映射及統計；不包含來源新聞全文或第三方市場價格的再授權。
+
