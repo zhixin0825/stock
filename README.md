@@ -7,6 +7,7 @@
 - [完整选股流水线与BKNG事件复盘](docs/STOCK_SELECTION_PIPELINE.md)
 - [每次推荐的复核记录模板](docs/STOCK_REVIEW_TEMPLATE.md)
 - [仓库执行规则](AGENTS.md)
+- [100只机会观察池与维护方法](docs/WATCHLIST_100.md)、[逐股资料 CSV](data/watchlists/universe_100_20261022.csv)（2026-10-22，全部为观察，研究深度逐股记录）
 
 2026-10-19（Asia/Shanghai）。已取得真實來源樣本、建立可重現轉換並完成基本驗證；**尚未進行回測、相關性或到達時間研究**。目前仍未取得能公開再分發、包含個人分析師姓名與完整修訂歷史的資料。
 
