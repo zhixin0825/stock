@@ -88,3 +88,16 @@ BRK.B与MSFT有经营盈利支持；AMZN需要优先完成现金投入回报复�
 - [DOV 11/2 8-K](https://www.sec.gov/Archives/edgar/data/29905/000119312526442782/d253912d8k.htm)、[MRK公司HIV会议通讯转载](https://finviz.com/news/412985/merck-to-present-new-data-from-its-broad-oral-hiv-portfolio-and-pipeline-at-hiv-glasgow-2026)、[ROP子公司发布稿](https://rss.globenewswire.com/news-release/2026/11/02/3393061/0/en/ai-innovation-takes-center-stage-at-powerplan-elevate-2026.html)
 
 本段没有提交、取消或修改任何订单；未声称掌握所有实时挂单或可支配资金。
+
+## 基金研究追加 OP-20261102-03（2026-11-02盘中）
+
+本段补充VITAX的基金层研究，不披露任何个人持有、账户、数量、余额或收益。研究基金不能只套用个股候选排名，应核成分、行业与全账户共同因子、估值时点和可执行产品范围。
+
+- 官方截至2026-09-30事实页显示，前十大持仓占63.7%；半导体38.1%加半导体设备5.5%，合计43.6%。这说明持有很多公司仍可能集中在同一行业及资本开支周期，不代表基金在11/2的实时权重完全相同。
+- 基金跟踪信息科技行业指数；费率0.09%，没有把基金本身视为新增流动性或运营危机。科技公司的实际盈利亦有支持，但不能由少数强公司推出整只行业基金在任何价格都适合作唯一配置。
+- 本轮不新增VITAX、不发布临时全额清仓或具体转换指令。中线配置方向为减少单一科技行业集中，以计划内可用的分散化基金承担核心配置；不是单因一天跌幅进行轮换。
+- 尚未取得雇主401(k)可选投资清单、适用份额、费用及计划层交易规则，故不假定VFIAX、VTSAX或VTIAX均可买，也不编造转换比例/份数。本轮未完成可执行替代基金比较。
+- VITAX为共同基金，不是ETF；按下一适用交易日收盘NAV成交，不能像股票下盘中限价单。Vanguard一般收盘截止规则不能代替具体雇主计划更早的截止或频繁交易限制；摘要招募书无基金赎回费不代表没有任何计划限制。
+- 来源：[Vanguard 2026-09-30事实页](https://workplace.vanguard.com/iippdf/pdfs/FS5487.pdf)、[基金摘要招募书](https://www.sec.gov/Archives/edgar/data/52848/000119312525325211/f43604d1.htm)、[Vanguard共同基金定价说明](https://investor.vanguard.com/investor-resources-education/online-trading/buying-selling-mutual-funds)。
+
+当次完整私人摘要须分别覆盖普通投资账户、Roth IRA及雇主401(k)；基金数据与账户余额日期不同、产品菜单未知时要单列，不能因已回答个股就漏掉基金执行结论。
