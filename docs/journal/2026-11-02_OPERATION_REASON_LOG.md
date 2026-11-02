@@ -52,3 +52,39 @@
 按对应美国交易日维护 `docs/journal/YYYY-MM-DD_OPERATION_REASON_LOG.md`。后续补充须标时间和新增证据，保留以上事前结论；不要用收盘后的解释覆盖原文。休市日按美国当地日期简记休市及是否出现需处理事件，不制造交易理由。没有改变就记录没有改变；连接或数据缺失要写明，不编造已经核查。
 
 后续结论变更必须分别写明：新事实、价格变化、模型纠错或用户约束；列旧结论、新结论、来源、影响和重算条件。每日记录本身不授权自动交易。
+
+## 盘中追加复核 OP-20261102-02（北京23:17）
+
+本段实际编写于北京2026-11-02 23:17（美国10:17 EST），不回填成晨报当时已知。与21:31事前记录及[晨报回溯补录](2026-11-02_MORNING_RESEARCH_BACKFILL.md)分开。私人账户与可见成交另核，公开版不含持有标识、账户、数量、成本、余额或执行记录。
+
+**当前研究执行约束不变：不提出新的换股或加仓限价方案；HII→AMP、DOX→ADBE继续暂停。** 本轮为开市后的增量事件和价格核查，不是新完成100只或全部现股的独立估值；待复核事项不能写成全部已通过持有标准。
+
+### 新增检查结果与正面依据
+
+| 研究对象 | 当前证据与新增资金判断 | 需要重算的条件 |
+| --- | --- | --- |
+| BRK.B | 已公布Q2经营利润提供真实经营基础；现金须扣保险及营运需要，未完成最新安全边际模型，暂不新增。Q3日期未取得公司正式确认，不采用第三方日期当事实。 | 承保、正常化经营利润、资本配置或估值出现实质变化 |
+| AMZN | Q3营业利润28.1bn、AWS收入增长39.3%支持继续研究；同季度CFO42.422bn减净现金capex75.878bn约负33.456bn，TTM公司FCF负42.357bn。资本投入回报是重点，暂不新增；不能仅凭负FCF机械推出出售。 | AWS增长/利润减速而投入继续扩大，现金改善路径变差或融资风险实质上升 |
+| MSFT | FY27Q1营业利润增长21%、Azure增长48%；同季度CFO58bn减现金capex39.367bn仍正18.633bn，不能混写为负。还需扣SBC及融资租赁本金；10/29已公告25bn债券、预计11/4交割，暂不新增。 | 云增长、资本开支/租赁义务和普通股现金的关系恶化 |
+| CVS | Q2有实际经营修复；原全年调整EPS7.90–8.10仅作估值参考，须保留准备金、SBC及现金质量核查。11/4 08:00 EST（北京21:00）电话会，财报前不新增。 | 医疗成本、会员定价、准备金质量、现金或新指引恶化 |
+
+BRK.B与MSFT有经营盈利支持；AMZN需要优先完成现金投入回报复核，CVS需取得新业绩验证。上述判断不等于授予在任何价格新增资金的资格。
+
+### 其他事件与候选的增量检查
+
+- 本轮针对REGN、INTU、SCHW、HII、BKNG、G、STRL、DOX、AXS、PRDO的快速检查未核到11/2新增、要求立即退出的公司级重大公告；这不是穷尽性无风险证明。STRL/JV及NCI、HII回款、G回收、AXS底层承保质量仍有独立待核项，不能靠股价上涨解除。
+- DOV完成原计划8亿欧元债券发行；MRK新增HIV研发/申请进展；ROP子公司发布产品回顾。尚未量化出足以改变换股判断的新增普通股盈利或现金。
+- HUBB、ROP、DOV、MRK、ORLY及AMP、ADBE的可得盘中快照多为纽约09:57–09:58，比本段时间滞后约19分钟；原价格条件未被证明提供更稳健升级。不据延迟行情发布精准成交指令。
+- 下一已核重要事件继续为：DOX/BKNG 11/3美国盘后，CVS 11/4早间电话会，G/PRDO 11/5盘后。事件日并不自动触发买卖，需按实际新资料重算。
+
+### 与早先结论的变化及来源
+
+本轮没有新增换股结论。价格上涨/下跌及新增产品或融资消息没有代替现金、估值及同额比较。没有重新引入固定2.5%磨损，也没有为了维持不交易而认定所有现股最优。
+
+- [AMZN Q3官方SEC业绩](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm)
+- [MSFT FY27Q1官方业绩](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast)、[10-Q](https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm)、[10/29债券公告](https://news.microsoft.com/source/2026/10/29/microsoft-announces-debt-offerings-7)
+- [BRK官方Q2](https://www.berkshirehathaway.com/news/aug0826.pdf)、[官方新闻目录](https://berkshirehathaway.com/news/2026news.html)
+- [CVS Q2官方业绩](https://investors.cvshealth.com/news/news-details/2026/CVS-HEALTH-CORPORATION-REPORTS-STRONG-SECOND-QUARTER-2026-RESULTS-AND-RAISES-FULL-YEAR-2026-GUIDANCE/)、[11/4官方电话会日程](https://www.cvshealth.com/news/company-news/cvs-health-to-hold-third-quarter-2026-earnings-conference-call.html)
+- [DOV 11/2 8-K](https://www.sec.gov/Archives/edgar/data/29905/000119312526442782/d253912d8k.htm)、[MRK公司HIV会议通讯转载](https://finviz.com/news/412985/merck-to-present-new-data-from-its-broad-oral-hiv-portfolio-and-pipeline-at-hiv-glasgow-2026)、[ROP子公司发布稿](https://rss.globenewswire.com/news-release/2026/11/02/3393061/0/en/ai-innovation-takes-center-stage-at-powerplan-elevate-2026.html)
+
+本段没有提交、取消或修改任何订单；未声称掌握所有实时挂单或可支配资金。
