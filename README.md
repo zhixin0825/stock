@@ -13,7 +13,8 @@
 - [每次推荐的复核记录模板](docs/STOCK_REVIEW_TEMPLATE.md)
 - [仓库执行规则](AGENTS.md)
 - [投资日志与因果归因模板](docs/INVESTMENT_JOURNAL_TEMPLATE.md)、[2026-10-22事件证据复盘](docs/journal/2026-10-22_CAUSAL_EVIDENCE_REVIEW.md)
-- [100只机会观察池与维护方法](docs/WATCHLIST_100.md)、[逐股资料 CSV](data/watchlists/universe_100_20261022.csv)（2026-10-22覆盖修订，现持个股必须在池内；新增资金资格与现持复核分开；研究深度逐股记录），[原成员备选留档](data/watchlists/reserve_20261022.csv)
+- [100只机会观察池与维护方法](docs/WATCHLIST_100.md)、[逐股资料 CSV](data/watchlists/universe_100_20261022.csv)（2026-11-02已回补100只行情与定向事件／公开评级，现持个股必须在池内；新增资金资格与现持复核分开；研究深度逐股记录），[原成员备选留档](data/watchlists/reserve_20261022.csv)
+- [2026-11-02晨报回溯补录：100股逐项走势、新闻、分析师与候选更新](docs/journal/2026-11-02_MORNING_RESEARCH_BACKFILL.md)（资料截止北京08:00；实际于当日晚间补做，不冒充事前报告）
 
 2026-10-19（Asia/Shanghai）。已取得真實來源樣本、建立可重現轉換並完成基本驗證；**尚未進行回測、相關性或到達時間研究**。目前仍未取得能公開再分發、包含個人分析師姓名與完整修訂歷史的資料。
 
