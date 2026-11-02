@@ -2,6 +2,11 @@
 
 ## 选股与换股规则
 
+2026-11-02：已将早期选股经验与后期标准漂移写入现行规范。固定“现有盈利、真实业务、归属股东现金、价格、全账户分散”的证据要求；新旧股票同尺度比较，取消固定2.5%磨损预扣。完整初始9只及同期间绩效尚未核齐，不宣称已证明整组成功。
+
+- [现行选股标准与执行流程](docs/STOCK_SELECTION_PIPELINE.md)
+- [早期研究经验、成功机制假说与后期失误复盘](docs/journal/2026-11-02_EARLY_SELECTION_LESSONS.md)
+
 2026-10-21（Asia/Shanghai）新增执行规范。进行具体选股或持仓建议前，先完成重大新闻准入审查，再比较盈利、估值与机会成本；关键项未完成时允许零推荐。
 
 - [完整选股流水线与BKNG事件复盘](docs/STOCK_SELECTION_PIPELINE.md)
@@ -96,5 +101,6 @@ python scripts/phase1.py report --with-private-prices
 下一階段需擴大具適當權利的具名樣本、取得原始報告時間與完整修訂歷史，以及更廣股票的價格。在計算 50%／75% 價差進度或四週報酬前，還需決定成交時點、交易日曆、拆股／股息尺度及截尾規則。名目目標價不可直接與今日回溯調整的股價比較。
 
 Data: [Dalsna Finance](https://dalsnafin.com/analysts), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。本專案加入欄位、評級映射及統計；不包含來源新聞全文或第三方市場價格的再授權。
+
 
 
