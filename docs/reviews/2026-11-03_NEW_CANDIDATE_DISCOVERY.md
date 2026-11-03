@@ -95,3 +95,9 @@ ESAB的律师声明不当无争议终局，公司正式法律原文/新结果未
 来源：[LDOS公司演示PDF](https://investors.leidos.com/static-files/ade41677-bfbb-4231-904d-073cf9b92a05)；[CACI公司公告](https://www.prnewswire.com/news-releases/caci-advances-us-air-force-financial-transparency-and-mission-readiness-302926761.html)；六只带时间行情与新闻均见各自StockAnalysis页面。报价为不同步的第三方盘前快照，延迟、价差和流动性未独立验证，不能直接据此发限价单。本次补读LDOS先前已公布资料，不改写成22点新公告。
 
 正式100只成员未调整，不将六个新研究对象当作正式成员新增。未完成换股比较不证明现有覆盖对象全部通过。
+
+## 23:44北京追加：LDOS税款现金因素实质推进
+
+LDOS本轮补读9M所得税应收/应付给CFO正贡献239m、去年-65m；1423m指定扣项代理若剔该正贡献为1184m，仅敏感度，不能当最终正常化或直接年化。剥离/税款/Health持续盈利与BKNG同额优势未闭合；仍不升级新增买入。
+
+来源：[公司Q3现金表](https://investors.leidos.com/news-releases/news-release-details/leidos-delivers-strong-third-quarter-and-enhances-full-year)。公开资料读取补核，不声称公司此时发布了新公告。最新取得136.09美元为10:26:35 EST常规盘旧成交快照，读取约23:42北京，约15分钟延迟且无实时bid/ask。与HII的政府预算/采购共同风险保留。新池外成员不加入正式100，其他13项本次未重新深审。研究优先不等于当前买入；主方案减仓所得现金不变。
