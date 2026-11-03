@@ -179,3 +179,22 @@ BKNG已在本池，2026年10月21日歐盟正式DSA程序仍凍結新增或加�
 本轮成员不调整，仍100个唯一代码。已更新100行当前走势/事件/评级及复核状态；VRTX、FANG新季报替换旧“待公布”，MSFT租赁扣项、REGN已收一次付款、STRL循环额度、ORLY季度现金反方及跨来源冲突均保留。池外检查延续APH与留档PH，并新增核AAPL/PLTR盘后原始业绩；未完成与现池较弱成员的同尺度估值，暂不因高增长或单日涨跌换名额。
 
 [本轮完整100股收盘日志](journal/2026-11-02_OPERATION_REASON_LOG.md#收盘后补做复盘-op-20261102-04)含逐项来源、已核新资料及未完成项。旧晨报补录继续保留，不把它重标为本轮收盘成果。
+
+
+## 晚间增量维护 EV-20261103-01（2026-11-03 20:01北京）
+
+对应美国11/3盘前。本段追加，保留晨间原判断及来源日期。新字段以CSV的evening_*列区分，不把旧资料改日期当新研究。全池昨收重新读取100/100（与11/2锚一致）、盘前快照96/100（G、DFIN、R、OSIS未取得）、聚合新闻/公开评级索引基础阅读100/100。新增或补录实质资料核实5/100，完整现金归一化/估值/指定替换深度比较本轮新完成0/100；全部代码该深度仍未完成，状态逐行保留。聚合标题不等于已核公司事实，精确报价延迟、价差与完整券商原研报未核。
+
+[完整晚间方案、覆盖表及变更台账](reviews/2026-11-03_EVENING_OPERATION_PLAN.md)；[现行逐股CSV](../data/watchlists/universe_100_20261022.csv)。本轮零新增可执行买入，旧配对不自动恢复；这不证明现股全部合格。
+
+|代码|本轮已核资料更新|资格及下一验证|
+|---|---|---|
+|ORCL|新增原始公告：11/2 22:09 EST已定价约8621万股、每股116美元及100亿美元票据；票息7%–8.65%，预期11/4交割，尚非已到账。相对晨间20:00EST截止新增定价事实；稀释、利息与capex现金回报须重算。 [来源](https://www.prnewswire.com/news-releases/oracle-announces-pricing-of-20-billion-of-common-stock-and-senior-notes-302927244.html)|未升级新增资格；核FY27–28项目交付、预付款/客户硬件/供应商融资与资本开支匹配；下一财报公司未确认，12/14仅第三方估计。 本轮追加：11/4核两项融资分别是否交割、实际净额、稀释、利息及AI资本开支现金回报。|
+|HII|11/3公司与Thales公布无人水雷对抗全流程演示；技术进展不是披露新增量化合同、利润或回款，Q4现金兑现门槛不变。 [来源](https://www.hii.com/news/hii-and-thales-successfully-demonstrate-expeditionary-pathmasters-ability-to-deliver-an-end-to-end-autonomous-mine-countermeasure-mission)|未升级新增资格；跟踪Q4里程碑账单与现金；9M CFO99m、公司FCF−182m，达全年500–600m需Q4约682–782m；合同净资产1.345bn较年初0.538bn上升及EAC盈利须继续拆。|
+|REGN|补录11/2 16:05 ET公司投资者会议安排：11/17 09:00 ET Jefferies，12/1及12/2另有会议；该公告在晨间截止前已可得但未写入原next_check，属于遗漏补录而非新的盈利上修。 [来源](https://www.globenewswire.com/news-release/2026/11/02/3393740/0/en/regeneron-announces-investor-conference-presentations.html)|未升级新增资格；核Sanofi应收款回款、EYLEA合计下滑及后续研发费用；下一季官方财报日未确认。 本轮下一验证：用最新估值与独立股东现金重算；EYLEA+HD全球合计−11%仍需跟踪，不将连续上涨作为加仓依据。 本轮补录：11/17 09:00 ET Jefferies，12/1 13:45 ET及12/2 09:40 ET投资者会议。|
+|MRK|11/3公开转述DZ Bank Elmar Kraus将Buy降至Hold，目标153；公司盈利未因此被改写。原研报及动作精确发布时间未取得；不同平台Cantor评级/目标存在冲突，保留原记录不混算。 [来源](https://www.tipranks.com/news/the-fly/merck-downgraded-to-hold-from-buy-at-dz-bank-thefly-news)|未升级新增资格；核QLEX/Winrevair现金、管线节点与收购现金/债务；未来正式财报日期未核到。 本轮下一验证：11/8–11/11会议资料及IDVYNSO补充申请2027/4/22目标日期；仍先核Keytruda集中度和并购后股东现金。|
+|DOV|补读10/30原始债券回购安排：上限由2.3亿升3亿美元，截止11/5 17:00纽约、预计11/9结算；这是旧事实补录，融资与债务回购不当新增经营利润。 [来源](https://www.globenewswire.com/news-release/2026/10/30/3392597/0/en/dover-announces-upsize-of-its-tender-cap-and-extension-of-expiration-date-of-previously-announced-offer-to-purchase-for-cash-certain-of-its-outstanding-debt-securities.html)|未升级新增资格；跟踪债券所得、旧债回购与融资后利息；复核Q3后普通股现金、2027积压交付与估值。 补录10/30原公告：11/5 17:00纽约回购截止、预计11/9结算。|
+
+研究Top5顺序维持HUBB、ROP、DOV、MRK、ORLY，均非今晚买单；HUBB/ROP盘前更高没有增加安全边际，MRK新增降级纳入反方。ETN索引出现新业绩线索，但本轮未完成原始结果/现金表核实，不能以标题数字升级资格。完整旧事件/风险不因本轮索引没有新条目而解除。
+
+本轮没有实际调整成员，仍100个唯一代码并覆盖私人已核个股集合，基金另列且不公开私人标记。已检查备选PH和池外APH/AAPL/PLTR新闻索引，但未完成与拟移出对象的同尺度估值，尚不足以判断是否应调整成员。原备选档及旧风险继续保留，不宣称名单已经最优。公开仅派生盘前变化/时间及研究摘录，不批量镜像盘前原始报价。
