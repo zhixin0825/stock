@@ -101,3 +101,11 @@ ESAB的律师声明不当无争议终局，公司正式法律原文/新结果未
 LDOS本轮补读9M所得税应收/应付给CFO正贡献239m、去年-65m；1423m指定扣项代理若剔该正贡献为1184m，仅敏感度，不能当最终正常化或直接年化。剥离/税款/Health持续盈利与BKNG同额优势未闭合；仍不升级新增买入。
 
 来源：[公司Q3现金表](https://investors.leidos.com/news-releases/news-release-details/leidos-delivers-strong-third-quarter-and-enhances-full-year)。公开资料读取补核，不声称公司此时发布了新公告。最新取得136.09美元为10:26:35 EST常规盘旧成交快照，读取约23:42北京，约15分钟延迟且无实时bid/ask。与HII的政府预算/采购共同风险保留。新池外成员不加入正式100，其他13项本次未重新深审。研究优先不等于当前买入；主方案减仓所得现金不变。
+
+## 11/4 00:24北京：LDOS/HCA对BKNG指定比较完成到当次决策范围
+
+[统一同额一年模型、全部现金桥和反方](2026-11-03_EVENING_OPERATION_PLAN.md)已按时间追加，不把20:53的“尚未完成”倒写。LDOS持续现金研究范围1.1–1.6bn，中点1.35，约140价下7.65%yield；HCA用TTM和跨窗税款归一后5.4–6.2bn、中点5.7，约468价5.6%yield。BKNG约7.1%yield，同额10000基准终值11244；LDOS假设增长0%为10765，HCA增长4%为10983，均固定各自倍数、年现金按C1只计一次，非收益预测。共同压力和零增长另列在主文，不靠提高候选PE制造优势。
+
+LDOS新增核融资租赁本金与SES 41.5%权益/Altaris控制，保留税款与Health范围；HCA补回TTM额外承担的2025递延税补缴约1.3bn、NCI利润/分配及租赁，避免9M机械年化。另补录[11/2公司拟发票据稿](https://investor.hcahealthcare.com/news/news-details/2026/HCA-Announces-Proposed-Public-Offering-of-Senior-Notes-cecc9a412/default.aspx)，不能仅停在10/30旧转述；尚未核定价/到账，不是经营现金改善。
+
+本次两只完成的是带假设边界的当前相对配置决策，不称14只全部正常化或完整DCF。两只均不放行对BKNG买入，其余12条本轮未深重审；首次发现和旧研究字段保留，池外CSV增加direct_bkng列。正式100成员不调整。卖出必须配合买入，独立卖出留现金已撤回；没有合格配对不先卖，也不把本次结论外推为全池没有更好公司。
