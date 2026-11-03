@@ -1359,3 +1359,15 @@ AAPL/PLTR盘后材料只用于后续风险和池外观察，不能解释此前�
 - [VBTLX官方摘要招募书](https://www.sec.gov/Archives/edgar/data/794105/000079410526000113/f44825d1.htm)
 - [VFFVX 9/30官方事实页](https://workplace.vanguard.com/iippdf/pdfs/FS1487.pdf)
 - [Vanguard雇主计划余额转换说明](https://retirementplans.vanguard.com/web/pdf/pdf/WrittenExchangeRequestT38104.pdf)
+
+
+## 基金转换时点复核 OP-20261102-06
+
+实际记录：2026-11-03T04:36:46.285Z（UTC；北京时间加8小时）。本段解释OP-05分散方案的执行时点，配置目标与证据标准不变；公开版不含私人比例、金额或交易状态。
+
+当前研究建议可以推进以降低单行业集中的基金转换，不把“先反弹到某价”作为必要条件。现有证据未支持转出基金在等待期间必定跑赢目标组合；等待的交换价值应比较两端相对回报，而不是只看转出基金绝对是否上涨。已发生的价格回撤、之后的风险敞口及交易成本分别处理。科技若短期强劲反弹，较分散的组合也可能落后行业基金，这属于明确的取舍，不能承诺转换立刻带来更高收益。
+
+操作采用计划内现有余额转换/重配。历史NAV仅作参考，不锁定为成交价；应按计划确认页列出的卖出/买入生效日、适用NAV、截止及交易限制执行。Vanguard一般说明：截止前受理对应当日NAV、收市后受理通常对应下一交易日NAV；这不是对具体雇主计划截止或两端同日成交的保证。
+
+- [Vanguard共同基金定价说明](https://investor.vanguard.com/investor-resources-education/online-trading/buying-selling-mutual-funds)
+- [雇主计划基金转换与现有余额重配说明](https://retirementplans.vanguard.com/web/pdf/pdf/WrittenExchangeRequestT38104.pdf)
