@@ -41,7 +41,7 @@
 
 INTU官方FY27 GAAP EPS20.12–20.36与持续业务增长支持其作为比较端；[原始业绩稿](https://investors.intuit.com/sec-filings/all-sec-filings/content/0000896878-26-000029/fy26q4earningspressrelease.htm)同时说明FY27非GAAP开始保留SBC，聚合前瞻EPS/PE不能与旧非GAAP口径直接同比。独立现金4882–6161m历史正常化范围、Sequence对价/资金、贷款与税款缺口沿用午间原始桥，不将EPS乘转换率称现金验证。最强反方为DIY份额/AI竞争、Mailchimp、并购和估值倍数压缩；INTU只需合理小幅倍数压缩即可与SCHW中情景打平，不能保证收益更高。
 
-DOX最强正面反方为其他客户增长、AT&T八年协议及争议解决的现金恢复。**纠正任务文字/可能引起误解的概括：相互违约通知发生在Amdocs与T-Mobile之间；不是AT&T和T-Mobile都与公司发生相同争议。** [AT&T原始公告](https://about.att.com/story/2026/att-amdocs-expand-collaboration.html)确认八年协议；[公司原始结果索引](https://investors.amdocs.com/node/18296)及[原始镜像索引](https://amdocslimited.gcs-web.com/news-releases/news-release-details/fourth-quarter-results-fiscal-2026)把FY27逆风指向T-Mobile争议、USCellular整合完成和可选支出缩减。正文直取失败，未作全文审计。新增合作未披露金额，不能假设抵消全部缺口；FY27公司FCF440–500m不能直接视为扣完SBC/NCI/持续重组后的普通股现金。
+DOX最强正面反方为其他客户增长、AT&T八年协议及争议解决的现金恢复。**事实边界：相互违约通知发生在Amdocs与T-Mobile之间；公告的“双方”指这两个争议主体，不能误读为AT&T和T-Mobile两个客户都发生相同争议。** [AT&T原始公告](https://about.att.com/story/2026/att-amdocs-expand-collaboration.html)确认八年协议；[公司原始结果索引](https://investors.amdocs.com/node/18296)及[原始镜像索引](https://amdocslimited.gcs-web.com/news-releases/news-release-details/fourth-quarter-results-fiscal-2026)把FY27逆风指向T-Mobile争议、USCellular整合完成和可选支出缩减。正文直取失败，未作全文审计。新增合作未披露金额，不能假设抵消全部缺口；FY27公司FCF440–500m不能直接视为扣完SBC/NCI/持续重组后的普通股现金。
 
 新公告、DOX现金/争议结果、INTU并购/贷款/税现变化或两端价格偏离研究区间均重算整对；限价不保证成交。未知税费保留未知，非固定2.5%或假定零。持续现金及下行假设的小幅变化可改变排序。
 
