@@ -339,3 +339,16 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 |VRSK|旧线索；公司正式确认 11/5 盘前|业绩尚未纳入；交易与现金模型缺项保留。|待实报、收购进展和估值。|
 
 现行成员仍 100 个唯一代码，与现行 CSV 链接一致。两只新池外线索和旧备选均保留，独立估值与成员替换证据不足，暂无调整。研究优先和即时新增名单分开，当前未放行新增。
+
+## 北京 2026-11-05 20 时段：盘前资料与池外台账
+
+[晚间方案](reviews/2026-11-05_EVENING_OPERATION_PLAN.md)及[现行逐股 CSV](../data/watchlists/universe_100_20261022.csv)已追加本轮资料。原170列逐格保留，新增 preopen_20261105_* 九列；仍为100个唯一代码。100只重新读取常规终点与新闻头部，盘前98只（缺 DFIN、R），具名日期表99只另 PRDO 替代源冲突。本轮19只定向更新、完整全新估值0只。增补事实与资格分开：STRL 许可、回款情景未解除；G/PRDO 等财报；BKNG 监管现金及配对待核；QCOM、CSCO 新具名评级已入逐股表。DUK 季报索引已见，原文现金回报待核；ZTS、FAST 结果缺项保留。
+
+|对象|日期与变化|估值和下一点|
+|---|---|---|
+|MUR，新线索|11/5 公司三季度经营现金上升；9M 扣资本支出、非现金薪酬与少数权益分派的代理约 122.5m。|现阶段不进新增队列，核油价敏感度、维持资本、退役义务与债务。[发行人稿转载](https://www.stocktitan.net/news/MUR/murphy-oil-corporation-announces-third-quarter-wsmnty9rbhw2.html)|
+|FIS，旧线索实质推进|11/4 财报的9M现金扣资本开支和SBC约1,238m，分开测试477m处置现金税。|保留观察；核整合、净债与强制还款。[原文](https://www.investor.fisglobal.com/news-releases/news-release-details/fis-reports-third-quarter-2026-results)|
+|CI，旧线索实质推进|11/5 原报确认GAAP EPS下降而调整利润指引上修。|独立可分配现金待核；看医疗准备金、PBM与监管资本。[原文](https://newsroom.thecignagroup.com/2026-11-05-The-Cigna-Group-Reports-Strong-Third-Quarter-2026-Results,-Raises-2026-Outlook)|
+|VRSK，旧线索待补|未取得当轮结果正文，AccuLynx 阶段继续查。|维持观察，旧估值不作为盘前买入依据。|
+
+本轮正式成员不变，盘前基础覆盖与池外现金初筛仍不足以支持指定成员替换。即时新增名单为空。原备选、风险及早先结论留档。
