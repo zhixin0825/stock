@@ -68,3 +68,31 @@ VITAX 半导体设备与大型科技集中，VINIX 含部分相同成分，VBTLX
 ### 发布前复核追加
 
 美东 07:00 同分钟快照 STRL 278.96、SCHW 94.65、G 41.05；PRDO 仍只见 04:02 的 27.00。以更新的 SCHW 94.65，固定锚基准约 +5.95% 至 +10.70%，零增长约 −3.56%，双压约 −38.47%；G 静态归属现金收益近似不变。没有改变零新增、零换股。11/6、11/9 均为下一正常交易日。11/9 开盘前复查周末 BRK.B 财报和任何许可更新；未核得新增 STRL 公司定时事件。[行情](https://stockanalysis.com/stocks/schw/) · [EOG 官方日程](https://investors.eogresources.com/) · [VST 公司日程](https://investor.vistracorp.com/2026-09-29-Vistra-to-Report-Third-Quarter-Results-on-Nov-6,-2026)
+
+
+## 2026-11-05 20:22 北京：用闲置现金等估值达标的当日限价
+
+本段是对前面「现价零新增、零换股」的定向补充，保留原判断。新增考虑的是既有现金、较低买入估值与分散化机会，仍按五项标准审查。没有用新价格解除 STRL、BKNG 的事件冻结，也未将此前替换研究价当成有效挂单。
+
+|对象|11/4 美东常规收盘|11/5 盘前最后取得成交|本轮当日限价研究判定|
+|---|---:|---|---|
+|SCHW|93.37|94.65，美东 07:00／北京 20:00|仅在 86.00 或以下、业务和资本前提仍成立时，允许以现金小额配置|
+|VXUS|83.88|83.85，美东 07:05／北京 20:05|有长期非美股分散需求且允许 ETF 的组合，80.00 或以下可分批配置|
+
+报价于北京 20:22 复核。它们是不同步的盘前成交快照，数据延迟、当时买卖价差和可成交深度未独立确认。限价由估值推得，不依赖快照能成交。[SCHW 行情](https://stockanalysis.com/stocks/schw/) · [VXUS 行情](https://stockanalysis.com/etf/vxus/)
+
+### SCHW：补足价格余量才开放条件新增
+
+公司 Q3 核心净新增资产 190.4bn、同比 +38%，营收 +17%，GAAP EPS 1.62，支持盈利增长情景。含 AOCI 调整后资本 34.393bn 对平均资产 491.841bn 约 7.0%，在目标上沿基本没有可立即释放的额外资本。FY25 母公司实际收取银行及非银行子公司股息 8.065bn 和 5.115bn，证明现金上缴渠道存在。资本模型先保留新增资产所需的监管资本，不把存量资本或归母利润直接当作可派现金。未核到使这项定向研究失效的新公司公告，未解除的一般性风险是存款迁移、净息差、批发融资及证券组合。[公司 Q3 原表](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm) · [资本目标](https://www.sec.gov/Archives/edgar/data/316709/000031670926000031/schw-20260630.htm) · [母公司现金报表](https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm)
+
+承接[11/4 晚间资本模型](2026-11-04_EVENING_OPERATION_PLAN.md)，利润增 10%、监管资产增 5%–8% 的研究情景首年资本留存后现金容量约 8.53–9.56bn。以 1.733bn 研究股数及 86 计为约 5.7%–6.4% 的经济现金容量，实际普通股派现仅按最近季度 0.32 年化为 1.28 的情景。10% 折现下该资本模型每股约 93.55–96.99，取低端另留约 8% 价格余量，得到本轮 86。这个余量是本轮限价判断，未新增统一筛选权重或回报门槛。改用 12% 折现则约 73–76，是价格优势可逆转的情景。最近可核具名表为 10/28 Evercore ISI 的 Benjamin Rubin 维持中性、目标 104 调至 98，未拿目标作为本轮估值锚。[已宣告季度股息](https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Declares-Quarterly-Common-Stock-Dividend-and-Declares-Preferred-Stock-Dividends-f09134131/default.aspx) · [具名记录](https://stockanalysis.com/stocks/schw/ratings/)
+
+按 86 成交、固定成交时倍数，盈利增 10%–15%、股息年化 1.28 的一年基准约 +11.5% 至 +16.5%。平盈利平倍数仅约 +1.5%。盈利与倍数各下调 20%、股息减半约 −35.3%。此前固定 90 终值锚用于同额比价，将它用在 86 成交会含有一定估值回升，因此不用它表示严格无倍数扩张。股票新增会增加金融及利率敞口，仅以已有集中度及净资产估值重算配置。符合条件的普通券商闲置现金收益可作对照，实际计划资格、税务与费项需单列。[现金计划规则](https://robinhood.com/us/en/support/articles/cash-sweep-program-interest-rate/)
+
+### VXUS：仅作非美股分散工具
+
+Vanguard 9/30 披露 FTSE Global All Cap ex US、约 8,901 只股票、前十 14.0%、台积电约 4.3%、科技 18.7%、基金费率 0.05%。当日市场收盘 84.96，发行人同日组合本益比 16.1 倍。假设底层盈利及汇率口径与该日相同，80 对应约 15.2 倍、6.6% 底层盈利率，较当日估值留约 6% 余量。该值为固定盈利的估算，实际底层盈利、美元汇率及 ETF 市场价相对 NAV 会变化。以过去一年分派约 1.98 估计，平盈利平倍数约 +2.5%，盈利增 4%–7% 的研究情景约 +6.5% 至 +9.5%，盈利与倍数各降 15%、分派减半约 −26.5%。过往分派不代表未来可派现金。分散美国个股集中度是配置依据，汇率、新兴市场及半导体周期依然会造成波动。MSFT、AMZN 资本密度继续核验，BRK 财报前不追加，CI 和 MRK 现金或重大事件缺口未闭合。[Vanguard 资料](https://workplace.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F3369.pdf) · [估值日期收盘](https://stockanalysis.com/etf/vxus/history/) · [历史分派](https://stockanalysis.com/etf/vxus/dividend/) · [BRK 公司财报日程](https://www.berkshirehathaway.com/news/nov0426.pdf)
+
+### 生效和失效
+
+建议只用券商确认的未占用现金，以常规交易时段当日限价控制规模。先核同代码未成交委托和已成交部分，避免重复承诺资金。局部成交只按实得数量记录，当日未成交在美东 16:00 收盘到期。跌破限价若由新公司、监管、资产或宏观事实触发，原研究条件失效，须重算。限价约束价格，重大信息后订单仍可能成交，不能用限价替代事件审查。11/6 美东 08:30／北京 21:30 为 BLS 就业报告，下一交易日如仍考虑限价，先核该数据和当时公告。STRL、BKNG、INTU 及财报前 G、PRDO 不因现金可用而放行。本轮仅复核 SCHW 及 ETF 对照，不重跑 100 只，不调整成员，也不记录任何个人财务或委托资料。[券商时段](https://robinhood.com/us/en/support/articles/extendedhours-trading/) · [BLS 日程](https://www.bls.gov/schedule/2026/11_sched.htm)
