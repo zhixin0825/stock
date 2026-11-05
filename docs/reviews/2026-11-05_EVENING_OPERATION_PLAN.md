@@ -64,3 +64,7 @@ VITAX 半导体设备与大型科技集中，VINIX 含部分相同成分，VBTLX
 本次 100/100 重取常规终点、98/100 取得盘前点（DFIN、R 缺），100/100 重读新闻头部，99/100 可读具名日期表，PRDO 替代源冲突仍在。新具名动作保留于 CSV；如 QCOM 的 BofA、Barclays 下调目标，CSCO 的 Morgan Stanley 降级。没有把评级当盈利或报价依据。19 个代码有定向判定或更新，STRL、SCHW、BKNG 更新同额价敏感度，全池全新完整独立估值 0/100，其他深度缺口见逐行。前一晚归档及对应研究结果存在，今早要求的准点复盘与实际交付仍未得到充分证据。保留前次未加仓而上涨的 BKNG、承担风险的 STRL 及待成立的配对作后续对照，结果与过程分开。
 
 [100 只逐股资料](../../data/watchlists/universe_100_20261022.csv) · [候选变更](../WATCHLIST_100.md)
+
+### 发布前复核追加
+
+美东 07:00 同分钟快照 STRL 278.96、SCHW 94.65、G 41.05；PRDO 仍只见 04:02 的 27.00。以更新的 SCHW 94.65，固定锚基准约 +5.95% 至 +10.70%，零增长约 −3.56%，双压约 −38.47%；G 静态归属现金收益近似不变。没有改变零新增、零换股。11/6、11/9 均为下一正常交易日。11/9 开盘前复查周末 BRK.B 财报和任何许可更新；未核得新增 STRL 公司定时事件。[行情](https://stockanalysis.com/stocks/schw/) · [EOG 官方日程](https://investors.eogresources.com/) · [VST 公司日程](https://investor.vistracorp.com/2026-09-29-Vistra-to-Report-Third-Quarter-Results-on-Nov-6,-2026)
