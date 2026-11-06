@@ -110,7 +110,7 @@
 | [WM Waste Management](https://wastemanagement.gcs-web.com/news-releases/news-release-details/wm-announces-third-quarter-2026-earnings) | 常規觀察 | 10/27 Q3收入6.846bn增6.3%、調整EPS2.15；Healthcare收入增3.7%、EBITDA增逾30%。9M CFO4.867bn增12%、公司FCF3.01bn增逾42%；全年FCF預計3.75–3.85bn高端。 本轮事件：本轮未核到11/2新的重大公司经营公告。Q3现金、Healthcare修复及量能偏弱继续承接，公司FCF定义含资产出售，须独立归一化。 下一步：追蹤量能、價格成本差、Healthcare整合及公司FCF口徑；下季日期未官方核實。 | 前版風險（歷史底稿，保留追蹤）：收集處置量下降1.8%；低毛利業務退出、燃料成本及醫療業務整合可能影響現金兑现。 本輪更新：Collection/Disposal量仍降0.4%（工作日調整降0.5%），回收商品/能源價格及Stericycle整合風險延續；公司FCF含資產出售收入，普通股現金估值須另核SBC及維持性capex。 |
 | [RSG Republic Services](https://investor.republicservices.com/news-releases/news-release-details/republic-services-inc-reports-third-quarter-2026-results) | 常規觀察 | 10/29 Q3收入增8.2%（回收/廢物有機4.8pp、環境解決方案2.1pp、收購1.3pp）；調整EPS1.94增2.1%。9M CFO3.52bn/調整FCF2.28bn，全年收入、EBITDA和調整FCF指引上調。 本轮事件：本轮未核到11/2新公司业绩；10/29全年指引上修是11/2多家改价的旧经营背景，但没有识别其价格因果份额。 下一步：核環境解決方案改善能否持續、量能恢復及全年調整FCF2.565–2.585bn；下季日期未官方核實。 | 前版風險（歷史底稿，保留追蹤）：總量拖累收入1.6%、環境解決方案收入下降；併購、環保責任與勞工成本仍需核查。 本輪更新：volume對收入影響仍−0.6%，調整EPS增長落後收入；再生商品價格、收購和環境解決方案風險延續。調整FCF須核剔除項和SBC後再估普通股現金。 |
 | [FAST Fastenal](https://investor.fastenal.com/news/news-details/2026/Fastenal-Company-Reports-2026-Third-Quarter-Earnings/default.aspx) | 估值觀察 | 10/14已報Q3，銷售增15.5%、營業margin21.5%，Q3 CFO422m約為淨利105%；10/22以後本輪未核得新重大盈利公告。官方日曆10月銷售於11/5 06:00 CT發布，尚未公布。 本轮事件：本轮未核到11/2新月销售或经营指引；10月销售尚待11/5，不能以股价或旧Q3提前填结果。 下一步：2026-11-05 06:00 CT月銷售；看日均銷售、有機需求/價格及客戶組合。下次季度日期未官方核實。 | 前版風險（歷史底稿，保留追蹤）：大客戶組合壓毛利，價格成本仍拖累；關稅退款與供應商返利含時點效應，高增長需要估值補償。 本輪更新：大客戶/產品組合壓低毛利率，需核價格成本、關稅退款/供應商返利及營運資金時點；原Q3現金不能代替尚未發布10月銷售趨勢。 |
-| [R Ryder System](https://newsroom.ryder.com/news/news-details/2026/Ryder-Reports-Third-Quarter-2026-Results/default.aspx) | 事件觀察 | 10/22已發布Q3，GAAP EPS4.16/可比4.33增21%，營運收入增6%；全年可比EPS上調14.85–15.05。CFO2.6bn、公司FCF700–800m全年指引維持。 本轮事件：11/2公开公司稿确认已于11/1完成Efficiency Enterprises收购，增加6处网点、约50名技师、约1200台设备，预计2027收入约5000万美元；财务条款未披露，不能据此算已实现股东利润。BusinessWire URL含20261103，但同稿带时间转载标11/2 12:30ET；保留此时间/URL差异。 下一步：核收购对价、营运资本与车队capex；原Q4养老金非现金结算、DTS及二手车风险继续带入。 | 前版風險（歷史底稿，保留追蹤）：貨運及二手車價格週期；Q2專用運輸營運收入降3%，供應鏈稅前利潤降7%；10月22日財報可能改變舊指引。 本輪更新：DTS營運收入仍降1%，二手車殘值/租賃周期、資本密集性延續；公司FCF包含售車收益，與輕資產股不能直接同口徑。Q4約4.30/share養老金結算是預計非現金費用，不應誤判為經營崩塌。 |
+| [PEP PepsiCo](https://www.sec.gov/Archives/edgar/data/77476/000007747626000048/pep-20260905.htm) | 观察 | 2026-11-06 纳入消费必需品覆盖。36周 CFO 7,950m，扣 capex 2,182m 及 SBC 240m，指定现金代理 5,528m。 | 北美销量、促销、外汇、负债及再投资；当前不开放新增。 |
 | [OSIS OSI Systems](https://investors.osi-systems.com/node/25006) | 事件觀察 | 10/29 FY27Q1收入403.5m增5%、GAAP EPS1.51增28%、調整1.66增17%；book-to-bill1.4、backlog2.1bn；CFO37.088m、capex7.655m。全年收入1.875–1.930bn維持，調整EPS11.13–11.49提高至11.28–11.64。 本轮事件：本轮未核到11/2新的经营公告；最新是10/29 FY27Q1及旧评级。政府验收、交付和回款依赖继续存在。 下一步：看Security交付/服務組合及Healthcare修復，對照backlog回款與全年指引；下季日期未官方核實。 | 前版風險（歷史底稿，保留追蹤）：中東衝突已令交付延後，FY2026Q4收入降4%；政府採購、驗收及收款使季度收入和現金流波動。 本輪更新：Security收入組合壓margin、Healthcare偏弱，地緣/中東交付風險未消失；EPS改善須拆利息和回購，CFO-capex29.433m尚非扣SBC後普通股現金。 |
 | [HII Huntington Ingalls Industries](https://www.hii.com/news/hii-reports-third-quarter-2026-results) | 事件觀察 | 10/29 Q3收入約3.5bn、EPS5.48；新合同32.4bn，造船收入指引上調，margin/FCF指引維持。10/30人資主管任命非財務指引變更。 本轮事件：本轮未核到11/2新的集团业绩或回款公告。重读10/29Q3与10-Q：强积压/盈利与营运现金后置并存，不因一天−1.00%认定基本面突然恶化。 下一步：跟踪Q4里程碑账单与现金；9M CFO99m、公司FCF−182m，达全年500–600m需Q4约682–782m；合同净资产1.345bn较年初0.538bn上升及EAC盈利须继续拆。 | 前版風險（歷史底稿，保留追蹤）：訂單能否轉化為現金；Q2自由現金流為負1.50億美元，造船人力、交付和成本執行仍需檢查。 本輪更新：EPS含1.52有利累計完工估計調整。9M CFO99m/FCF−182m，淨合同資產538→1345m；FY26 FCF500–600m需Q4大額回款，不能把造船積壓等同現金。 |
 
@@ -352,3 +352,17 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 |VRSK，旧线索待补|未取得当轮结果正文，AccuLynx 阶段继续查。|维持观察，旧估值不作为盘前买入依据。|
 
 本轮正式成员不变，盘前基础覆盖与池外现金初筛仍不足以支持指定成员替换。即时新增名单为空。原备选、风险及早先结论留档。
+
+## 2026-11-06 北京：11/5 收市复盘与覆盖调整
+
+重取100个成员收盘锚与1/5/20收益、100个新闻头部、99个可读具名日期表、89个盘后。新增 close_20261105_* 逐股列。重点重核 G、PRDO、PEP 现金，STRL 按新价重算，完整全新估值0只。详见[操作日志](journal/2026-11-06_OPERATION_REASON_LOG.md)及[现行CSV](../data/watchlists/universe_100_20261022.csv)。
+
+- **纳入 PEP，R 转备选。** PEP 增加消费必需品防御覆盖，R 仍可跟踪但与车队、物流及运输的周期风险重复，且公司自由现金受售车与车队支出影响。现行仍为100个唯一代码；研究席位不表示买卖建议。R 在 [先前逐股完整版本](https://github.com/zhixin0825/stock/blob/27045e126c680eb3f0e7c1b0e0076ca4edc9d585/data/watchlists/universe_100_20261022.csv) 保留全部历史列，本轮收盘270.16、1/5/20日 −4.58/−3.75/+14.87%，仍核收购对价、专用运输及残值。
+- **EPAM 新线索**：盈利改善与经营现金下降并存，拟融资回购前需核现金归属和杠杆，不进入新增队列。[公司原报](https://investors.epam.com/news/news-details/2026/EPAM-Reports-Results-for-Third-Quarter-2026/default.aspx)
+- **VRSK 旧线索推进**：Q3现金明显下滑，AccuLynx 仍须审查。G 收款风险提升配对复核优先；PRDO 学生资助及诉讼程序（11/6 反对简报）继续跟踪。两者均不新增。[VRSK 公司资料](https://investor.verisk.com/financials/quarterly-results/default.aspx) · [PRDO SEC 10-Q](https://www.sec.gov/Archives/edgar/data/1046568/000119312526449730/prdo-20260930.htm)
+
+### R 转备选时的历史资料行
+
+| 对象 | 旧状态 | 经营证据 | 风险 |
+|---|---|---|---|
+| [R Ryder System](https://newsroom.ryder.com/news/news-details/2026/Ryder-Reports-Third-Quarter-2026-Results/default.aspx) | 事件觀察 | 10/22已發布Q3，GAAP EPS4.16/可比4.33增21%，營運收入增6%；全年可比EPS上調14.85–15.05。CFO2.6bn、公司FCF700–800m全年指引維持。 本轮事件：11/2公开公司稿确认已于11/1完成Efficiency Enterprises收购，增加6处网点、约50名技师、约1200台设备，预计2027收入约5000万美元；财务条款未披露，不能据此算已实现股东利润。BusinessWire URL含20261103，但同稿带时间转载标11/2 12:30ET；保留此时间/URL差异。 下一步：核收购对价、营运资本与车队capex；原Q4养老金非现金结算、DTS及二手车风险继续带入。 | 前版風險（歷史底稿，保留追蹤）：貨運及二手車價格週期；Q2專用運輸營運收入降3%，供應鏈稅前利潤降7%；10月22日財報可能改變舊指引。 本輪更新：DTS營運收入仍降1%，二手車殘值/租賃周期、資本密集性延續；公司FCF包含售車收益，與輕資產股不能直接同口徑。Q4約4.30/share養老金結算是預計非現金費用，不應誤判為經營崩塌。 |
