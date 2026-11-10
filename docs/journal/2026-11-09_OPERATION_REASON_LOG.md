@@ -233,3 +233,12 @@ ADBE 在现金持平与双压情景中占优；若 G 回款恢复，排序可能
 |[BKNG](https://stockanalysis.com/stocks/bkng/history/)|+1.76%|+6.33%|+3.19%|16:59|
 
 </details>
+
+
+## 11月10日开盘前预案
+
+11月9日洛杉矶 23:49 左右形成的次日预案，使用周一常规与带时刻盘后行情，周二完整盘前价格、成交条件和 CPI 结果尚未取得。周二 05:30 CPI、06:30 常规开盘，CoreWeave 电话会 14:00。待 CPI 后和开盘重新核两端；无新业务或价格证据时暂不新增、暂不先卖，无有效研究限价。11月10日正式全池复核另行记时。[BLS 日历](https://www.bls.gov/schedule/2026/11_sched_list.htm) · [NYSE 时段](https://www.nyse.com/trade/hours-calendars) · [CoreWeave 电话会](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx)
+
+- G 常规收 42.55。ADBE 常规收 237.32，盘后 16:59 报 237.00。沿前节同额一年模型，后者以该盘后参考价的现金持平情景 +0.97%、现金增 6% 至 10% 情景约 +7.03% 至 +11.07%、双压 −27.30%。G 回款恢复仍有约 +20.40%。Disney 合作未披露现金贡献，CMA 调查未关闭。42.80 保留为 G 的研究观察参考；需先有独立合格的买入端。TROW、FANG 的资金流、油价及归属现金风险沿用。[G 行情](https://stockanalysis.com/stocks/g/history/) · [ADBE 行情](https://stockanalysis.com/stocks/adbe/history/) · [CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case)
+- STRL 16:59 盘后报 295.00，高于前述 268–288 基准情景终值。台积电 10 月营收同比 +59.7%，是芯片需求证据；STRL 仍需项目许可、开工和回款验证，新增冻结。SCHW 收 92.73，未形成新的加仓依据。BKNG 和 INTU 的监管及财报验证事项继续有效。[STRL 行情](https://stockanalysis.com/stocks/strl/history/) · [SCHW 行情](https://stockanalysis.com/stocks/schw/) · [台积电原报](https://pr.tsmc.com/english/news/3349)
+- MUSA 旧池外线索推进：509.79 收盘，滚动经营现金减全部资本投入、股权薪酬及融资租赁本金约 6.25 亿美元，约 6.8%；去掉约 1.23 亿美元营运资本正贡献后约 5.4%。油品毛利、扩店回报及债务仍待纳入情景；观察。NRG 延续前节，2027 指引暂未纳入拟处置发电资产，待估处置后可持续现金；观察。本轮仅更新重点对照及夜间信息，承接已归档的 100 行收盘筛查，未将其重记为周二完整逐股估值。[MUSA 10-Q](https://www.sec.gov/Archives/edgar/data/1573516/000157351626000195/musa-20260930.htm) · [MUSA 10-K](https://www.sec.gov/Archives/edgar/data/1573516/000157351626000090/musa-20251231.htm) · [NRG 财报](https://www.sec.gov/Archives/edgar/data/1013871/000101387126000022/nrgq32026ex991.htm)
