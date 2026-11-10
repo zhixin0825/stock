@@ -99,3 +99,137 @@ G无恢复时SCHW基准占优。G恢复时排序逆转，双压接近持平。�
 |ZTS 79.40|TTM CFO 减 capex、SBC 约 2.14bn，对应约 6.6%；比较期现金分类重列影响约 45m，尚未完整正常化。|Q3 美国收入下滑约 6%，全年有机调整净利仍指引下滑 5%–7%，宠物药需求和新诉讼待核。[10-Q](https://www.sec.gov/Archives/edgar/data/1555280/000155528026000050/zts-20260930.htm) · [10-K](https://www.sec.gov/Archives/edgar/data/1555280/000155528026000011/zts-20251231.htm) · [财报](https://www.sec.gov/Archives/edgar/data/1555280/000155528026000048/exhibit99q32026.htm)|
 
 DFIN 现金压力估算约 5.9% 见上一节，EOG 按 FY25 调整、扣股权薪酬和融资租赁本金约 5.8%，均降为第二批对照。BKNG 原正常化约 7%，美国 FTC 相关会计影响和欧盟 DSA 待核。G 的现金劣势已足以列首个换出研究对象，ADBE、FANG、TROW 构成实质替代挑战；需要分别解决订阅风险、油价与再投资、主动管理流失及组合风险，尚不能确认稳健且可执行的配对。前两节的盘前记录原样保留。
+
+
+## 11月9日收市后手动补复核
+
+纽约交易日 2026-11-09。常规行情截止洛杉矶 13:00，盘后最晚观察至 17:00，按各标的实际时间列示。11月9日晚人工补做。自动任务可核的最近一次启动为 01:10、完成于 01:20，产出是上文盘前补查。预期的 14:00 收市轮次未查到实际完成记录。保留盘前方案及其已知事实边界。[事前方案](../reviews/2026-11-09_EVENING_OPERATION_PLAN.md)
+
+### 收盘发生了什么
+
+- 现行池 100/100 取得常规收盘及同口径 1／5／20 交易日变化，84 涨、16 跌，单日中位数约 +2.21%。SPY +2.37%、XLI +3.82%、XLK +3.73%。STRL +14.97%、AMAT +11.37%、CEG +10.46%、LRCX +10.41%、PWR +9.35% 居前，INTU −0.96%、ADBE −0.83% 逆势。池内新闻列表头部已读取 100/100，索引可含旧文或转载。个别公告另行查原文；本轮未重新逐项核验全部具名评级、财报日历或完整独立估值。[SPY](https://stockanalysis.com/etf/spy/history/) · [XLI](https://stockanalysis.com/etf/xli/history/) · [XLK](https://stockanalysis.com/etf/xlk/history/)
+- STRL 收 290.67，虽为池内日涨幅第一，5／20 日仍为 −13.35%／−42.00%。成交约 125.4 万股，对前一交易日约 166.0 万股。电力和数据中心相关标的一同上涨，但目前无可核的新 STRL 项目开工或回款证据。前三季合同营运资金净流出约 3.51 亿美元，旧 268–288 情景终值对应收盘价约 −7.8% 至 −0.9%。本次将反弹纳入未加仓的反事实，新增资格继续冻结。HII 收 304.36（+5.41%），11月3日 Harrisburg 海试旧公告已复核，单日涨幅归因未证实，继续核现金里程碑。INTU 收 338.23（−0.96%），仍待 11月19日财报验证现金税和增长。[STRL 原始 10-Q](https://www.sec.gov/Archives/edgar/data/874238/000087423826000125/strl-20260930.htm) · [STRL 行情](https://stockanalysis.com/stocks/strl/history/) · [HII 公司公告](https://www.globenewswire.com/news-release/2026/11/03/3394702/14858/en/hii-successfully-completes-builder-s-trials-on-harrisburg-lpd-30.html) · [INTU 财报日公告](https://www.businesswire.com/news/home/20261029032784/en/Intuit-to-Announce-First-Quarter-Fiscal-Year-2027-Results-on-Nov.-19/)
+- CEG 财报后收 276.09（+10.46%），约为 2026 调整 EPS 指引中点的 21.8 倍。前三季 CFO 减资本支出 15.18 亿美元对 14.69 亿美元，需继续核 Calpine 融资、归属普通股现金及电力合同交付。池外进一步初筛 NRG，收 97.40（+10.32%）。当日公告 Q3 GAAP CFO 10.97 亿美元，公司口径增长投资前 FCF 12.42 亿美元，另公布拟以 40 亿美元现金出售六项燃气发电资产。先核交割及债务用途，再重算处置后可持续现金和估值；列研究线索，池成员无变动。[CEG SEC 财报](https://www.sec.gov/Archives/edgar/data/1868275/000186827526000116/ceg-20261109991.htm) · [CEG 行情](https://stockanalysis.com/stocks/ceg/history/) · [NRG 财报](https://investors.nrg.com/news-releases/news-release-details/nrg-energy-reports-third-quarter-2026-results-reaffirms-2026) · [NRG 出售公告](https://investors.nrg.com/news-releases/news-release-details/nrg-energy-announces-4-billion-asset-sale) · [NRG 行情](https://stockanalysis.com/stocks/nrg/history/)
+
+### G 与 ADBE 收盘后配对复核
+
+G 盘中高 43.16，超过盘前 42.80 的观察参考，收 42.55。ADBE 收 237.32，盘中低 236.08。两个极值的先后和成交条件未验证。Adobe 11月9日宣布与 Disney 多年合作，披露了定制 AI 的用途，未披露金额、利润或回款。英国 CMA 订阅提前解约费调查仍开放。沿用事前同额一年终值模型，仅按收盘重算，G 年股息按 0.75 情景计入。费用、税及可成交条件未验证。[G 行情](https://stockanalysis.com/stocks/g/history/) · [ADBE 行情](https://stockanalysis.com/stocks/adbe/history/) · [Adobe 公告](https://news.adobe.com/news/2026/11/adobe-and-the-walt-disney-company-alliance) · [CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case)
+
+|对象|现金持平|经营改善情景|经营与倍数双压|
+|---|---:|---:|---:|
+|G|−1.46%|回款恢复 +20.40%|−36.05%|
+|ADBE|+0.83%|现金增长 6% 至 10%，+6.88% 至 +10.92%|−27.40%|
+
+ADBE 在现金持平与双压情景中占优；若 G 回款恢复，排序可能反转。TROW 收 110.82、FANG 收 178.17，原资金流与归属现金门槛继续保留。现有证据未形成有效配对限价。逐股完整现金桥、所有对象同尺度替代比较及评级原文更新仍有缺口。[TROW](https://stockanalysis.com/stocks/trow/history/) · [FANG](https://stockanalysis.com/stocks/fang/history/)
+
+11月9日公开基金 NAV 为 VITAX 458.71（+3.16%）、VINIX 604.75（+2.35%）、VBTLX 9.43（持平）。两只股票基金的科技重叠沿用盘前成分核查，NAV 与计划指令分别确认。[VITAX](https://stockanalysis.com/quote/mutf/VITAX/history/) · [VINIX](https://stockanalysis.com/quote/mutf/VINIX/history/) · [VBTLX](https://stockanalysis.com/quote/mutf/VBTLX/history/)
+
+<details>
+<summary>100个代码的收盘变化及盘后观察覆盖</summary>
+
+变化按各行调整收盘价计算，比较当日与前 1、5、20 个交易日。盘后时间为洛杉矶时间，来自同一来源的 11月9日快照，覆盖 88/100；其余留缺，时间不可作为统一成交点。按代码链接可复核行情，新闻索引可通过对应股票的概览查阅。
+
+|代码|1日|5日|20日|盘后观察时间|
+|---|---:|---:|---:|---|
+|[JPM](https://stockanalysis.com/stocks/jpm/history/)|+2.27%|+0.44%|+2.33%|16:59|
+|[BAC](https://stockanalysis.com/stocks/bac/history/)|+2.29%|+1.98%|-7.38%|16:59|
+|[GS](https://stockanalysis.com/stocks/gs/history/)|+4.67%|+0.83%|+1.37%|16:59|
+|[MS](https://stockanalysis.com/stocks/ms/history/)|+3.12%|+0.74%|-0.94%|16:58|
+|[IBKR](https://stockanalysis.com/stocks/ibkr/history/)|+2.31%|+3.66%|-11.74%|16:54|
+|[AMP](https://stockanalysis.com/stocks/amp/history/)|+3.70%|+3.12%|+4.01%|16:50|
+|[BNY](https://stockanalysis.com/stocks/bny/history/)|+2.38%|+2.33%|+6.33%|16:36|
+|[TROW](https://stockanalysis.com/stocks/trow/history/)|+2.22%|+4.70%|+6.57%|16:31|
+|[CB](https://stockanalysis.com/stocks/cb/history/)|-0.43%|-1.50%|+5.33%|16:55|
+|[CME](https://stockanalysis.com/stocks/cme/history/)|-0.45%|-0.56%|+9.84%|16:51|
+|[ICE](https://stockanalysis.com/stocks/ice/history/)|+1.02%|+1.02%|+10.55%|16:46|
+|[V](https://stockanalysis.com/stocks/v/history/)|+0.07%|-0.60%|+8.65%|16:59|
+|[MA](https://stockanalysis.com/stocks/ma/history/)|+0.48%|-0.35%|+10.20%|16:58|
+|[MCO](https://stockanalysis.com/stocks/mco/history/)|+1.07%|+1.00%|+8.62%|16:30|
+|[DFIN](https://stockanalysis.com/stocks/dfin/history/)|+0.90%|-0.25%|+38.80%|缺|
+|[AXS](https://stockanalysis.com/stocks/axs/history/)|+0.50%|-0.09%|+9.43%|缺|
+|[SCHW](https://stockanalysis.com/stocks/schw/history/)|+1.36%|+4.53%|-4.46%|16:59|
+|[BRK.B](https://stockanalysis.com/stocks/brk.b/history/)|+0.76%|+3.44%|+11.14%|16:59|
+|[JNJ](https://stockanalysis.com/stocks/jnj/history/)|+2.13%|+4.27%|+6.97%|16:59|
+|[MRK](https://stockanalysis.com/stocks/mrk/history/)|+1.38%|+0.27%|+2.28%|16:59|
+|[ABBV](https://stockanalysis.com/stocks/abbv/history/)|+0.68%|+1.54%|+4.97%|16:47|
+|[GILD](https://stockanalysis.com/stocks/gild/history/)|+1.46%|-0.59%|+12.56%|16:56|
+|[REGN](https://stockanalysis.com/stocks/regn/history/)|+1.73%|-4.30%|+20.60%|16:56|
+|[VRTX](https://stockanalysis.com/stocks/vrtx/history/)|+0.69%|-0.41%|+8.65%|16:56|
+|[LLY](https://stockanalysis.com/stocks/lly/history/)|+4.28%|+0.07%|+19.39%|16:59|
+|[NVO](https://stockanalysis.com/stocks/nvo/history/)|+2.65%|+2.30%|+7.26%|16:59|
+|[MDT](https://stockanalysis.com/stocks/mdt/history/)|+0.97%|+3.52%|+11.81%|16:45|
+|[SYK](https://stockanalysis.com/stocks/syk/history/)|-0.04%|+6.17%|+15.26%|16:45|
+|[BSX](https://stockanalysis.com/stocks/bsx/history/)|+2.97%|-0.68%|+0.41%|16:59|
+|[ISRG](https://stockanalysis.com/stocks/isrg/history/)|+1.71%|+5.42%|+7.70%|16:59|
+|[DHR](https://stockanalysis.com/stocks/dhr/history/)|+2.12%|+3.14%|+6.29%|16:59|
+|[TMO](https://stockanalysis.com/stocks/tmo/history/)|+3.87%|+5.71%|+8.97%|16:55|
+|[ABT](https://stockanalysis.com/stocks/abt/history/)|+0.53%|+0.32%|+9.20%|16:59|
+|[ZTS](https://stockanalysis.com/stocks/zts/history/)|+3.68%|-1.03%|+9.56%|16:57|
+|[MEDP](https://stockanalysis.com/stocks/medp/history/)|+3.03%|+3.82%|+8.53%|16:55|
+|[IQV](https://stockanalysis.com/stocks/iqv/history/)|+2.58%|+7.89%|+6.34%|缺|
+|[CVS](https://stockanalysis.com/stocks/cvs/history/)|+1.67%|-3.68%|-2.15%|16:59|
+|[DOV](https://stockanalysis.com/stocks/dov/history/)|+4.48%|-1.36%|+11.58%|缺|
+|[ROP](https://stockanalysis.com/stocks/rop/history/)|-1.04%|-1.65%|+28.40%|缺|
+|[ITW](https://stockanalysis.com/stocks/itw/history/)|+2.06%|-1.14%|+8.16%|16:43|
+|[EMR](https://stockanalysis.com/stocks/emr/history/)|+4.42%|+2.15%|+4.35%|16:33|
+|[ETN](https://stockanalysis.com/stocks/etn/history/)|+5.47%|-1.55%|-15.53%|16:58|
+|[HUBB](https://stockanalysis.com/stocks/hubb/history/)|+2.82%|+1.81%|-6.85%|16:58|
+|[IR](https://stockanalysis.com/stocks/ir/history/)|+4.69%|+5.02%|+9.85%|缺|
+|[XYL](https://stockanalysis.com/stocks/xyl/history/)|+1.46%|+2.06%|-3.25%|16:30|
+|[J](https://stockanalysis.com/stocks/j/history/)|+5.03%|-2.40%|+12.16%|缺|
+|[ACM](https://stockanalysis.com/stocks/acm/history/)|+5.20%|+6.90%|+19.61%|16:58|
+|[PWR](https://stockanalysis.com/stocks/pwr/history/)|+9.35%|-4.78%|-14.87%|16:55|
+|[STRL](https://stockanalysis.com/stocks/strl/history/)|+14.97%|-13.35%|-42.00%|16:59|
+|[TT](https://stockanalysis.com/stocks/tt/history/)|+4.68%|+1.75%|-11.93%|缺|
+|[OTIS](https://stockanalysis.com/stocks/otis/history/)|-0.24%|+0.51%|+18.01%|16:50|
+|[WM](https://stockanalysis.com/stocks/wm/history/)|+0.15%|-0.46%|+12.06%|16:53|
+|[RSG](https://stockanalysis.com/stocks/rsg/history/)|-0.03%|+0.33%|+12.30%|缺|
+|[FAST](https://stockanalysis.com/stocks/fast/history/)|+2.98%|+3.84%|+6.52%|16:56|
+|[PEP](https://stockanalysis.com/stocks/pep/history/)|+0.38%|+1.04%|+12.00%|16:56|
+|[OSIS](https://stockanalysis.com/stocks/osis/history/)|+2.55%|+1.24%|+3.09%|缺|
+|[HII](https://stockanalysis.com/stocks/hii/history/)|+5.41%|-2.98%|+15.27%|16:30|
+|[GOOGL](https://stockanalysis.com/stocks/googl/history/)|+1.18%|+3.28%|-18.31%|16:59|
+|[AMZN](https://stockanalysis.com/stocks/amzn/history/)|+2.94%|+8.67%|+2.85%|16:59|
+|[MSFT](https://stockanalysis.com/stocks/msft/history/)|+2.75%|+7.51%|+0.74%|16:59|
+|[META](https://stockanalysis.com/stocks/meta/history/)|+5.12%|+5.71%|-13.67%|16:59|
+|[ORCL](https://stockanalysis.com/stocks/orcl/history/)|+3.18%|+0.48%|-12.81%|16:59|
+|[CRM](https://stockanalysis.com/stocks/crm/history/)|+0.60%|-4.97%|-8.11%|16:57|
+|[ADBE](https://stockanalysis.com/stocks/adbe/history/)|-0.83%|-5.63%|-0.34%|16:59|
+|[INTU](https://stockanalysis.com/stocks/intu/history/)|-0.96%|-3.94%|+10.54%|16:59|
+|[ADP](https://stockanalysis.com/stocks/adp/history/)|-0.43%|+1.10%|+10.32%|16:32|
+|[PAYX](https://stockanalysis.com/stocks/payx/history/)|-1.96%|-0.63%|+10.78%|16:30|
+|[CSCO](https://stockanalysis.com/stocks/csco/history/)|+5.11%|-2.91%|-14.47%|16:59|
+|[ANET](https://stockanalysis.com/stocks/anet/history/)|+9.00%|+13.42%|-11.72%|16:59|
+|[TXN](https://stockanalysis.com/stocks/txn/history/)|+6.62%|-2.08%|+5.48%|16:57|
+|[ADI](https://stockanalysis.com/stocks/adi/history/)|+8.55%|-4.41%|-2.85%|16:59|
+|[QCOM](https://stockanalysis.com/stocks/qcom/history/)|+3.66%|+5.79%|-1.70%|16:59|
+|[AMAT](https://stockanalysis.com/stocks/amat/history/)|+11.37%|-1.06%|-25.52%|16:59|
+|[LRCX](https://stockanalysis.com/stocks/lrcx/history/)|+10.41%|-2.75%|-28.51%|16:59|
+|[KLAC](https://stockanalysis.com/stocks/klac/history/)|+9.31%|-1.13%|-20.38%|16:58|
+|[TSM](https://stockanalysis.com/stocks/tsm/history/)|+3.51%|-2.51%|-12.54%|16:59|
+|[CDNS](https://stockanalysis.com/stocks/cdns/history/)|+5.19%|+2.13%|-3.41%|16:37|
+|[DOX](https://stockanalysis.com/stocks/dox/history/)|-0.83%|-34.31%|-28.95%|16:30|
+|[G](https://stockanalysis.com/stocks/g/history/)|+0.66%|+5.01%|+23.87%|缺|
+|[TJX](https://stockanalysis.com/stocks/tjx/history/)|+2.09%|-2.04%|-2.67%|16:59|
+|[ROST](https://stockanalysis.com/stocks/rost/history/)|+2.56%|+2.78%|+4.94%|16:56|
+|[ULTA](https://stockanalysis.com/stocks/ulta/history/)|+3.16%|+4.32%|+17.21%|16:48|
+|[LOW](https://stockanalysis.com/stocks/low/history/)|+3.36%|+6.39%|+25.87%|16:57|
+|[HD](https://stockanalysis.com/stocks/hd/history/)|+2.90%|+3.60%|+21.61%|16:58|
+|[ORLY](https://stockanalysis.com/stocks/orly/history/)|-0.11%|-1.00%|+3.62%|16:51|
+|[AZO](https://stockanalysis.com/stocks/azo/history/)|+1.09%|-0.05%|+12.16%|16:50|
+|[CMG](https://stockanalysis.com/stocks/cmg/history/)|+3.80%|+8.60%|+17.57%|16:58|
+|[HLT](https://stockanalysis.com/stocks/hlt/history/)|+0.75%|+2.34%|+13.95%|16:41|
+|[LNG](https://stockanalysis.com/stocks/lng/history/)|+2.75%|-8.37%|+1.10%|16:58|
+|[EOG](https://stockanalysis.com/stocks/eog/history/)|+0.88%|-5.99%|-0.72%|16:57|
+|[XOM](https://stockanalysis.com/stocks/xom/history/)|-0.69%|-8.32%|-4.31%|16:59|
+|[CVX](https://stockanalysis.com/stocks/cvx/history/)|-0.86%|-7.46%|-1.96%|16:59|
+|[FANG](https://stockanalysis.com/stocks/fang/history/)|-0.44%|-10.80%|-8.68%|16:45|
+|[NEE](https://stockanalysis.com/stocks/nee/history/)|-0.10%|+2.15%|+10.64%|16:57|
+|[DUK](https://stockanalysis.com/stocks/duk/history/)|+0.25%|-0.22%|+8.85%|缺|
+|[AEP](https://stockanalysis.com/stocks/aep/history/)|+2.20%|-0.78%|+4.09%|16:57|
+|[CEG](https://stockanalysis.com/stocks/ceg/history/)|+10.46%|+7.32%|-6.06%|16:58|
+|[VST](https://stockanalysis.com/stocks/vst/history/)|+7.31%|-0.51%|-15.31%|16:59|
+|[PRDO](https://stockanalysis.com/stocks/prdo/history/)|+2.08%|-7.48%|-18.65%|16:58|
+|[BKNG](https://stockanalysis.com/stocks/bkng/history/)|+1.76%|+6.33%|+3.19%|16:59|
+
+</details>
