@@ -65,3 +65,13 @@ TROW/FANG/SCHW为价格重算，未制造新现金。新旧比较仍需同一时
 - 前次晚间产物与完成记录可核，实际送达未独立确认。现有11/9收盘材料明确为人工补记，未见匹配11/9收市后一小时的实际完成证据。本次已在11/10开盘前启动，内容按实际时点验收，无法据此确认调度修复。纽约正常及提早收市规则与NYSE公开日历复核，未发现已配置例外需改。保留源时间、操作理由和后续结果的边界。
 
 [100行明细](../../data/watchlists/universe_100_20261022.csv) · [观察池及候选台账](../WATCHLIST_100.md)
+
+
+## 11月10日盘中复核：CPI 后
+
+11月10日洛杉矶约 09:07 复核。100/100 均取得当日常规时段带时间报价及新闻头部，报价落在 08:42–09:04，各股时间不同。与周一收盘后抓取的新闻头部相比有 43 行变化，其中含旧文换序、转载及评级索引。本轮只重算重点模型及核对重点原文，未逐股新做独立估值。结论仍为暂无合格换入端、不新增或先行单卖，无有效限价。[正式盘前报告](../reviews/2026-11-10_EVENING_OPERATION_PLAN.md)
+
+- 05:30 公布美国 10 月 CPI，季调月增 0.4%，核心月增 0.3%。SPY 09:04 报 746.70（−0.80%），QQQ 同分钟报 670.44（−1.31%）。使用盘中点检验，不把指数走势解释为所有个股经营变化。[BLS 原报](https://www.bls.gov/news.release/cpi.nr0.htm) · [SPY](https://stockanalysis.com/etf/spy/) · [QQQ](https://stockanalysis.com/etf/qqq/)
+- G 09:03 报 43.01，跨过旧观察参考 42.80。ADBE 09:04 报约 234.53。沿用同额一年模型，G 现金持平 −2.50%、回款恢复 +19.11%、双压 −36.74%；ADBE 现金持平 +2.04%、现金增长 6%–10% 时 +8.16% 至 +12.24%、双压 −26.53%。若对 ADBE 现金另作 5% 持续折减，增长情景降至 +2.75% 至 +6.63%；仅为敏感度。G 追平前述未折减增长情景需股东现金约 2.37–2.46 亿美元。Adobe MAX 新披露 Google 合作及新 AI 功能，未披露可直接纳入模型的现金；CMA 调查仍开放。G 迁册特别股东会排定 09:00，本次读取 SEC 提交索引和新闻室时未见公开投票结果。价格异步、费用及双边可成交报价未核。[G 行情](https://stockanalysis.com/stocks/g/) · [ADBE 行情](https://stockanalysis.com/stocks/adbe/) · [Adobe 原报](https://news.adobe.com/news/2026/11/adobe-and-google-deepen-partnership) · [CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case) · [G 最终委托书](https://www.sec.gov/Archives/edgar/data/1398659/000114036126038914/ny20078357x5_424b3.htm) · [SEC 提交索引](https://data.sec.gov/submissions/CIK0001398659.json)
+- STRL 09:01 报 283.67（−2.41%），已回到旧一年终值 268–288 范围内；从此价格算，原基准约 −5.52% 至 +1.53%。仍缺具名开工和回款证据，新增继续冻结。PRDO 08:59 报 29.03（+5.79%），是本轮池内最大涨幅；未取得可归因的新发行人公告，South 收购款和 FCA 程序仍在。CEG 09:03 报 264.10（−4.34%），归属现金与融资桥仍未闭合。SCHW 09:04 报 93.28，原资本模型低端 93.55 附近的余量仍很薄。[STRL 行情](https://stockanalysis.com/stocks/strl/) · [PRDO 行情](https://stockanalysis.com/stocks/prdo/) · [PRDO 10-Q](https://www.sec.gov/Archives/edgar/data/1046568/000119312526449730/prdo-20260930.htm) · [CEG 行情](https://stockanalysis.com/stocks/ceg/) · [SCHW 行情](https://stockanalysis.com/stocks/schw/)
+- TROW 09:02 报 110.41，旧固定倍数且现金降 5% 至持平情景约 −2.0% 至 +2.9%。FANG 09:01 报 178.92，仍待 Deep Blue 出资及交割后归属现金。SANM 09:04 报 152.17，显著低于早盘薄成交参考 181，价格变化未解决 ZT 集中、必要投入与归属现金。CoreWeave 电话会 14:00，待具名客户和项目证据再传入相关模型。[TROW 行情](https://stockanalysis.com/stocks/trow/) · [FANG 原报](https://www.diamondbackenergy.com/news-releases/news-release-details/diamondback-energy-and-kkr-acquire-deep-blue-midland-basin-five) · [SANM 行情](https://stockanalysis.com/stocks/sanm/) · [CoreWeave 电话会](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx)
