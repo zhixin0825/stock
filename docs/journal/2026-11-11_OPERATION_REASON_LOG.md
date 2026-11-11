@@ -69,3 +69,12 @@ G追平ADBE现金持平需221.2m，追平ADBE成长情景需234.7–243.7m，较
 - 11/10晚间实际完成记录和产物已验，交付未独立确认。先前可见的收市复盘完成记录与对应纽约收市后一小时不匹配。本次实际于11/11开盘前补做11/10收盘研究，正常收市时段的启动、完成及交付仍缺匹配证据。交易日与提前收市例外对照NYSE日历。
 
 [100只明细](../../data/watchlists/universe_100_20261022.csv) · [候选台账](../WATCHLIST_100.md)
+
+
+## 11月11日盘前增量复核
+
+洛杉矶时间约 03:18。现行观察池 95/100 有本日带时刻的盘前点，覆盖 01:00–03:16，缺 DFIN、IQV、OSIS、ULTA、PRDO；100/100 读取新闻索引。完整正常化估值仍沿早段的实际完成范围。美股常规 06:30 开盘，SIFMA 建议美元固定收益市场全天休市。当前有资格可执行配对为零，先等待受影响的两端报价和公司证据。[NYSE](https://www.nyse.com/trade/hours-calendars) · [SIFMA](https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026)
+
+- STRL 03:01 报 311.00（+7.40%）。以原一年终值 268–288 重算约 −13.83% 至 −7.40%，价格抬升压缩配置补偿。CoreWeave 将 FY26 capex 下限由 350 亿升至 370 亿美元，上限仍为 390 亿美元，预付款为管理层预期。公告未提供可归属 STRL 的新增具名开工或回款。PWR 02:49 报 601.24，替代价格也提高。Baird 07:05–07:35 核具名项目、开工及收款。STRL 暂留，仍优先研究合格配对，新增冻结。[STRL 行情](https://stockanalysis.com/stocks/strl/) · [CoreWeave 原报](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx) · [STRL 会期](https://www.strlco.com/news/sterling-to-participate-in-upcoming-investor-conferences-7/)
+- G 02:39 报 43.01、ADBE 03:12 报 235.30。沿前节同额一年模型，G 现金持平约 −2.50%、回款恢复约 +19.11%；ADBE 现金持平 +1.70%、现金增长 6%–10% 约 +7.80% 至 +11.87%。若加入 5% 持续现金折减，ADBE 增长情景约 +2.41% 至 +6.28%。CMA 仍在调查，G 表决结果在公司新闻室及 SEC 提交索引尚未公开核实。42.80 保留为原观察价。TROW 01:03 报 111.03，原现金降 5% 至持平情景约 −2.56% 至 +2.32%；FANG 03:07 报 178.08，Deep Blue 出资和归属现金仍待核。报价异步，费用及可成交条件未验证。[G 行情](https://stockanalysis.com/stocks/g/) · [ADBE 行情](https://stockanalysis.com/stocks/adbe/) · [SEC 提交索引](https://data.sec.gov/submissions/CIK0001398659.json) · [CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case)
+- GIB 为新池外同业对照，02:24 报 83.84。用截至六月 TTM 经营现金，扣固定资产、资本化合同及无形投入、股权薪酬和租赁付款，估算约 19.66 亿加元，尚须用本日年报核同口径、债务及并购。电话会 06:00，观察。ONON、AMRC 仍按早段初筛；本轮未形成可买入端。[GIB 财报会期](https://www.cgi.com/en/cgi-release-fourth-quarter-fiscal-2026-results-november-11) · [GIB 三季报](https://www.cgi.com/sites/default/files/2026-07/cgi-q3-f2026-fs-2461251-en.pdf)
