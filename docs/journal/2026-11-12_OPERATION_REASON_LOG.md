@@ -69,3 +69,55 @@ GIB 基准假设现金增长 5–8%，下行假设 −15%，双压再设倍数 �
 ### 收市复盘排程复核补记
 
 2026-11-12 09:10:09 UTC。本轮实际启动落在纽约盘前。已将现有收市复盘任务的默认排程时区校正为纽约；回读显示下一次计划为纽约 11/12 17:00（北京时间 11/13 06:00），仍为精确启动，节假日和提前收市例外与原排程一致。此处验证的是配置与下次计划。下一轮实际启动、完成、产物及送达须分别核实。
+
+## 11/12 早段盘前增量复核
+
+核查截止 2026-11-12 10:08:28 UTC（纽约 05:08、北京 18:08）。盘前点主要为纽约 04:00–04:59 的异步参考，成交规模未核。沿本页 17:03 版本及原事件限制，新增证据集中在设备和工程支出、收购现金归属以及新候选财报。当前暂无可执行新增或换股，也无重新启用旧限价的依据。选股标准及同额同期限比较口径沿 [流水线](../STOCK_SELECTION_PIPELINE.md)。
+
+- **STRL** 盘前 304.00（04:44）。同一一年终值，基准 **−11.84% 至 −5.25%**、业务与倍数双压 **−43.43% 至 −34.53%**。现有执行工程和实收提供经营依据。Baird 会期已核，仍未取得会后具名许可、开工令或回款证据；当期工程、未开工合同、未签获授继续分层。Texas 并网、用水及人工筛查与 Loudoun 11/17 提案节点沿前节，未据同一风险再扣现金。Cantor 11/12 08:40–09:10 EST 之后、常规开盘之前优先重核。并网、用水或地方许可实际执行、工程开停、客户预算或收款发生变化即重算。[公司会期](https://www.strlco.com/news/sterling-to-participate-in-upcoming-investor-conferences-7/) · [行情](https://stockanalysis.com/stocks/strl/)
+- **G、ADBE、GIB** 盘前分别为 43.60（04:34）、236.48（04:59）、81.22（04:38），均为异步报价。G 沿 212.91m 股东现金代理，持平约 **−3.8%**、修复 **+17.5%**，双压 **−37.6%**。ADBE 现金增 6–10% 情景约 **+7.3% 至 +11.3%**，CMA 补救与续费影响未入新增假设；GIB 一年基准约 **+5.5% 至 +8.5%**、双压 **−31.5%**。GIB 全年营业现金改善，四季营业现金同比降约 16.8%，采购、续约及实收仍重要。G 的迁册表决结果未在查到的公司公告中证实。Mizuho 11/11 维持 G 为 Hold 并将目标 39 调至 44，属具名索引，不修改股东现金。G 实收改善可逆转排序，ADBE 的监管或续费影响、GIB 政府采购和现金持续性未闭合，暂无净改善稳健的执行配对。[G SEC索引](https://data.sec.gov/submissions/CIK0001398659.json) · [Adobe CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case) · [CGI原报](https://www.cgi.com/sites/default/files/2026-11/cgi-q4-2026-pr-2461356-en.pdf)
+- **PWR、SCHW、TROW**。PWR 管理层在 Baird 谈到制造及设备产能投入、公用事业营运资金结构，尚无可用于上修的量化回款，仍有同一建设周期风险。SCHW 93.00 距原资本估值低端 93.55 仅 0.55，STAX 和派息登记不替代监管资本与存款核对。TROW 110.61 对应基准约 **−2.2% 至 +2.7%**、双压 **−28.7%**，10月净流出在前节已入敏感度。[PWR实录索引](https://stockanalysis.com/stocks/pwr/transcripts/798876-baird-2026-global-industrial-conference/) · [TROW公司流量](https://investors.troweprice.com/news-releases/news-release-details/t-rowe-price-group-reports-month-end-assets-under-management-7)
+- **增量事件与报价**。BAC 联名卡期限延至 2036 年，交易对手已在 10-Q 披露，现金条款未量化。DOV 早段点相对昨收约 +4.74%，公司新品公告无订单和利润增量，不能据盘前点归因。LLY 中国口服药获批见媒体引述监管方，未取得批准原件、价格及上市现金证据，列为待核。ADBE、PAYX、AMAT、XOM、CVX 的评级索引列有 11/12 动作，实际发布时间未独立取得。TSM 与 AMAT 的早段点分别约 −1.97% 与 −1.68%，不直接作为业务下修证据。[Allegiant 10-Q](https://www.sec.gov/Archives/edgar/data/1362468/000136246826000065/algt-20260930_htm.xml) · [DOV行情及公告索引](https://stockanalysis.com/stocks/dov/) · [LLY媒体线索](https://www.reuters.com/business/healthcare-pharmaceuticals/china-approves-eli-lillys-weight-loss-pill-orforglipron-2026-11-12/)
+
+复核 100/100 常规收盘、头部新闻索引各 100/100，前节所算常规 1／5／20 日仍适用。90/100 带时刻的当日盘前点，缺 AMP、BNY、DFIN、AXS、MEDP、IQV、IR、J、ACM、OSIS。具名评级 99/100，缺 PRDO。财报索引 97/100，缺 ORCL、ADBE、PAYX，索引不等于下一财报获正式确认。25 只做定向核查或重算价格，完整新估值 0/100。公开 CSV 更新覆盖、衍生变动、来源及待验证项，不转发原始整批报价与新闻。报价横截面约 49 涨、36 跌、5 持平，主要用于筛查。
+
+|代码|11/12盘前相对昨收|下一研究点与限制|
+|---|---:|---|
+|STRL|+0.05%|Cantor论坛11/12 08:40 EST尚未开始。Baird后未核具名许可、开工和收款，既有现金模型未变。新增仍冻结，优先比较配对减敞口。|
+|G|0.00%|Mizuho具名索引11/11维持Hold、39→44；迁册表决结果仍待原始披露。以ERP回款与保理核查为先，继续比较ADBE和GIB。|
+|REGN|+0.33%|前9月公司自由现金同比降，不能将药品销售增长等同于当期现金。11/17 Jefferies，另核cemdisiran目标行动月份和实际结果。|
+|SCHW|+0.24%|盘前仅比原资本区间低端低0.55美元。STAX和股息登记日不更改净新增资产或监管资本，新增待复核。|
+|INTU|-0.48%|11/19盘后财报，电话会16:30 EST。季节性回款、AI投入与重申全年指引是下一验证点。|
+|BKNG|-0.32%|FTC收入冲减和亏损应计合计10亿美元；终局现金仍未定，欧盟DSA未解除，新增冻结。|
+|HII|-0.15%|公司核实Pascagoula支持设施破土，5000万美元为海军与Ingalls合作出资建设。与造船合同增量和可分配现金分开。|
+|AXS|缺|只核到前一时段，按常规收盘约1.29倍剔AOCI账面。Q3运营利润同比降，跟踪承保、资本与准备金。|
+|PRDO|-0.14%|11/20为FCA回复简报节点。South为有条件收购，最早2027年4月，核最终付款及现金。|
+|AMZN|+0.07%|智利AWS区域面向部分客户运营，项目现金回报未披露。结合AWS利润和集团资本开支继续核。|
+|BRK.B|+0.30%|Q3运营收益同比下降。铁路和制造支持经营跟踪，核保险、PacifiCorp山火责任与资本配置。|
+|PEP|-0.03%|关厂进度与重组现金分别核验，当前不计未验证节省，跟踪销量及促销。|
+|MSFT|-0.13%|部分商用云报价拟自2027/1/1按当地货币调整，幅度对应的续费与集团现金待核。跟踪AI资本开支及融资租赁。|
+|PWR|-0.24%|Baird管理层谈产能支出及公用事业业务结构对营运资金的影响。未取得量化现金上修，配对资格仍待核。|
+|ADBE|-0.47%|CMA案仍开放，Adobe与Google合作的续费或增量现金未披露。新评级索引非独立现金证据。|
+|TROW|-0.07%|在11/11已披露108亿美元净流出的基础上重算价格情景。资金流与费率组合继续核。|
+|LLY|+2.78%|中国口服减重药获批有媒体援引监管方，未取批件。核适应证、定价和上市，暂不入模。|
+|NVO|+0.71%|中国口服GLP-1竞争线索，核自家监管进展及定价压力，未据单一消息重算现金。|
+|DOV|+4.74%|单一早段盘前上跳待成交深度及独立来源复核。CPC新品已公告但未披露订单利润。|
+|BAC|+0.32%|联名卡续约在Allegiant 10-Q已有披露，协议延至2036年。净利润增量未披露。|
+|GOOGL|+0.32%|亚洲融资媒体线索，待定价与融资文件。未经核对不入资本成本。|
+|CSCO|-0.70%|11/12盘后财报，关注AI订单转收入、毛利与库存回款。|
+|AMAT|-1.68%|11/12盘后财报，关注中国出口限制和服务现金、设备订单，评级不提前入模。|
+|PAYX|+0.13%|具名索引出现新日看空维持，尚未重做估值，下一确认财报时点待核。|
+|FANG|-0.54%|Deep Blue出资、融资、归属与分派尚未有可入模实质证据。|
+
+基金一般更新：11/11 NAV 仍是本轮最新日值。VITAX、VINIX 前列同含 NVIDIA、Apple、Microsoft，VINIX 科技 39.7%，VITAX 半导体与设备合计约 43.6%。VBTLX 为投资级综合债基，久期、信用、按揭风险仍在。NAV、基金持仓披露日和计划转换生效日应分开。[VITAX](https://workplace.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F5487.pdf) · [VINIX](https://workplace.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F0094.pdf) · [VBTLX](https://workplace.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F0584.pdf)
+
+### 候选更新
+
+- **CAE（本轮首次入初筛，11/11 盘后原报）**。FY27 上半年 CFO 扣现金购置固定资产、无形投入、权益结算股权薪酬及租赁本金约 **C$218.1m 对 −C$97.7m**，剔除营运资本变动约 **C$154.0m 对 C$78.9m**，合资与非控股归属待核。第二季民航分部调整利润同比降，国防分部含以前年度税抵，Flightscape 拟售 **US$500m** 有条件，未计入现金。11/11 纽约收 27.39，未取 11/12 盘前点。11/12 08:00 EST 电话会后核续约、交付、合资归属和正常化估值。[公司原报](https://www.prnewswire.com/news-releases/cae-reports-second-quarter-fiscal-2027-results-302936965.html)
+- **FNV（本轮首次入初筛，11/11 盘后原报）**。前9月 CFO **US$1,432.1m 对 1,067.2m**，扣股权薪酬、设备及当期实际特许权再投入后约 **US$762.8m 对 −1,099.3m**。并购支出不均匀，此为当期代理。金当量销量下降 6%，现金受金属价格支持。Cobre Panamá 库存加工实际交付约 3,716 GEO，原矿生产仍停，复产不入基准。按 11/11 价格和市值，扣实际特许权再投入的机械年化现金收益率约 2.1%，不支持当前价格下直接新增。11/12 08:00 EST 电话会后核正常化商品价格、再投资和审批。[公司原报](https://www.prnewswire.com/news-releases/franco-nevada-reports-q3-2026-results-812447402.html)
+- **USFD、ALH（旧线索实质推进）**。USFD 前39周现金减股权薪酬、资本开支及融资租赁定期付款为 **722m 对 650m**，补齐此前租赁缺项；按指引最后13周现金资本开支约 144–164m。ALH 10-Q 确认信托受限现金 27.882m、证券化应收净额 612.303m、保留权益 62.582m。原 198.842m 是合并口径，仍须拆出实际可分配金额。均保留研究，暂无新增资格。[USFD SEC原报](https://www.sec.gov/Archives/edgar/data/1665918/000166591826000056/usfd-20260926.htm) · [ALH 10-Q](https://ir.alliancelaundry.com/financial-information/all-sec-filings/content/0001628280-26-072698/all-20260930.htm)
+- **GIB、TROW（早盘价格更新）**。GIB 续约与季度实收仍待核，现金模型不变；TROW 保留11/11资金流量敏感度，不重复扣减。以上线索均未形成可执行买入；不调整100个池内成员。
+
+下一节点为 11/12 美东 08:00 CAE 和 FNV，08:40 STRL Cantor，16:30 CSCO 和 AMAT 财报电话会，以及 11/13 08:30 PPI。后续关注 REGN 11/17、INTU 11/19 盘后与 PRDO 11/20 法律程序。[Cisco](https://investor.cisco.com/news/news-details/2026/Cisco-Schedules-Conference-Call-for-Q1-Fiscal-Year-2027-Financial-Results/default.aspx) · [Applied Materials](https://www.appliedmaterials.com/us/en/newsroom/press-releases/102226-applied-to-report-fourth-quarter-fiscal-2026-results.html) · [BLS](https://www.bls.gov/schedule/2026/11_sched_list.htm)
+
+[逐股增量列](../../data/watchlists/universe_100_20261022.csv) · [候选变更台账](../WATCHLIST_100.md)
