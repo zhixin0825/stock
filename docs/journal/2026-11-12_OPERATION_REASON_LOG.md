@@ -128,3 +128,48 @@ GIB 基准假设现金增长 5–8%，下行假设 −15%，双压再设倍数 �
 - **市场**。截至 07:07–07:08，[SPY](https://stockanalysis.com/etf/spy/) −0.43%，[QQQ](https://stockanalysis.com/etf/qqq/) −0.77%，[NVDA](https://stockanalysis.com/stocks/nvda/) $160.99（−7.33%）。NVIDIA 确认黄仁勋辞任，Colette Kress 暂代 CEO。继续看 11/17 财报的需求、指引及资本承诺，暂不因当天跌幅追买 AI 基建链。[公司公告](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) · [财报安排](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/)
 - **主组合分化**。[STRL](https://stockanalysis.com/stocks/strl/) $296.20（−2.52%），仍高于一年估值 $268–288。Cantor 时段结束，暂未看到能改写项目回款或现金流假设的公开量化披露，维持持有且不加仓。[BKNG](https://stockanalysis.com/stocks/bkng/) $164.04（+2.39%），[REGN](https://stockanalysis.com/stocks/regn/) $956.38（−0.32%），[HII](https://stockanalysis.com/stocks/hii/) $311.08（−0.92%）。[STRL 活动安排](https://www.strlco.com/news/sterling-to-participate-in-upcoming-investor-conferences-7/)
 - **G 换股复核**。[G](https://stockanalysis.com/stocks/g/) $43.62，高于 $42.80 观察价，未见 11/10 迁册投票结果的 8-K。[ADBE](https://stockanalysis.com/stocks/adbe/) $236.95，沿用模型时成长情景约 +7%–11%，G 现金恢复情景约 +17%。Adobe 取消费调查仍开放。[GIB](https://stockanalysis.com/stocks/gib/) $81.10，第四季经营现金同比下降，维持观察。没有足够优势的接替买入，G 不单挂卖单。[Genpact SEC](https://www.sec.gov/edgar/browse/?CIK=1398659) · [英国 CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case)
+
+
+## 2026-11-12 13:04 洛杉矶／11-13 05:04 北京：常规交易结束后即时复盘
+
+本段保留盘前和早盘判断。美国交易归档日为 11/12。常规盘已结束，部分个股数据仍停留在盘中，时间逐项列明。此为刚收市的人工补充，纽约 17:00 定时轮次尚未发生。
+
+### 市场与决定
+
+初步收盘 S&P 500 −0.34%、Nasdaq Composite −0.40%、Dow −0.36%。NVIDIA 董事会确认 Jensen Huang 即时辞任，CFO Colette Kress 暂代 CEO。NVDA 较开盘低点回升，最后取得临近收盘成交仍跌约 5%。对资本开支和订单的后续影响尚无法量化。11/17 14:00 PT 公司电话会将核需求、指引和融资承诺。[收盘报道](https://www.reuters.com/business/nasdaq-futures-fall-nvidia-turmoil-rattles-ai-stocks-2026-11-12/) · [公司公告索引](https://nvidianews.nvidia.com/news/?c=21926) · [NVDA 财报日程](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/)
+
+- **STRL** 盘中 288.00–311.50，12:55 PT 为 301.84。按盘前既定一年终值区间 268–288，当前基准约 −11.2% 至 −4.6%。Cantor 会后定向查阅未取得能修改具名项目开工、回款或普通股现金假设的新量化材料。价格回升维持原新增限制及配对减敞口研究优先级。次场公司论坛于 11/13 11:40 ET／08:40 PT／北京时间 11/14 00:40，修正盘前段落的北京时间换算。[公司会程](https://www.strlco.com/news/sterling-to-participate-in-upcoming-investor-conferences-7/)
+- **G** 12:41 PT 为 43.03，较昨收约 −1.3%。基于已归档同额模型和固定终值锚，现金持平约 −2.6%，回款修复约 +19.1%。滚动归属现金代理约 213m 仍待实收验证。ADBE 的监管补救、续费与 GIB 的季度现金是配对约束。ADBE、GIB 尾盘快照仍不足以解开这些缺项。本轮未查到可核迁册表决结果，以 SEC 后续文件为准。[Genpact SEC](https://www.sec.gov/edgar/browse/?CIK=1398659) · [Adobe CMA 事项](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case)
+- **当前研究状态**为无新增、无单边退出、无合格配对。SCHW 价格回落，但资本模型低端 93.55 对 91.66 的价格余量约 2.0%，低于此前案例采用的约 8% 余量。旧研究价和旧成交状态不能由此推出有效订单。REGN、INTU、HII、AXS、PRDO、BKNG、AMZN、BRK.B、PEP、MSFT 的经营约束与下一验证点承接[同日盘前逐股记录](../reviews/2026-11-12_EVENING_OPERATION_PLAN.md)。
+
+### 同日行情与研究覆盖
+
+1／5／20 日均按名义价格对 11/11、11/5、10/15 常规收盘，不计股息。盘中点暂代当日终点；不同步行情不能做精确的同步归因。表内 AMZN、BRK.B、MSFT、AXS 为当前取得的常规收盘标记。盘后另核，AMZN 首见 13:00 PT 盘后 267.32，未混入表中。未完成其他代码盘后覆盖。
+
+|代码|价格 USD|11/12 洛杉矶时间与时段|1 / 5 / 20 交易日价格变化|
+|---|---:|---|---|
+|[ADBE](https://stockanalysis.com/stocks/adbe/history/)|239.05|12:51 盘中|+0.61% / -3.00% / -5.01%|
+|[AMZN](https://stockanalysis.com/stocks/amzn/history/)|267.41|13:00 常规收盘|+0.47% / +2.77% / +4.97%|
+|[AXS](https://stockanalysis.com/stocks/axs/history/)|108.22|13:00 常规收盘|-0.17% / +0.27% / +10.51%|
+|[BKNG](https://stockanalysis.com/stocks/bkng/history/)|161.19|12:55 盘中|+0.61% / -4.46% / -2.78%|
+|[BRK.B](https://stockanalysis.com/stocks/brk.b/history/)|589.28|13:00 常规收盘|+0.18% / +2.96% / +12.10%|
+|[G](https://stockanalysis.com/stocks/g/history/)|43.03|12:41 盘中|-1.31% / +4.70% / +14.47%|
+|[GIB](https://stockanalysis.com/stocks/gib/history/)|81.89|11:49 盘中|+0.94% / -0.58% / +9.38%|
+|[HII](https://stockanalysis.com/stocks/hii/history/)|310.39|12:28 盘中|-1.14% / +7.25% / +16.16%|
+|[INTU](https://stockanalysis.com/stocks/intu/history/)|339.66|12:56 盘中|-0.87% / -4.28% / +2.87%|
+|[MSFT](https://stockanalysis.com/stocks/msft/history/)|523.20|13:00 常规收盘|+0.40% / -2.38% / -3.01%|
+|[NVDA](https://stockanalysis.com/stocks/nvda/history/)|164.24|12:41 盘中|-5.46% / -9.56% / -24.39%|
+|[PEP](https://stockanalysis.com/stocks/pep/history/)|142.88|12:38 盘中|-0.74% / +0.12% / +11.29%|
+|[PRDO](https://stockanalysis.com/stocks/prdo/history/)|29.01|12:46 盘中|+0.17% / +9.27% / -14.35%|
+|[QQQ](https://stockanalysis.com/etf/qqq/history/)|687.36|12:50 盘中|-0.44% / +6.23% / -5.58%|
+|[REGN](https://stockanalysis.com/stocks/regn/history/)|952.08|12:51 盘中|-0.76% / +5.45% / +19.56%|
+|[RSP](https://stockanalysis.com/etf/rsp/history/)|221.03|12:36 盘中|-0.73% / +1.92% / +2.80%|
+|[SCHW](https://stockanalysis.com/stocks/schw/history/)|91.66|12:59 盘中|-1.21% / -0.99% / -2.66%|
+|[SPY](https://stockanalysis.com/etf/spy/history/)|757.17|12:46 盘中|-0.35% / +3.30% / -1.89%|
+|[STRL](https://stockanalysis.com/stocks/strl/history/)|301.84|12:55 盘中|-0.66% / +23.53% / -32.36%|
+
+行业代理盘中快照：[XLI](https://stockanalysis.com/etf/xli/) −0.92% @12:53、[XLK](https://stockanalysis.com/etf/xlk/) −0.54% @12:50、[XLF](https://stockanalysis.com/etf/xlf/) −0.51% @12:33、[XLV](https://stockanalysis.com/etf/xlv/) −0.35% @12:43、[XLY](https://stockanalysis.com/etf/xly/) −0.39% @12:36、[XLP](https://stockanalysis.com/etf/xlp/) −0.20% @12:35 PT。行业相对表现仅作参照。
+
+[盘前方案](../reviews/2026-11-12_EVENING_OPERATION_PLAN.md)记录全池 100/100 昨收与新闻索引、97/100 盘前及 99/100 具名评级索引，早盘段有 100/100 盘中价。收市即时补充仅更新表内代码和行业基准，未重新逐股采齐全池 16:00 收盘，未新增完整现金估值。BALL、CTVA 是晚间新增初筛，两者暂未取得新增资金资格。现行名单沿用，无成员变动；本轮未调整 CSV 的历史行情字段。
+
+下一事件为 CSCO、AMAT 今日 13:30 PT 电话会，11/13 05:30 PT 的美国 PPI，以及 08:40 PT 的 STRL 论坛。基金沿用已取得的 11/11 NAV，11/12 NAV 待公布，计划份额与实际转换确认继续分开。[Cisco](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-schedules-conference-call-for-q1-fiscal-year-2027-financial-results.html) · [Applied Materials](https://ir.appliedmaterials.com/events/event-details/q4-2026-applied-materials-earnings-conference-call) · [BLS](https://www.bls.gov/schedule/2026/11_sched_list.htm)
