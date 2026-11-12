@@ -121,3 +121,10 @@ GIB 基准假设现金增长 5–8%，下行假设 −15%，双压再设倍数 �
 下一节点为 11/12 美东 08:00 CAE 和 FNV，08:40 STRL Cantor，16:30 CSCO 和 AMAT 财报电话会，以及 11/13 08:30 PPI。后续关注 REGN 11/17、INTU 11/19 盘后与 PRDO 11/20 法律程序。[Cisco](https://investor.cisco.com/news/news-details/2026/Cisco-Schedules-Conference-Call-for-Q1-Fiscal-Year-2027-Financial-Results/default.aspx) · [Applied Materials](https://www.appliedmaterials.com/us/en/newsroom/press-releases/102226-applied-to-report-fourth-quarter-fiscal-2026-results.html) · [BLS](https://www.bls.gov/schedule/2026/11_sched_list.htm)
 
 [逐股增量列](../../data/watchlists/universe_100_20261022.csv) · [候选变更台账](../WATCHLIST_100.md)
+
+## 11 月 12 日开盘后复核（美西 07:08）
+
+- **盘中结论**。主组合维持 9 只，买入、加仓、卖出均为空。07:06 取到候选池 100/100 只当日开盘后报价，时间戳为 06:46–07:06，44 涨、56 跌。本轮沿用盘前基本面覆盖和已建估值，盘中覆盖是价格扫描。详见[盘前评估](../reviews/2026-11-12_EVENING_OPERATION_PLAN.md)。
+- **市场**。截至 07:07–07:08，[SPY](https://stockanalysis.com/etf/spy/) −0.43%，[QQQ](https://stockanalysis.com/etf/qqq/) −0.77%，[NVDA](https://stockanalysis.com/stocks/nvda/) $160.99（−7.33%）。NVIDIA 确认黄仁勋辞任，Colette Kress 暂代 CEO。继续看 11/17 财报的需求、指引及资本承诺，暂不因当天跌幅追买 AI 基建链。[公司公告](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) · [财报安排](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/)
+- **主组合分化**。[STRL](https://stockanalysis.com/stocks/strl/) $296.20（−2.52%），仍高于一年估值 $268–288。Cantor 时段结束，暂未看到能改写项目回款或现金流假设的公开量化披露，维持持有且不加仓。[BKNG](https://stockanalysis.com/stocks/bkng/) $164.04（+2.39%），[REGN](https://stockanalysis.com/stocks/regn/) $956.38（−0.32%），[HII](https://stockanalysis.com/stocks/hii/) $311.08（−0.92%）。[STRL 活动安排](https://www.strlco.com/news/sterling-to-participate-in-upcoming-investor-conferences-7/)
+- **G 换股复核**。[G](https://stockanalysis.com/stocks/g/) $43.62，高于 $42.80 观察价，未见 11/10 迁册投票结果的 8-K。[ADBE](https://stockanalysis.com/stocks/adbe/) $236.95，沿用模型时成长情景约 +7%–11%，G 现金恢复情景约 +17%。Adobe 取消费调查仍开放。[GIB](https://stockanalysis.com/stocks/gib/) $81.10，第四季经营现金同比下降，维持观察。没有足够优势的接替买入，G 不单挂卖单。[Genpact SEC](https://www.sec.gov/edgar/browse/?CIK=1398659) · [英国 CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case)
