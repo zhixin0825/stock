@@ -88,3 +88,28 @@ G追平ADBE现金持平需221.2m，追平ADBE成长情景需234.7–243.7m，较
 - G 06:47 报 42.80，ADBE 06:54 报 236.50。按同额一年原模型，G 现金持平约 −2.0%、回款恢复约 +19.7%；ADBE 现金持平约 +1.2%、现金增 6%–10% 约 +7.3% 至 +11.3%，若加 5% 持续现金折减则约 +1.9% 至 +5.7%。G 表决结果在 SEC 最新提交及公司新闻室仍未核实；CMA 调查开放。TROW 06:54 报 110.13，今日公司披露十月净流出 108 亿美元，主动净流出疑问继续保留。暂无合格配对。[G](https://stockanalysis.com/stocks/g/) · [ADBE](https://stockanalysis.com/stocks/adbe/) · [CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case) · [G SEC 索引](https://data.sec.gov/submissions/CIK0001398659.json) · [TROW 新闻室](https://investors.troweprice.com/news-releases)
 - CGI 全年审计财报已补读。FY26 营业现金约 C$24.79 亿，扣固定资产、资本化合同成本、无形资产、股权薪酬和租赁付款后约 C$18.51 亿，去年约 C$16.20 亿。按 GIB 06:51 报 81.855、期末约 2.067 亿股及研究汇率约 C$1.42/USD，现金代理约市值 7.7%，再扣实际并购净支出约 6.9%。第四季营业现金同比约 −16.8%，汇率及持续现金仍需验证。继续作为 G 同业对照。[CGI 原报](https://www.cgi.com/en/cgi-reports-fourth-quarter-f2026-results) · [CGI 审计财报](https://www.cgi.com/sites/default/files/2026-11/cgi-q4-2026-fs-2461356-en.pdf) · [GIB](https://stockanalysis.com/stocks/gib/)
 - REGN 06:54 常规报 904.08（−1.31%），暂用带时间的常规报价替换盘前异源点作价格参考，未见足以重置经营模型的新资料。SCHW 06:55 报 92.60，离资本模型低端 93.55 的余量仍薄。[REGN](https://stockanalysis.com/stocks/regn/) · [SCHW](https://stockanalysis.com/stocks/schw/)
+
+
+## 2026-11-12 14:24 洛杉矶：复核 11/11 全天未换股的证据
+
+本段是事后审计。事前部分只使用 11/11 常规收盘之前已经公开的材料及当时带时点报价，保留[盘前原案](../reviews/2026-11-11_EVENING_OPERATION_PLAN.md)和上文早盘记录。次日价格另列。
+
+**结论。** 11/11 盘前没有完成独立买入和相对替换两项审查，暂缓交易合理。早盘确有候选在数个情景优于弱项，且 GIB 的财报后价格和审计现金已记在当天日志，缺少把它直接配对 STRL 的记录。审计补完这项比较后，GIB 的独立价值对并购资金需求和折现率仍敏感。维持当日无可确认配对的判断，不能推导持有对象全面优于候选或全天不交易是唯一最优。未使用事后走势判定准入。
+
+### 11/11 早盘最强缺失比较：STRL 与 GIB
+
+取早盘 STRL 301.54（06:50 PT）、GIB 81.855（06:51 PT），均在对应当时的可见时点，未验证同一时刻盘口、价差或执行。每 10,000 同额、一年。STRL 沿盘前普通股现金情景、估值倍数和终值 268–288，回报约 −11.1% 至 −4.5%；基准现金与倍数各再下调 20% 时约 −43.1% 至 −38.9%，仅为共同冲击敏感度，不在独立 DCF 重扣。GIB 用同一入场倍数、美元兑加元不变、股东现金增长 5%–8% 的研究假设及年化 C$0.74 分派，基准 +5.6% 至 +8.6%。从其自身基准施加同样两个 20% 冲击及分派减半，约 −32.5% 至 −30.6%；平现金平倍数仅约 +0.6% 分派。两组压力不是相同概率。GIB 减少项目许可和开工的共同风险，增加政府采购、服务续约及汇率风险。[STRL 10-Q](https://www.sec.gov/Archives/edgar/data/874238/000087423826000125/strl-20260930.htm) · [CGI 11/11 原报](https://www.cgi.com/en/cgi-reports-fourth-quarter-f2026-results)
+
+CGI 审计桥，百万加元：2,479.406 经营现金减 118.549 固定资产、117.931 合同投入、148.963 无形投入、63.447 股权薪酬及 179.878 租赁付款，得 1,850.638，去年同口径 1,619.655。再扣本年净并购付款 198.197 为 1,652.441。以期末约 206.7m 股和研究汇率 C$1.42/USD，在 81.855 时对应 7.7% 或 6.9% 的历史现金代理收益率。并购不是固定成本，作为敏感度保留。季度经营现金同比 −16.8%，而扣营运资金变动前由 C$567.3m 增至 C$694.6m；公司主要归因为客户收款及员工付款时点。不能用该季度标题数直接否决。美国联邦分部占收入约 13%，FY26 调整 EBIT 同比减少 C$35.7m，是真实反方。[当日审计表](https://www.sec.gov/Archives/edgar/data/1061574/000106157426000020/cgifsq4fy2026.htm) · [当日 MD&A](https://www.sec.gov/Archives/edgar/data/1061574/000106157426000020/cgi-fy26_q4xmda.htm)
+
+本次额外补做独立估值敏感度。以上两档历史现金为起点，未来五年研究增长 3%–5%，永续 2%，固定股数、汇率，不另加回购或股息，按 10% 折现得约 US$75–91；改用 12% 约 US$60–73。范围不是报价或新筛选门槛。11/11 早盘约 82 美元处于前一估值区间内，是否持续需要并购资本、续约回款和资金成本足以改变独立买入结论。应优先完成该配对的成交价和估值复核，当天记录没有完成。
+
+### 其余实际挑战者及未完成覆盖
+
+- **G 与 ADBE。** 11/11 07:00／06:58 ET 的 42.99／235.40。用原固定估值锚，G 平现金 −2.5%、修复 +19.2%，ADBE 现金增长 +7.8% 至 +11.8%，双压约 −36.7%／−26.8%。该终值锚随价格变化不会严格等于成交时倍数。按各自成交时倍数严格不变，G 平现金约 +1.7%（股息），ADBE 平现金 0%；G 修复至 260.971m 约 +24.3%，ADBE 增长情景 +6% 至 +10%。G 若恢复到约 222–231m 即可追平后者的增长情景。CMA 事项是英国部分订阅的取消费，仍开放。模型的 ADBE 现金折减 5% 只是敏感度，不能写成实损。回款和续费情景能逆转排序。[G 季报](https://www.sec.gov/Archives/edgar/data/1398659/000139865926000019/g-20260930.htm) · [CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case)
+- **STRL 与 SCHW、TROW。** 11/11 早盘 SCHW 92.60，沿 90 的历史终值锚增长情景 +8.3% 至 +13.2%，相对 STRL 基准较优。独立资本估值低端 93.55，约 1% 余量，资本和融资成本是反方。若买入端已在组合中，须核剩余可配置额度，等额研究不能代替仓位可行性。TROW 110.13 的原模型约 −1.8% 至 +3.2%，相对 STRL 的基准较好，独立增配补偿有限，当日原报十月净流出 10.8bn。单月流出不是自动否决。[SCHW 10-Q](https://www.sec.gov/Archives/edgar/data/316709/000031670926000038/schw-20260930.htm) · [TROW 资金流原报](https://investors.troweprice.com/news-releases/news-release-details/t-rowe-price-group-reports-month-end-assets-under-management-7)
+- **范围。** 11/11 归档有昨收及新闻索引 100/100、盘前 95/100、具名评级 99/100、七个重点价格情景及 PWR 现金复核。盘中另有 100/100 价格扫描，完整新增独立估值 0/100。USFD 的 11/5 公开原报在下一轮才纳入发现，属于当日搜寻缺口；可取得公开材料不代表其已通过买入。本次是定向复盘及一项额外独立估值敏感度，无成员改动。[USFD 原报](https://www.sec.gov/Archives/edgar/data/1665918/000166591826000053/usfd09262026ex991.htm)
+
+### 次日同收盘反事实
+
+11/11 至 11/12 常规收盘，STRL −0.74%、GIB +0.84%、G −1.08%、ADBE +0.40%、SCHW −1.14%、TROW −2.23%。若以同额 10,000 在 11/11 收盘可成交的假设作对照，STRL 到 GIB 比继续配置 STRL 约多 158，G 到 ADBE 约多 147，STRL 到 SCHW 约少 40，STRL 到 TROW 约少 149。均为未计费用、税务和价差的一日算术，不用来证明前一日交易本可成交或中期策略优劣。本公开记录仅含通用比较，不含个人成交或财务资料。[STRL](https://stockanalysis.com/stocks/strl/history/) · [GIB](https://stockanalysis.com/stocks/gib/history/) · [G](https://stockanalysis.com/stocks/g/history/) · [ADBE](https://stockanalysis.com/stocks/adbe/history/) · [SCHW](https://stockanalysis.com/stocks/schw/history/) · [TROW](https://stockanalysis.com/stocks/trow/history/)
