@@ -103,3 +103,24 @@ GIB FY26 美国联邦业务约占 13% 收入，分部营收下降 3.8%、调整 
 - **执行结论**。没有新的买入、加仓、单边卖出或配对换股建议。SPY −0.56%（10:45 PT）、QQQ −1.42%（10:46）、XLI −0.58%（10:45）。报价各按其时间，不代表可成交盘口。[SPY](https://stockanalysis.com/etf/spy/) · [QQQ](https://stockanalysis.com/etf/qqq/) · [XLI](https://stockanalysis.com/etf/xli/)
 - **STRL／GIB**。STRL 291.80（−3.25%，10:45），日低 284.51，已回到原估值上沿 288 之上。J.P. Morgan 论坛已过预定时段，公司活动页暂未见公开录像、简报或可核的具名开工及回款数据。GIB 82.26（10:36），约高于 65 的条件买入上限 27%。以同一原终值重算，STRL 基准 −8.2% 至 −1.3%，GIB 现金增长情景 +4.1% 至 +7.1%、持平约 −0.7%。当前没有配对执行条件。[STRL](https://stockanalysis.com/stocks/strl/) · [GIB](https://stockanalysis.com/stocks/gib/) · [论坛及披露](https://www.strlco.com/investor-relations/events-presentations/)
 - **G／ADBE**。G 43.77（10:44），ADBE 242.42（10:44）。未见当日新 SEC 文件改写 G 回款假设，仍以迁册表决通过但现金效果待核处理。ADBE 调查仍开放，现价未通过配对。CSCO 95.57、AMAT 365.64 的报告后现金代理收益率分别约 2.6%、1.9%，延续观察。仅复核这些重点，沿用上文全池覆盖口径。[G 行情](https://stockanalysis.com/stocks/g/) · [G 8-K](https://www.sec.gov/Archives/edgar/data/1398659/000139865926000021/g-20261110.htm) · [CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case)
+
+
+## 11/13 美西 11:01：现价持有依据与跨行业替代
+
+沿用当日盘前及 10:46 复核规则，新增公开报表核算与估值敏感度。估值均为研究情景。报价来自 11/13 10:44–11:00 PT 的常规盘最后成交，非同步盘口。只更新本文所列股票，不能把 100 只行情筛查算作完整估值。下表现金收益率为经营现金扣必要资本开支及股权薪酬等已注明扣项后的代理除以市值，未获证实的长期归属现金及尚未支付的收购或重组成本保留单列。
+
+|代码|报价与证据|下一判定|
+|---|---|---|
+|STRL|291.62。原一年终值 268–288 对应 −8.1% 至 −1.2%。TTM 扣实际资本支出、SBC 和实际少数权益分派约 397.5m，市值收益率 4.5%。九月累计合同营运资金流出 350.8m。|配对减敞口优先。存量工程、FY26 GAAP EPS 指引和已实现现金是正面证据，尚未找到论坛后可量化的具名开工或回款。新增冻结。|
+|G|43.75。原一年现金持平约 −4.1%，回款修复约 +17.1%。|对回款改善的依赖高，迁册表决通过后仍需应收账龄、保理与实际现金验证。|
+|GIB|81.97。保留 65 的条件买价，现价仍高约 26%。|政府续约、季度回款与汇率核实后才可评估。|
+|CROX|162.70。FY25 扣资本支出与 SBC 为 622.499m，加 9M26 的 471.078m、减 9M25 的 384.269m，再扣 67m 已收关税退款，滚动代理 642.308m，约 8.6%。9M 税款等营运资金时点仍可能抬高基数。|45.725m 股，五年现金持平至增 3%、永续增 2%、折现 10–11%，约 146–187。现金再降 10%、前五年持平及折现 11% 时约 132。HEYDUDE Q3 销售 +6.1%，全年指引约持平，仍核节日销售、现行关税及税款现金。现价待观察。|
+|CMCSA|25.20。CFO 扣现金资本支出、无形投入与 SBC，9M26 为 11.582bn（同比 −16.4%），混合范围 TTM 约 15.68bn。|TTM 含已分拆 Versant 的部分业绩。按约 3.562bn 股、10% 折现和零增长，分拆后两家公司合计普通股年度现金约 9.0bn 对应现价，约 9.9bn 对应 10% 估值空间。需验证分拆前后债务、重组现金与新结构下资本开支，不能沿用混合范围历史收益率放行。|
+|EOG|157.85。按报表 TTM 扣资本支出、SBC 与融资租赁本金约 7.122bn，现金收益率 8.7%。|按示例现金折减 20%，五年增 2–3%、永续 2%、折现 10–11%、约 518.5m 股，约 125–146。油价、NGL、套保和实际维持资本先核，125–130 可优先复核。|
+|DFIN|67.89。GAAP TTM 扣资本支出及 SBC 约 136.4m，收益率 8.3%。FY25 同口径 76.4m，9M26 为 107.8m，去年同期 39.6m。|营运资金、养老金与 IPO/交易周期须验证。现金 110–136.4m、前五年增 3%、永续 2%、折现 10–11% 给约 53–74。现价仅在较好一端有余量。|
+
+[STRL 10-Q](https://www.sec.gov/Archives/edgar/data/874238/000087423826000125/strl-20260930.htm) · [STRL 10-K](https://www.sec.gov/Archives/edgar/data/874238/000087423826000024/strl-20251231.htm) · [CROX 10-Q](https://www.sec.gov/Archives/edgar/data/1334036/000133403626000060/crox-20260930.htm) · [CROX 10-K](https://www.sec.gov/Archives/edgar/data/1334036/000133403626000006/crox-20251231.htm) · [CMCSA 10-Q](https://www.sec.gov/Archives/edgar/data/1166691/000162828026066863/cmcsa-20260930.htm) · [CMCSA 10-K](https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm) · [EOG 10-Q](https://www.sec.gov/Archives/edgar/data/821189/000082118926000227/eog-20260930.htm) · [EOG 10-K](https://www.sec.gov/Archives/edgar/data/821189/000082118926000054/eog-20251231.htm) · [DFIN 10-Q](https://www.sec.gov/Archives/edgar/data/1669811/000119312526437777/dfin-20260930.htm) · [DFIN 10-K](https://www.sec.gov/Archives/edgar/data/1669811/000119312526054586/dfin-20251231.htm)
+
+**判定**。CROX、EOG、DFIN 的可核现金收益率高于 STRL，CMCSA 优先核实是否在当前报价就有分拆后现金余量。没有足够证据给出本轮买单或配对卖单。下一次按两端同一时段报价、实质公告和价差重核，费用及税务单列。缺少合格配对是当前执行约束，STRL 当前估值仍须独立列为弱项。
+
+其他现价证据。PRDO 过去四季扣资本支出、SBC 及最新九个月同比额外营运资金贡献后约 218.2m，现价现金代理约 12.2%，仍跟进 11/20 FCA 回复及 South 交割款。INTU FY26 按正常化现金税款及是否进一步扣净贷款投入，约 5.10–5.39bn，对当前市值约 5.6–5.9%。AXS 剔 AOCI 每股账面 84.33，约 1.29 倍，继续核准备金及可派资本。HII 9M 公司自由现金流 −182m，FY 指引 500–600m，意味着 Q4 需要 682–782m。上述指标分别为现金收益率、账面估值与经营要求，无法统一解释为股价上涨幅度。[PRDO](https://www.sec.gov/Archives/edgar/data/1046568/000119312526449730/prdo-20260930.htm) · [INTU](https://investors.intuit.com/sec-filings/all-sec-filings/content/0000896878-26-000037/intu-20260731.htm) · [AXS](https://s206.q4cdn.com/365175465/files/content_files/Q3-2026-Press-Release-FINAL-10-28-26.pdf) · [HII](https://s25.q4cdn.com/753252112/files/doc_earnings/2026/q3/earnings-result/Q326-HII-Press-Release.pdf)
