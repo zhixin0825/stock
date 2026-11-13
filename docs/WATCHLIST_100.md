@@ -1,5 +1,7 @@
 # 100隻美股機會觀察池
 
+> **当前入口：2026-11-13 盘前复核。** [当晚研究](reviews/2026-11-13_EVENING_OPERATION_PLAN.md)及逐股 CSV 的 `evening_20261113_*` 列；[11/12 正式收盘及盘后复盘](journal/2026-11-12_OPERATION_REASON_LOG.md)及其历史列保留。
+
 > **当前入口：2026-11-12 正式收盘及盘后复盘。** 见[操作理由日志](journal/2026-11-12_OPERATION_REASON_LOG.md)及逐股 CSV 的 `afterclose_20261112_*` 列；[晚间事前方案](reviews/2026-11-12_EVENING_OPERATION_PLAN.md)与此前盘前列保留。
 
 版本：2026年11月3日补做美股11月2日收盘复盘；新闻截止2026-11-02 20:00 EST／北京2026-11-03 09:00；实际编写2026-11-03T09:17:29+08:00。100个唯一代码，原名册基准2026年10月22日。公开池不标示个人持仓，基金另列。
@@ -518,3 +520,11 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **YETI，11/12 收市轮次首次入台账。** 原报第三季经营利润 60.968m 对 54.353m。前九月经营现金 110.219m，扣现金资本开支 38.502m 和股权薪酬 28.425m，现金代理 **43.292m 对 17.657m**；应付款变动及税款有较大贡献，尚未核完整租赁及正常化。全年调整后EPS指引由 2.94–3.00 下调至 2.90–2.95，收 38.30，观察假期销售和回款，不晋级。[SEC原报](https://www.sec.gov/Archives/edgar/data/1670592/000167059226000043/yeti-20261112xex991pressre.htm)
 - **EPC，11/12 收市轮次首次初筛。** FY26 现金流 49.6m 扣资本开支 59.6m、股权薪酬 19.0m，得 **−29.0m 对 +16.9m**。均为合并历史现金，未计资产出售及未验证调整；剥离交易和过渡服务收入限制同口径。收 28.74，FY27 公司调整后FCF 100–120m 为指引，待核剥离税款、保理和新业务实收，暂排除新增。[公司原报](https://ir.edgewell.com/news-and-events/press-releases/2026/11-12-2026-110150942?sc_lang=en)
 - **旧线索。** CAE 28.15、FNV 247.72 更新到收盘。未取到足以改写 CAE 合资归属或 FNV 矿山复产与正常化再投入的新证据。BALL 的营运资金回收未补，CTVA 分拆后独立现金与资本结构未闭合，均沿当日晚间记录。GIB 重新计价，季度回款继续核。100 个成员无调整。研究优先 CSCO、AMAT、GIB、ADBE、YETI，可执行新增为空。
+
+## 2026-11-13 盘前候选台账
+
+收盘索引及新闻头部各 100/100，具名动作 99/100，财报索引 97/100，带时标盘前 93/100。盘前缺 DFIN、AXS、IQV、IR、J、G、PRDO。定向重价／现金收益率更新 8/100，新增完整独立估值池内 0/100。逐股新增来源时间、研究深度、状态及下次核验字段，历史数据列保留。[当晚比较及来源](reviews/2026-11-13_EVENING_OPERATION_PLAN.md)
+
+- **NU，11/13 首次初筛，拉美零售金融。** 11/12 公司原报第三季 IFRS 净利约 US$1.1bn，汇率中性同比 +31%，存款 US$47.5bn。90 日以上逾期率 7.3%，前季 6.9%。贷款增长有真实盈利，存款为负债；跨实体资本、信用成本、汇率与可分配资本尚未核成统一估值。盘前样本 06:49 EST；留研究，下一次先看巴西等子公司资本、贷款批次和实际拨备。[公司原报](https://nu.com/en/newsroom/company/nu-holdings-ltd-reports-third-quarter-2026-financial-results) · [行情](https://stockanalysis.com/stocks/nu/)
+- **CBRS，11/13 首次初筛，AI 计算。** 11/12 10-Q 披露客户协议，Microsoft 条款和现金兑现仍待披露。前三季经营现金 −US$388.9m 对 −US$134.2m，扣现金设备开支后约 −US$1.435bn 对 −US$435.4m，均未额外扣 SBC；同一现金流表的 SBC US$541.7m 对 US$33.8m。收入增长与客户融资风险同在。盘前样本 06:32 EST；本轮排除新增，核已付款、设备投产和稀释。[10-Q](https://investors.cerebras.ai/static-files/9c021f1a-3cc4-44b6-97fa-ef1a4ad2e0d8) · [公司原报](https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026) · [行情](https://stockanalysis.com/stocks/cbrs/)
+- **旧线索推进。** GIB 新做两档独立现金及折现率敏感度。CSCO 和 AMAT 沿昨晚已做的现金桥按新报价重算收益率。YETI、EPC、BALL、CTVA 仍分别待节日回款、剥离税费、季节性营运资金回收及分拆后的资本结构。全池 100 个唯一代码，未取得足以用 NU 或 CBRS 替换成员的证据。研究顺序 GIB、NU、CSCO、AMAT、ADBE。可执行新增为空。[前次现金桥](journal/2026-11-12_OPERATION_REASON_LOG.md)
