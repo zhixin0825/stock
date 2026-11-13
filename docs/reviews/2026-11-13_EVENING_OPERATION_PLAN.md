@@ -60,3 +60,9 @@ STRL 与 GIB 的绝对风险情景采用各自证据，双压参数不视为相�
 北京时间 11/13 21:30 PPI、22:30 开盘，11/14 00:40 STRL 论坛；纽约 11/17 REGN 公司会议、Loudoun 提案及 17:00 NVDA 财报电话会，11/19 INTU 盘后，11/20 PRDO FCA 回复简报。下一轮重点保留企业现金验证及错过涨幅的机会成本。前一收市轮次可核启动与完成，启动约晚四分钟，归档存在；独立送达未核实。前一晚间轮次完成与归档可核，独立送达未核实。[BLS](https://www.bls.gov/schedule/2026/11_sched_list.htm) · [NVIDIA 财报会](https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873)
 
 [100 只逐股明细](../../data/watchlists/universe_100_20261022.csv) · [候选台账](../WATCHLIST_100.md) · [前日晚间事前方案](2026-11-12_EVENING_OPERATION_PLAN.md)
+
+## 11/13 北京 20:00 样本更新及财报时间补核
+
+- MSFT 纽约 07:00 盘前样本较常规收盘 −1.43%，替代上表 06:27 样本用于本轮摘要。服务仍在修复，完整恢复及可归属现金影响待核。事件处理结论不变。[行情](https://stockanalysis.com/stocks/msft/) · [恢复状态](https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203)
+- 纽约 11/16 ACM 盘后公布财报，11/17 08:00 EST 电话会；同日 HD 与 REGN 09:00 EST 分别开财报会及投资者活动，NVDA 17:00 EST 财报会。ACM 先核项目投入和现金，HD 核需求与同店，REGN 核产品现金，NVDA 核需求和客户预算。上述是公司公布的时点。[ACM](https://aecom.gcs-web.com/news-releases/news-release-details/aecom-announces-planned-dates-fourth-quarter-and-full-year-0) · [HD](https://ir.homedepot.com/news-releases/2026/11-03-2026-130236805) · [NVDA](https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873)
+- GIB 的 US$75 是 10% 折现率下低现金、低增速的估值端点；US$60 是同一现金路径采用 12% 折现率的端点。两者是分析参考，且 US$75 仍需重新核季度实收及安全边际。STRL 的 US$268–288 为原正常化终值，无适用卖出限价。现价事件前承担依据来自已执行工程和实收，风险偏好仍是优先核替换。所有新动作最迟在下单判断前以同一时段报价、账户及双方证据复核。
