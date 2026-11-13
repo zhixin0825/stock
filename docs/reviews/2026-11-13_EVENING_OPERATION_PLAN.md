@@ -96,3 +96,10 @@ GIB FY26 美国联邦业务约占 13% 收入，分部营收下降 3.8%、调整 
 ### 与 STRL 配对条件
 
 以相同 10,000、未来一年比较。STRL 300 对此前正常化终值 268–288，基准 −10.7% 至 −4.0%。GIB 65 按各自入场估值倍数及汇率不变，现金增 3%–5% 的研究情景加约 0.8% 分派，基准 +3.8% 至 +5.8%；现金持平约 +0.8%。若采用两端统一的现金持平且入场倍数不变，STRL 无常规股息约 0%；施加相同现金与倍数各降 20%，股价贡献均为 −36%，GIB 半额分派后约 −35.6%。STRL 原正常化终值和共同压力是不同检验。GIB 可降低对施工许可、数据中心开工和在建项目回款的直接暴露，增加政府服务、并购及外汇风险。若股价到上限源自基本面下修，先重算。65 只解决拟买入端的研究价格，STRL 卖端仍需最新会后证据、价格、成交后拟配权重、适用费用和未知税务独立核实，未发布卖出价及精确数量。当前价格下仍不建议单边卖出。仅作两端复核，无池内成员变更。
+
+
+## 11/13 美西 10:46：盘中复核
+
+- **执行结论**。没有新的买入、加仓、单边卖出或配对换股建议。SPY −0.56%（10:45 PT）、QQQ −1.42%（10:46）、XLI −0.58%（10:45）。报价各按其时间，不代表可成交盘口。[SPY](https://stockanalysis.com/etf/spy/) · [QQQ](https://stockanalysis.com/etf/qqq/) · [XLI](https://stockanalysis.com/etf/xli/)
+- **STRL／GIB**。STRL 291.80（−3.25%，10:45），日低 284.51，已回到原估值上沿 288 之上。J.P. Morgan 论坛已过预定时段，公司活动页暂未见公开录像、简报或可核的具名开工及回款数据。GIB 82.26（10:36），约高于 65 的条件买入上限 27%。以同一原终值重算，STRL 基准 −8.2% 至 −1.3%，GIB 现金增长情景 +4.1% 至 +7.1%、持平约 −0.7%。当前没有配对执行条件。[STRL](https://stockanalysis.com/stocks/strl/) · [GIB](https://stockanalysis.com/stocks/gib/) · [论坛及披露](https://www.strlco.com/investor-relations/events-presentations/)
+- **G／ADBE**。G 43.77（10:44），ADBE 242.42（10:44）。未见当日新 SEC 文件改写 G 回款假设，仍以迁册表决通过但现金效果待核处理。ADBE 调查仍开放，现价未通过配对。CSCO 95.57、AMAT 365.64 的报告后现金代理收益率分别约 2.6%、1.9%，延续观察。仅复核这些重点，沿用上文全池覆盖口径。[G 行情](https://stockanalysis.com/stocks/g/) · [G 8-K](https://www.sec.gov/Archives/edgar/data/1398659/000139865926000021/g-20261110.htm) · [CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case)
