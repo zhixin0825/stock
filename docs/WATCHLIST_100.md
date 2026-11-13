@@ -1,5 +1,7 @@
 # 100隻美股機會觀察池
 
+> **当前入口：2026-11-13 正式收盘及早段盘后。** [收盘复盘](journal/2026-11-13_OPERATION_REASON_LOG.md)及逐股 CSV 的 `afterclose_20261113_*`；同日盘前和前期字段保留。
+
 > **当前入口：2026-11-13 盘前复核。** [当晚研究](reviews/2026-11-13_EVENING_OPERATION_PLAN.md)及逐股 CSV 的 `evening_20261113_*` 列；[11/12 正式收盘及盘后复盘](journal/2026-11-12_OPERATION_REASON_LOG.md)及其历史列保留。
 
 > **当前入口：2026-11-12 正式收盘及盘后复盘。** 见[操作理由日志](journal/2026-11-12_OPERATION_REASON_LOG.md)及逐股 CSV 的 `afterclose_20261112_*` 列；[晚间事前方案](reviews/2026-11-12_EVENING_OPERATION_PLAN.md)与此前盘前列保留。
@@ -528,3 +530,11 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **NU，11/13 首次初筛，拉美零售金融。** 11/12 公司原报第三季 IFRS 净利约 US$1.1bn，汇率中性同比 +31%，存款 US$47.5bn。90 日以上逾期率 7.3%，前季 6.9%。贷款增长有真实盈利，存款为负债；跨实体资本、信用成本、汇率与可分配资本尚未核成统一估值。盘前样本 06:49 EST；留研究，下一次先看巴西等子公司资本、贷款批次和实际拨备。[公司原报](https://nu.com/en/newsroom/company/nu-holdings-ltd-reports-third-quarter-2026-financial-results) · [行情](https://stockanalysis.com/stocks/nu/)
 - **CBRS，11/13 首次初筛，AI 计算。** 11/12 10-Q 披露客户协议，Microsoft 条款和现金兑现仍待披露。前三季经营现金 −US$388.9m 对 −US$134.2m，扣现金设备开支后约 −US$1.435bn 对 −US$435.4m，均未额外扣 SBC；同一现金流表的 SBC US$541.7m 对 US$33.8m。收入增长与客户融资风险同在。盘前样本 06:32 EST；本轮排除新增，核已付款、设备投产和稀释。[10-Q](https://investors.cerebras.ai/static-files/9c021f1a-3cc4-44b6-97fa-ef1a4ad2e0d8) · [公司原报](https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026) · [行情](https://stockanalysis.com/stocks/cbrs/)
 - **旧线索推进。** GIB 新做两档独立现金及折现率敏感度。CSCO 和 AMAT 沿昨晚已做的现金桥按新报价重算收益率。YETI、EPC、BALL、CTVA 仍分别待节日回款、剥离税费、季节性营运资金回收及分拆后的资本结构。全池 100 个唯一代码，未取得足以用 NU 或 CBRS 替换成员的证据。研究顺序 GIB、NU、CSCO、AMAT、ADBE。可执行新增为空。[前次现金桥](journal/2026-11-12_OPERATION_REASON_LOG.md)
+
+## 2026-11-13 收盘候选台账
+
+100/100 收盘及 1／5／20 日原价与复权走势，99/100 早段盘后（缺 DFIN），100/100 新闻头部，99/100 具名评级（缺 PRDO）。池内 10 只定向重价，完整新估值 0。价格、状态及下一验证点写入逐股 CSV。成员 100 个唯一代码，筛查证据不足以换员。[收盘日志](journal/2026-11-13_OPERATION_REASON_LOG.md)
+
+- **DDS，11/13 收盘新线索。** 11/12 盘后原报季度普通股净利 $130.9m 对 $129.8m，39 周经营现金 $479.8m 对 $505.8m，扣设备和资本化软件后 $412.1m 对 $432.0m，尚未闭合普通股现金。按当日收盘及财报约 15.6m 股，39周现金代理占市值约 4.2%，不可机械年化；应付贡献与季节性大。保留观察，下一次先查节日后存货周转、维持资本及租赁，未过新增。[原报](https://investor.dillards.com/news-releases/news-release-details/dillards-inc-reports-third-quarter-and-year-date-results-3) · [行情](https://stockanalysis.com/stocks/dds/history/)
+- **WLK，11/13 收盘新线索。** 11/4 原报三季度转盈，前九个月经营现金 $619m 对 $240m，扣设备开支为 $28m 对 −$514m，再扣实际非控股分派为 −$4m 对 −$547m，尚未扣股权薪酬及收购支出。季末反弹不足以建立正常化估值；本轮排除新增，核产品价差、维持资本与环保现金。[10-Q](https://www.sec.gov/Archives/edgar/data/1262823/000126282326000080/wlk-20260930.htm) · [行情](https://stockanalysis.com/stocks/wlk/history/)
+- **旧线索。** CMCSA 用分拆法律主体纠正估值分母，GIB/ADBE 重新计价，CROX/EOG/DFIN 续核现金。NU 仍待巴西资本、信用成本与可分派资金，CBRS 未通过经营现金，均沿 [盘前台账](reviews/2026-11-13_EVENING_OPERATION_PLAN.md)。研究优先 GIB、CMCSA、CROX、DFIN、EOG；可执行新增为空。本轮补资料，100只成员不调整。
