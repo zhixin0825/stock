@@ -538,3 +538,5 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **DDS，11/13 收盘新线索。** 11/12 盘后原报季度普通股净利 $130.9m 对 $129.8m，39 周经营现金 $479.8m 对 $505.8m，扣设备和资本化软件后 $412.1m 对 $432.0m，尚未闭合普通股现金。按当日收盘及财报约 15.6m 股，39周现金代理占市值约 4.2%，不可机械年化；应付贡献与季节性大。保留观察，下一次先查节日后存货周转、维持资本及租赁，未过新增。[原报](https://investor.dillards.com/news-releases/news-release-details/dillards-inc-reports-third-quarter-and-year-date-results-3) · [行情](https://stockanalysis.com/stocks/dds/history/)
 - **WLK，11/13 收盘新线索。** 11/4 原报三季度转盈，前九个月经营现金 $619m 对 $240m，扣设备开支为 $28m 对 −$514m，再扣实际非控股分派为 −$4m 对 −$547m，尚未扣股权薪酬及收购支出。季末反弹不足以建立正常化估值；本轮排除新增，核产品价差、维持资本与环保现金。[10-Q](https://www.sec.gov/Archives/edgar/data/1262823/000126282326000080/wlk-20260930.htm) · [行情](https://stockanalysis.com/stocks/wlk/history/)
 - **旧线索。** CMCSA 用分拆法律主体纠正估值分母，GIB/ADBE 重新计价，CROX/EOG/DFIN 续核现金。NU 仍待巴西资本、信用成本与可分派资金，CBRS 未通过经营现金，均沿 [盘前台账](reviews/2026-11-13_EVENING_OPERATION_PLAN.md)。研究优先 GIB、CMCSA、CROX、DFIN、EOG；可执行新增为空。本轮补资料，100只成员不调整。
+
+同轮补核 REGN、AMZN、MSFT 的原始现金，池内定向推进累计 13/100，完整新估值仍为 0。[原始现金补核](journal/2026-11-13_OPERATION_REASON_LOG.md#原始现金补核)
