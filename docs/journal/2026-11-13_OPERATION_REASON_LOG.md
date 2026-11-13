@@ -64,3 +64,11 @@
 本次计划纽约 17:00 启动，实际记录 17:04:15，约晚 4 分 16 秒。撰写时完成状态和独立送达尚未核实。前一晚间轮次有实际启动、完成及可回读归档，独立送达未知。
 
 [逐股明细](../../data/watchlists/universe_100_20261022.csv) · [候选台账](../WATCHLIST_100.md)
+
+## 原始现金补核
+
+- **AMZN**。AWS 三季度营业利润 $17.8bn 对 $11.4bn，集团滚动经营现金 $168.3bn、公司口径 FCF −$42.4bn。再扣滚动 SBC $19.873bn 和融资租赁本金 $1.681bn 后约 **−$64.0bn**。增长与维护投入的比例仍待核。下一节点 11/17 云客户预算及下次原报的投入回收。[原报](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/)
+- **MSFT**。财年首季 CFO $58.0bn，扣现金资本开支 $39.367bn 与 SBC $3.134bn，约 **$15.499bn 对 $22.680bn**，仍待融资租赁本金和故障赔付归属。[原报](https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast/)
+- **REGN**。前九月 CFO $3.6753bn，扣实际资本开支 $0.771bn 与 SBC $0.7562bn，约 **$2.1481bn 对 $2.4141bn**，约降 11.0%。11/17 Jefferies 前核产品现金与应收。[10-Q](https://www.sec.gov/Archives/edgar/data/872589/000087258926000034/regn-20260930.htm)
+
+上述三项使池内现金或估值定向推进达 **13/100**，其余 87 只未达该深度。完整新独立估值仍为 0，三项现价配对比较待补。
