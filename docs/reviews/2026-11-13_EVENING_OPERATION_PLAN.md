@@ -124,3 +124,18 @@ GIB FY26 美国联邦业务约占 13% 收入，分部营收下降 3.8%、调整 
 **判定**。CROX、EOG、DFIN 的可核现金收益率高于 STRL，CMCSA 优先核实是否在当前报价就有分拆后现金余量。没有足够证据给出本轮买单或配对卖单。下一次按两端同一时段报价、实质公告和价差重核，费用及税务单列。缺少合格配对是当前执行约束，STRL 当前估值仍须独立列为弱项。
 
 其他现价证据。PRDO 过去四季扣资本支出、SBC 及最新九个月同比额外营运资金贡献后约 218.2m，现价现金代理约 12.2%，仍跟进 11/20 FCA 回复及 South 交割款。INTU FY26 按正常化现金税款及是否进一步扣净贷款投入，约 5.10–5.39bn，对当前市值约 5.6–5.9%。AXS 剔 AOCI 每股账面 84.33，约 1.29 倍，继续核准备金及可派资本。HII 9M 公司自由现金流 −182m，FY 指引 500–600m，意味着 Q4 需要 682–782m。上述指标分别为现金收益率、账面估值与经营要求，无法统一解释为股价上涨幅度。[PRDO](https://www.sec.gov/Archives/edgar/data/1046568/000119312526449730/prdo-20260930.htm) · [INTU](https://investors.intuit.com/sec-filings/all-sec-filings/content/0000896878-26-000037/intu-20260731.htm) · [AXS](https://s206.q4cdn.com/365175465/files/content_files/Q3-2026-Press-Release-FINAL-10-28-26.pdf) · [HII](https://s25.q4cdn.com/753252112/files/doc_earnings/2026/q3/earnings-result/Q326-HII-Press-Release.pdf)
+
+## 11/13 收盘补充：OMC / STRL 同额比较
+
+本节补上当日收盘复盘漏纳入的池外 OMC 候选。此前 STRL→GIB 方案按原时点保留。11/13 常规收盘 OMC $87.98，STRL $292.39，两只的下一个常规盘都须重新核可交易报价。研究判断为 STRL 退出、OMC 优先替代。配对研究参考 STRL ≥$288 为减敞口区，OMC 买入上限 $88.50；跌破 STRL 复核区或任一公司有重大新披露先重算。买价跌到限价但现金假设被破坏，同样重算。[OMC 行情](https://stockanalysis.com/stocks/omc/history/) · [STRL 行情](https://stockanalysis.com/stocks/strl/history/)
+
+以 $10,000、OMC $88.50 和 STRL $292.39 比较。假设两只股在同一未来一年情景窗口达到下列估值锚，不计股息、费用和税。OMC 的锚为当期现金流估出的内在价值；STRL 的锚为已归档一年终值。共同到价窗口为研究假设，没有赋予两股相同情景概率。
+
+| 股票 | 基准估值锚与对应金额 | 压力估值锚与对应金额 |
+|---|---|---|
+| OMC | $105–116，约 $11,864–13,107 | $79，约 $8,927 |
+| STRL | $268–288，约 $9,166–9,850 | $172–199，约 $5,883–6,806 |
+
+OMC 第三季度核心有机营收增长 7.2%。用 FY25 加 9M26 减 9M25 拼接，过去四季经营现金扣资本开支、股权薪酬和少数股东分红约 $2.67bn。按常态股东现金 $2.55–2.65bn、折现率 10.75%–11%、长增 2%–2.25%、稀释 275.4m 股估基准。以 $2.25bn、11.5% 折现和 1% 长增估压力。11% 折现、2% 长增下，$88.50 隐含约 $2.15bn 正常股东现金。Q4 回款相对以往无法恢复，或并购整合将常态现金拉近该水平时重算限价。9M 营运资金占用约 $2.32bn，净债务由去年底 $2.24bn 升至 $6.22bn，持续现金假设仍取决于现金兑现。13 位分析师共识中位 $100，最近已有券商下修。[OMC 公司财报](https://investor.omc.com/news/news-details/2026/OMNICOM-REPORTS-THIRD-QUARTER-2026-RESULTS/default.aspx) · [10-Q](https://www.sec.gov/Archives/edgar/data/29989/000002998926000026/omc-20260930.htm) · [10-K](https://www.sec.gov/Archives/edgar/data/29989/000002998926000006/omc-20251231.htm) · [分析师索引](https://stockanalysis.com/stocks/omc/forecast/)
+
+OMC 若高于限价，第二顺位为 VICI，买入限价 $25.00，周五收 $25.01。2026 公司 AFFO 指引 $2.47–2.48，季度宣告股息 $0.46。估值基准约 $28–29，压力约 $22–23。考虑 Caesars 和 MGM 合计约 70% 租金集中，按较小仓位评估。11/12 已落实 $500m 新定期贷款以偿还部分 2027 年 2 月到期债务。两端可用价格、现金和组合条件变化再重估。[VICI 行情](https://stockanalysis.com/stocks/vici/history/) · [公司公告](https://www.sec.gov/Archives/edgar/data/1705696/000170569626000119/viciq32026earningsrelease.htm) · [10-Q](https://www.sec.gov/Archives/edgar/data/1920791/000170569626000120/vici-20260930.htm) · [贷款公告](https://investors.viciproperties.com/node/13666/pdf)
