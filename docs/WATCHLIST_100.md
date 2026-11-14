@@ -1,5 +1,7 @@
 # 100隻美股機會觀察池
 
+> **当前入口：2026-11-14 周末复核。** [当轮方案](reviews/2026-11-14_EVENING_OPERATION_PLAN.md)与逐股 CSV 的 `weekend_20261114_*`；最后实际交易日为 11/13，原收盘、盘后和盘前数据继续保留。
+
 > **当前入口：2026-11-13 正式收盘及早段盘后。** [收盘复盘](journal/2026-11-13_OPERATION_REASON_LOG.md)及逐股 CSV 的 `afterclose_20261113_*`；同日盘前和前期字段保留。
 
 > **当前入口：2026-11-13 盘前复核。** [当晚研究](reviews/2026-11-13_EVENING_OPERATION_PLAN.md)及逐股 CSV 的 `evening_20261113_*` 列；[11/12 正式收盘及盘后复盘](journal/2026-11-12_OPERATION_REASON_LOG.md)及其历史列保留。
@@ -540,3 +542,11 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **旧线索。** CMCSA 用分拆法律主体纠正估值分母，GIB/ADBE 重新计价，CROX/EOG/DFIN 续核现金。NU 仍待巴西资本、信用成本与可分派资金，CBRS 未通过经营现金，均沿 [盘前台账](reviews/2026-11-13_EVENING_OPERATION_PLAN.md)。研究优先 GIB、CMCSA、CROX、DFIN、EOG；可执行新增为空。本轮补资料，100只成员不调整。
 
 同轮补核 REGN、AMZN、MSFT 的原始现金，池内定向推进累计 13/100，完整新估值仍为 0。[原始现金补核](journal/2026-11-13_OPERATION_REASON_LOG.md#原始现金补核)
+
+## 2026-11-14 周末候选台账
+
+100 个唯一代码。11/13 收盘基价 100/100，周末新增报价 0；新闻头部 100/100、具名动作 99/100，缺 PRDO。池内定向复核六只，完整新估值零。[周末复核及比较](reviews/2026-11-14_EVENING_OPERATION_PLAN.md)
+
+- **CWST，11/14 首次初筛。** 废物收集与处置，11/9 原报收入 $559.2m，季度转亏约 $7m。前九月经营现金扣设备、无形投入及SBC约 $31.4m，去年约 $33.8m。公司调整自由现金 $111.1m 不能直接当可分派现金。周五 $100.20；继续核并购再投入、维持资本及填埋环境负债，暂不晋级。[原报](https://www.sec.gov/Archives/edgar/data/911177/000091117726000057/cwst-ex991093026.htm) · [10-Q](https://ir.casella.com/static-files/a04bf469-2f4e-484f-a9b4-5a24e3aee689)
+- **NDLS，11/14 首次初筛。** 11/13 业绩系统同店 +9.5%，季度仍亏约 $2.1m；前九月 CFO 扣设备和SBC约 $8.47m 对 −$4.31m。季度末现金 $1.5m、债务 $101m，11/12贷款已延长到 2027/11/30，战略评估和再融资仍在。周五 $12.15，按拆股后的同期报价。暂排除新增，待核同店增量、维持资本及现金偿债。[公司公告](https://investor.noodles.com/news-releases/news-release-details/noodles-company-announces-third-quarter-2026-financial-results) · [10-Q](https://investor.noodles.com/static-files/a3bc74a6-c9a6-4b75-8ba7-15d3992943d3)
+- **旧线索。** GNTX 新核独立现金 $319.8m 对 $331.6m（9M，CFO减设备和SBC），周五 $19.20，设备投入下降掩盖经营现金降幅，须核汽车订单、关税及维持资本。CMCSA $25.16，Versant现金继续排除；11/13 纽约收盘后 Reuters 报道 AT&T 提起广告诉讼，诉讼费用、补救及网络营销现金影响待确认，暂缓新增定价。EOG $158.32 高于 $125–130 复核区；CROX $163.72 而压力估值约 $132；DFIN 历史收盘约 $68.15，现金常态化压力估值近 $53；GIB 详见上表。周末研究优先 OMC、VICI、GNTX、GIB、CMCSA；常规交易休市，无可执行买单。本轮未调整100只成员。[GNTX 10-Q](https://www.sec.gov/Archives/edgar/data/355811/000035581126000065/gntx-20260930.htm) · [CMCSA 10-Q](https://www.sec.gov/Archives/edgar/data/1166691/000162828026066863/cmcsa-20260930.htm) · [诉讼报道](https://www.reuters.com/legal/legalindustry/att-sues-comcast-over-fiber-powered-internet-advertising-2026-11-13/)
