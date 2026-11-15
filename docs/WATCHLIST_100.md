@@ -1,5 +1,7 @@
 # 100隻美股機會觀察池
 
+> **当前入口：2026-11-15 周日复核。** [当轮方案](reviews/2026-11-15_EVENING_OPERATION_PLAN.md)与[逐股 CSV](../data/watchlists/universe_100_20261022.csv)的 `weekend_20261115_*` 列。最后常规交易日为 11/13，100 个唯一代码均更新收盘及最新公开新闻索引，具名动作核到 99 只（缺 PRDO），四只补关键原文，零只完成本轮新一轮完整独立估值。周日无新增价格，原日期字段保留。
+
 > **当前入口：2026-11-14 周末复核。** [当轮方案](reviews/2026-11-14_EVENING_OPERATION_PLAN.md)与逐股 CSV 的 `weekend_20261114_*`；最后实际交易日为 11/13，原收盘、盘后和盘前数据继续保留。
 
 > **当前入口：2026-11-13 正式收盘及早段盘后。** [收盘复盘](journal/2026-11-13_OPERATION_REASON_LOG.md)及逐股 CSV 的 `afterclose_20261113_*`；同日盘前和前期字段保留。
@@ -550,3 +552,9 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **CWST，11/14 首次初筛。** 废物收集与处置，11/9 原报收入 $559.2m，季度转亏约 $7m。前九月经营现金扣设备、无形投入及SBC约 $31.4m，去年约 $33.8m。公司调整自由现金 $111.1m 不能直接当可分派现金。周五 $100.20；继续核并购再投入、维持资本及填埋环境负债，暂不晋级。[原报](https://www.sec.gov/Archives/edgar/data/911177/000091117726000057/cwst-ex991093026.htm) · [10-Q](https://ir.casella.com/static-files/a04bf469-2f4e-484f-a9b4-5a24e3aee689)
 - **NDLS，11/14 首次初筛。** 11/13 业绩系统同店 +9.5%，季度仍亏约 $2.1m；前九月 CFO 扣设备和SBC约 $8.47m 对 −$4.31m。季度末现金 $1.5m、债务 $101m，11/12贷款已延长到 2027/11/30，战略评估和再融资仍在。周五 $12.15，按拆股后的同期报价。暂排除新增，待核同店增量、维持资本及现金偿债。[公司公告](https://investor.noodles.com/news-releases/news-release-details/noodles-company-announces-third-quarter-2026-financial-results) · [10-Q](https://investor.noodles.com/static-files/a3bc74a6-c9a6-4b75-8ba7-15d3992943d3)
 - **旧线索。** GNTX 新核独立现金 $319.8m 对 $331.6m（9M，CFO减设备和SBC），周五 $19.20，设备投入下降掩盖经营现金降幅，须核汽车订单、关税及维持资本。CMCSA $25.16，Versant现金继续排除；11/13 纽约收盘后 Reuters 报道 AT&T 提起广告诉讼，诉讼费用、补救及网络营销现金影响待确认，暂缓新增定价。EOG $158.32 高于 $125–130 复核区；CROX $163.72 而压力估值约 $132；DFIN 历史收盘约 $68.15，现金常态化压力估值近 $53；GIB 详见上表。周末研究优先 OMC、VICI、GNTX、GIB、CMCSA；常规交易休市，无可执行买单。本轮未调整100只成员。[GNTX 10-Q](https://www.sec.gov/Archives/edgar/data/355811/000035581126000065/gntx-20260930.htm) · [CMCSA 10-Q](https://www.sec.gov/Archives/edgar/data/1166691/000162828026066863/cmcsa-20260930.htm) · [诉讼报道](https://www.reuters.com/legal/legalindustry/att-sues-comcast-over-fiber-powered-internet-advertising-2026-11-13/)
+
+### 2026-11-15 候选变更记录
+
+- **MSA，11/15 首次初筛，工业安全。** 11/2 原报季度营业利润约 $88m、净利 $58.4m；前九月 CFO $253.4m，扣设备与 SBC 后 $196.7m 对 $178.1m，计 Autronica 实付 $563.1m 则所示期内净投入后约 −$366.4m。周五 $174.17。收入增长及实收支持跟踪，收购整合和再融资最强反方，下一次核合并后同口径有机利润及去杠杆，暂不晋级。[10-Q](https://www.sec.gov/Archives/edgar/data/66570/000006657026000033/msa-20260930.htm)
+- **RLI，11/15 首次初筛，特种保险。** 10/19 原报承保利润 $58.8m、综合率 86.2%，前九月保险子公司实际普通上划 $157m；获准派付空间与现金到账需分开。周五 $69.65。关注赔付发展、承保周期以及相对 AXS 和综合保险敞口的重复；缺可持续派付与本价资本估值，暂不晋级。[原报及资本](https://www.sec.gov/Archives/edgar/data/84246/000110465926117864/rli-20260930x10q.htm)
+- **原有线索。** OMC 补整合现金与 FTC 最终令；VICI 暂停旧备用价；GIB $81.81 显著高于原 $65 复核区，联邦续约与现金未缓解。EOG $158.32 超过原 $125–130 区；CROX $163.72 对压力锚 $132，DFIN 历史参考 $68.15 而低现金估值约 $53；CMCSA 仍须剔除 Versant 现金及核广告诉讼；GNTX 后续核汽车客户和关税现金。均未形成备用执行单。研究优先 OMC、VICI、GIB、MSA、RLI；未改变100只成员。
