@@ -1,5 +1,7 @@
 # 100隻美股機會觀察池
 
+> **当前入口：2026-11-16 收市复盘。** [操作理由日志](journal/2026-11-16_OPERATION_REASON_LOG.md)及[逐股证据](../data/watchlists/universe_100_20261022.csv) `afterclose_20261116_*`。100 个唯一代码，收盘 100/100、盘后 91/100、新闻索引 100/100、具名索引 99/100。重点经营现金覆盖 5/100，其中独立估值 3/100；两项不与基本行情覆盖混用。
+
 > **当前入口：2026-11-16 盘前。** [当日事前方案](reviews/2026-11-16_EVENING_OPERATION_PLAN.md)与[逐股研究索引](../data/watchlists/universe_100_20261022.csv)的 `premarket_20261116_*`。100 个唯一代码，最新常规收盘 100/100、可核时间的盘前 87/100、新闻索引 100/100、已核时间的具名动作 90/100。池内独立现金及估值重算 G，主要池外候选 OMC 续营估值下修。历史记录保留。
 
 > **当前入口：2026-11-15 周日复核。** [当轮方案](reviews/2026-11-15_EVENING_OPERATION_PLAN.md)与[逐股 CSV](../data/watchlists/universe_100_20261022.csv)的 `weekend_20261115_*` 列。最后常规交易日为 11/13，100 个唯一代码均更新收盘及最新公开新闻索引，具名动作核到 99 只（缺 PRDO），四只补关键原文，零只完成本轮新一轮完整独立估值。周日无新增价格，原日期字段保留。
@@ -569,3 +571,12 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **既有候选。** OMC 按续营现金下修，VICI 核到 Caesars 租户相关信用准备，GNTX、HRB、CI、FIS、ADBE、GIB、DLX、HESM 等逐项用当轮可查报价或最近收盘复核，详见当日方案。LHX 继续查 FAA 根因与合同责任，IT 等合同值及现金。未调整池内 100 只成员。
 
 - **11/16 补充。** ARMK 德州已运行站点、动员站点、机会站点分开；季节性资金占用、净债与许可外溢仍待验证。TSN 补查 9/3 牛鸡分部指引，仍需要全年分部现金及维持资本开支。原研究评级与名单维持。[核对依据](reviews/2026-11-16_EVENING_OPERATION_PLAN.md#本轮后续核验)
+
+### 2026-11-16 收市候选维护
+
+- **POWL，11/16 首次初筛。** 16:05 ET 财报披露积压订单 $2.7bn（+96%），季度入账订单 $710m，其中 LNG 约 $250m 和数据中心约 $85m 为所签订单，地点、开工许可和交付节点尚待核，不能确认为收入或回款。现金与短期投资 $861m 为资产余额。待核客户预付款、应收、扩产投入与股东现金，暂不放行。[公司原报](https://www.globenewswire.com/news-release/2026/11/16/3404107/0/en/powell-industries-announces-fourth-quarter-and-full-year-fiscal-2026-results.html)
+- **ARMK、TSN、ACM 实质推进。** ARMK 年度公司 FCF $573m（+26%），净杠杆 2.7×，四季度 $1.16bn 高度季节性。德州首处已服务、第二处动员、其他站点机会分别跟踪。TSN 财年 FCF $1.663bn，2027 指引 $0.8–1.3bn，53 周及牛肉重组要单列，不能外推增长。ACM 盘后实际季度 CFO $366m、全年公司 FCF $344m，2027 指引约 $300m，内含两个项目约 $500m 的预计用现；$800m 是简单剥离项目的反事实，不能作已落袋股东现金。关口为 11/17 08:00 ET 电话会的项目验收、支付和归属现金。三者仍观察。[ARMK](https://aramark.gcs-web.com/node/24721/pdf) · [TSN](https://www.tysonfoods.com/news/news-releases/2026/11/tyson-foods-reports-fourth-quarter-2026-results) · [ACM](https://investors.aecom.com/node/26116)
+- **FANG 旧线索暂停。** $5.03bn 拟收购含 $2.15bn 现金和约 15.56m 新股，现金拟由手头资金及借款提供；交割、净债及摊薄待并表。需按 Midland 开发、现场水和资本支出重算。旧现金收益率未计新交易。[公司原文](https://diamondbackenergy.gcs-web.com/news-releases/news-release-details/diamondback-energy-inc-announces-core-midland-basin-acquisition)
+- VICI $24.85，价低于旧线仍待 Caesars 租约担保与交割杠杆。ADBE $246.00、GNTX $18.97、HRB $49.58、CI $300.16、FIS $28.30、DLX $27.15、GIB $81.39 均未通过原事实与价格组合条件。SNY 的 Dupixent 依赖和现有医药因子重叠。PYPL $58.83，品牌结账增速、现金与股份补偿仍须对照。BNL、WPC、O 可跟踪，但 BNL 杠杆、WPC 再租与 O 现价资本成本制约比较。PERI 的现金收购事件继续排除为经营型替补。
+
+- **成员修订，仍 100 个唯一代码。** 纳入 OMC、EPRT，增加广告代理和三重净租赁的独立研究覆盖及已完成现金桥。TROW 与 FAST 转入备选档，池中仍有资产管理、工业分销/服务的相关研究，原资料及历史资格记录可查。变更依据为业务覆盖和研究进度。 [备选档](../data/watchlists/reserve_20261022.csv) · [变更前完整逐股资料](https://github.com/zhixin0825/stock/blob/123daf2826ecb0cff517bf37a0494e55a17e6a4b/data/watchlists/universe_100_20261022.csv)
