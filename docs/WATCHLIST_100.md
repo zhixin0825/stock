@@ -567,3 +567,5 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **TSN，11/16 初筛，肉类加工。** 牛肉周期和维护资本支出可能抵消鸡肉环节的收益。业绩发布日与 09:00 EST 电话会确认，在本轮未核到完整当期归属现金和再投资桥；先做分部现金及净债复核，观察。[电话会公告](https://ir.tyson.com/news/news-details/2026/Tyson-Foods-Announces-Fourth-Quarter-Earnings-Conference-Call-and-Webcast/default.aspx)
 - **PERI，11/16 初筛后淘汰，广告科技。** 11/1 签协议每股 $11.70 现金收购，11/2 撤销经营指引。截至 9/30 现金及投资 $228.3m，不能单以资产或分析师目标价忽略交割条件。下次看交易审批与 12/11 go-shop 到期，无经营型买入资格。[交易原文](https://www.sec.gov/Archives/edgar/data/1338940/000117891326004939/exhibit_99-3.htm) · [指引撤销](https://www.sec.gov/Archives/edgar/data/1338940/000117891326004966/exhibit_99-1.htm)
 - **既有候选。** OMC 按续营现金下修，VICI 核到 Caesars 租户相关信用准备，GNTX、HRB、CI、FIS、ADBE、GIB、DLX、HESM 等逐项用当轮可查报价或最近收盘复核，详见当日方案。LHX 继续查 FAA 根因与合同责任，IT 等合同值及现金。未调整池内 100 只成员。
+
+- **11/16 补充。** ARMK 德州已运行站点、动员站点、机会站点分开；季节性资金占用、净债与许可外溢仍待验证。TSN 补查 9/3 牛鸡分部指引，仍需要全年分部现金及维持资本开支。原研究评级与名单维持。[核对依据](reviews/2026-11-16_EVENING_OPERATION_PLAN.md#本轮后续核验)
