@@ -58,3 +58,7 @@ SPY 同期价格回报 -0.36% / 2.59% / -1.16%。收盘序列和星期一盘前�
 最近晚间和最近收市研究的可回读产物已核。盘前判断保留为事前版本，收市后的新事实在原有日志节点单独记录。继续保留未加仓后的相对变化、仍承担风险与合格配对的机会成本案例。
 
 [100 只研究索引](../../data/watchlists/universe_100_20261022.csv) · [候选变更台账](../WATCHLIST_100.md)
+
+### 本轮后续核验
+
+ARMK 三季报已明确列出德州首个超大规模客户数据中心开始提供设施餐饮服务、第二处正在动员、其他站点尚为机会。按运营、已签待开工和未签分别看现金，不能把许可暂停套给首处已运行服务，也不能将其他机会计作确定收入。三季累计 CFO −$264.8m，购置设备和其他支出净额 $323.4m，按公司定义累计自由现金 −$588.1m，单季 $8.7m；尚需核全年、SBC 及季节性回款，维持观察。TSN 9/3 公司指引牛肉调整后亏损 $625–775m、鸡肉盈利 $1.85–1.95bn，分部现金正常化仍是入池前重点。11/18 美国盘前另核 TJX 与 TGT 财报，作为接下来两个交易日中的零售需求验证。[ARMK 三季报](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000118/ex991armkq3fy2026.htm) · [TSN 指引](https://ir.tyson.com/news/news-details/2026/Tyson-Foods-Updates-Fiscal-2026-Outlook/default.aspx) · [TJX](https://investor.tjx.com/news-releases/news-release-details/tjx-companies-inc-report-q3-fy27-results-november-18-2026) · [Target](https://corporate.target.com/investors/events-presentations)
