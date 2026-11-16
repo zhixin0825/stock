@@ -50,3 +50,15 @@
 上次晚间和最近收市轮次有启动、完成及可回读归档。独立送达未核实。周末沿用最近实际交易日收市，不另记虚构复盘或日收益。
 
 [100 只明细](../../data/watchlists/universe_100_20261022.csv) · [候选台账](../WATCHLIST_100.md)
+
+## 11/15 美西夜間補充，供 11/16 開盤檢查
+
+**OMC 國內普通股 $88.50 為條件上限，VICI 舊 $25 暫停。** 11/13 OMC 常規收 $87.98；場外零散成交的時點和價差未能支持執行。開盤後查看可成交賣一，若高於上限、主要客戶實質變動或公司下調回款，重新估值。[常規收盤](https://stockanalysis.com/stocks/omc/history/) · [交易時間](https://www.nyse.com/trade/hours-calendars)
+
+OMC 9M 2026 待售及已處置業務貢獻 $120.3m 調整 EBITA，混合並表使原模型難完全拆分。額外減 $150–200m 常態股東現金，以約 $2.35–2.50bn、10.75%–11% 折現和約 2%–2.25% 終值增長，估值約 $97–109。該減項是獨立敏感度，已反映的處置現金不重扣。另有已認列的 $229.5m 整合義務，確認原橋扣項後才做一次性調整。原 $105–116 為未額外扣減情景，$79 為原壓力估值，不是最低價格。[OMC 投資人簡報](https://www.sec.gov/Archives/edgar/data/29989/000002998926000024/a2026q3investorpresentat.htm) · [OMC 10-Q](https://www.sec.gov/Archives/edgar/data/29989/000002998926000026/omc-20260930.htm)
+
+VICI 本季約 $313.2m 信用準備與 Caesars 有關，包含評級機構按預期收購後資本結構下調信用評級所造成的預期損失增加。緊盯交割條件、擔保、租金覆蓋及實際付款，暫無合格價格。HRB $50.01／$49 複核、GNTX $19.20／$18–18.50 複核、DLX $26.78／$23–24 複核；CI 常規 $297，前四季自由現金代理約 $8.27bn，但季度 PBM 調整後稅前利潤同比跌 22%，先核客戶定價、續約與第四季實收，$275 附近再審。以上複核線不等於買入建議。[VICI 10-Q](https://www.sec.gov/Archives/edgar/data/1705696/000170569626000120/vici-20260930.htm) · [CI 第三季](https://newsroom.thecignagroup.com/2026-11-05-The-Cigna-Group-Reports-Strong-Third-Quarter-2026-Results-Raises-2026-Outlook)
+
+週日 FAA 確認停飛已解除並列 L3Harris 為網路承包商，故障根因與合約影響尚待調查。LHX 列新池外事件線索；IT 列新池外估值線索，Gartner 匯率中性核心合約值同比 +2.5% 但 GAAP 營收下降，目標價中位僅較收盤高約 3%。NVIDIA 已更換 CEO，週日財長就接班與合規發言，待公司或主管機關的具體後續。規劃 11/16 05:30 PT 紐約聯儲製造業指數、06:30 PT 常規開盤，11/17 14:00 PT NVIDIA 財報會、11/19 INTU 盤後，11/20 PRDO 待提交的 FCA 回覆文件。[FAA](https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers) · [Gartner](https://investor.gartner.com/news-releases/news-release-details/gartner-reports-third-quarter-2026-financial-results) · [NVIDIA CEO](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) · [NVIDIA 會期](https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873) · [紐約聯儲](https://www.newyorkfed.org/research/calendars/i-nov26.html) · [INTU](https://investors.intuit.com/news-events/press-releases/detail/1330/intuit-to-announce-first-quarter-fiscal-year-2027-results-on-nov-19)
+
+本次逐股再核 100/100 池內與 28/28 原池外週五收盤，期後新增兩個池外研究對象。130/130 有可對照收盤，128/130 有共識價格區間，PRDO、NDLS 缺。對實質新風險和接近上限者定向重審，其他沿最新有據財報與價格，未完成全池深度重估。正式候選池暫為原來 100 只。
