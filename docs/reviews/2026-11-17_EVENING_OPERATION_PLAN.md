@@ -53,3 +53,22 @@
 现行池 100 个唯一代码。核最近常规收盘 100/100、带时点盘前 95/100、新闻索引 100/100、具名动作索引 99/100；索引所示 11/17 具体事件发布时间未全面闭合。盘前缺 DFIN、AXS、DOV、OMC、EPRT，具名缺 PRDO。在池内独立估值重算 HII、ADBE 两只，其余 98 只未做同深度重算。重点事件复核 HII、ADBE、HD、REGN、ACM、STRL、BKNG 七只。池外另核 NICE、INTA、CCC，非所有备选完整估值。最近盘前和收市均有完成记录及可回读产物，独立送达未核。比较保留未加仓的 VICI、承受的 HII 风险及同额换股机会成本，供原复盘窗口核验。公开逐股只保存核查状态及来源，批量原始价格与私用表不公开。
 
 [全池索引](../../data/watchlists/universe_100_20261022.csv) · [候选台账](../WATCHLIST_100.md)
+
+## 11/17 04:48 洛杉矶：盘前增量核验
+
+常规时段 06:30–13:00 PST（北京 22:30–次日 05:00）。本次结论为无新增、无可执行配对。上一段完整保留，此处只追加新价格和原文。HII 独立减敞口优先，ADBE 是最接近的研究替代对象。报价都是异步成交样本，延迟、价差、深度待核。最迟盘前采用同期报价和公告复核，有重大新消息或价格跨界时重新判断，不把历史价格设为自动触发。
+
+| 两端 | 更新依据 | 同额一年研究 |
+|---|---|---|
+| HII | $302.00，01:13 PST，仍为当时最新可核价格。新增 82 台 Lionfish，逾 $347m 为五年计划潜在总值。 | $185–242 对应 −38.7% 至 −19.9%，双重压力 $127–147 对应 −57.9% 至 −51.3%。若普通股现金与成交倍数持平，维持分派情景约 +2%。 |
+| ADBE | $243.30，04:20 PST，较前段样本再低 $1.48。 | 基准 −4.6% 至 +15.5%，双压 −27.3% 至 −21.9%。平现金平倍数、无常规分派情景约 0%。$230–235 对应低端正常化现金约 8.4%–8.6% 收益率，为有依据的复核区。 |
+
+HII 的前九月原报 FCF −$182m，实现全年指引需要四季度 $682–782m。历史集中回款可能使判断反转，未把潜在合同总额计入回款。ADBE 的英国产品提前取消费调查仍开放，需核收购整合、续约与算力成本。其部分相对情景较好，在可见买价下的低端情景依然为负，且增加广告、软件与基金的共同风险。HII 约 $300 是高于正常化现金估值的减敞口复核线。到价须两端独立过关后，以同期买卖盘、可用资金及配置目标计算规模；卖出优先、局部成交按实际可用款重算。无合格配对或报价深度不足则无交易，未成交条件下一交易日重核。比较未预扣统一交易磨损，实际费用和税务分别核。[HII 行情](https://stockanalysis.com/stocks/hii/) · [HII 财报](https://www.sec.gov/Archives/edgar/data/1501585/000150158526000054/hii2026q3earningsrelease.htm) · [海军公告](https://www.hii.com/news/hii-is-awarded-contract-for-production-of-additional-us-navy-lionfish-unmanned-undersea-vehicles) · [ADBE 行情](https://stockanalysis.com/stocks/adbe/) · [CMA](https://www.gov.uk/cma-cases/adobe-consumer-protection-enforcement-case)
+
+- **REGN** 04:00 PST 公司公告欧盟批准 Libtayo 在已有皮肤、肺、宫颈癌适应症延长给药间隔及缩短输注。属用药便利性的变化，尚未披露可以计入模型的增量收入与回款。04:20 PST 盘前 $948.00，变化不作因果归因。06:00 PST 投资者活动后核商业影响；新增估值未完成。[公司发布](https://www.globenewswire.com/news-release/2026/11/17/3404448/0/en/libtayo-cemiplimab-approved-in-the-european-union-eu-for-extended-dosing-and-faster-infusion-times-across-skin-lung-and-cervical-cancer-indications.html) · [会议](https://investor.regeneron.com/events/event-details/2026-jefferies-global-healthcare-conference)
+- **HD、ACM。** HD Q3 同店 +2.2%，FY26 调整 EPS 增长指引约 2%。04:30 PST 盘前 $340.00，前三季经营现金扣设备及 SBC 约 $12.36bn 对 $9.95bn，剔除营运资金变动后约 $12.71bn 对 $12.64bn，增长主要与收付时点有关，非完整新估值。ACM 04:28 PST $78.50，FY27 指引含两个项目现金占用，05:00 PST 电话会后核付款。两者均暂不晋级。[HD](https://corporate.homedepot.com/news/earnings/home-depot-announces-third-quarter-2026-earnings) · [ACM](https://investors.aecom.com/news-releases/news-release-details/aecom-reports-fourth-quarter-and-full-year-fiscal-2026-results)
+- **付费 AI 方向另查 ACN。** FY26 审计现金表 CFO $12.36bn−设备 $0.74bn−股权薪酬 $2.10bn 约 $9.52bn，实际业务和投资购置约 $4.94bn 另列。用 04:16 PST 的 $245.27 与约 591m 股，历史现金代理收益率约 6.6%，尚未证明足以在现价接替。NICE 04:23 PST $93.48 仍高于已算 $60–81，INTA 的现金桥仍未转正。池外新线索仍按前段登记，未因新价格做名额更换。[ACN 10-K](https://www.sec.gov/Archives/edgar/data/1467373/000146737326000049/acn-20260831.htm) · [ACN 行情](https://stockanalysis.com/stocks/acn/) · [NICE 行情](https://stockanalysis.com/stocks/nice/)
+
+基金公开 11/16 NAV 更新为 VITAX 441.49、VINIX 594.34、VBTLX 9.29，基金组合与科技股仍有较多共振，基金成交确认及供款比例分别核。NVDA 约 13:20 PST 出结果，14:00 PST 电话会。11/18 及 11/19 为后续正常交易日，INTU 11/19 13:30 PST 电话会。Loudoun 为当日提案，法律效力另核；若主要客户、合同实收、审批或估值端发生新变化则更新判断。[VITAX](https://stockanalysis.com/quote/mutf/VITAX/history/) · [VINIX](https://stockanalysis.com/quote/mutf/VINIX/history/) · [VBTLX](https://stockanalysis.com/quote/mutf/VBTLX/history/) · [NVDA](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/) · [INTU](https://investors.intuit.com/news-events/press-releases/detail/1330/intuit-to-announce-first-quarter-fiscal-year-2027-results-on-nov-19)
+
+承接前段 100 只基础覆盖，本次对 13 个组合研究相关个股价格条目逐个复核（10 有盘前样本、3 沿昨收），另复核两端及重点公司原文，池内未新完成完整估值。成员仍为 100 个唯一代码。公开记录不含个人持有、实际订单、账户或资金。
