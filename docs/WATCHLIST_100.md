@@ -1,5 +1,7 @@
 # 100隻美股機會觀察池
 
+> **当前入口：2026-11-17 北京盘前。** [当轮方案](reviews/2026-11-17_EVENING_OPERATION_PLAN.md)和[逐股证据](../data/watchlists/universe_100_20261022.csv)的 `premarket_20261117_*` 列。100 个唯一代码，数据日期及限制见方案。
+
 > **当前入口：2026-11-16 收市复盘。** [操作理由日志](journal/2026-11-16_OPERATION_REASON_LOG.md)及[逐股证据](../data/watchlists/universe_100_20261022.csv) `afterclose_20261116_*`。100 个唯一代码，收盘 100/100、盘后 91/100、新闻索引 100/100、具名索引 99/100。重点经营现金覆盖 5/100，其中独立估值 3/100；两项不与基本行情覆盖混用。
 
 > **当前入口：2026-11-16 盘前。** [当日事前方案](reviews/2026-11-16_EVENING_OPERATION_PLAN.md)与[逐股研究索引](../data/watchlists/universe_100_20261022.csv)的 `premarket_20261116_*`。100 个唯一代码，最新常规收盘 100/100、可核时间的盘前 87/100、新闻索引 100/100、已核时间的具名动作 90/100。池内独立现金及估值重算 G，主要池外候选 OMC 续营估值下修。历史记录保留。
@@ -580,3 +582,10 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - VICI $24.85，价低于旧线仍待 Caesars 租约担保与交割杠杆。ADBE $246.00、GNTX $18.97、HRB $49.58、CI $300.16、FIS $28.30、DLX $27.15、GIB $81.39 均未通过原事实与价格组合条件。SNY 的 Dupixent 依赖和现有医药因子重叠。PYPL $58.83，品牌结账增速、现金与股份补偿仍须对照。BNL、WPC、O 可跟踪，但 BNL 杠杆、WPC 再租与 O 现价资本成本制约比较。PERI 的现金收购事件继续排除为经营型替补。
 
 - **成员修订，仍 100 个唯一代码。** 纳入 OMC、EPRT，增加广告代理和三重净租赁的独立研究覆盖及已完成现金桥。TROW 与 FAST 转入备选档，池中仍有资产管理、工业分销/服务的相关研究，原资料及历史资格记录可查。变更依据为业务覆盖和研究进度。 [备选档](../data/watchlists/reserve_20261022.csv) · [变更前完整逐股资料](https://github.com/zhixin0825/stock/blob/123daf2826ecb0cff517bf37a0494e55a17e6a4b/data/watchlists/universe_100_20261022.csv)
+
+### 2026-11-17 候选变更记录
+
+- **NICE，11/17 初筛，客服及金融犯罪合规软件。** 11/4 公告的 AI ARR $392m、同比 +46% 支持付费业务。9M CFO $399.6m，扣设备 $24.5m、资本化软件 $64.2m、SBC/ESPP $140.5m，余额约 $170m 对去年 $350m。滚动同桥约 $297m，在 $93.35（06:20 EST）约 5.4%归属现金收益率。以现金恢复到 $300–370m、7.75%–8.5% 和约 59.3m 稀释股，估值约 $60–81，不额外加含息现金；压力 $250m / 10% 约 $42。隔离异常客户抵减、收款和资本化，等待现金恢复。观察。[三季报](https://www.sec.gov/Archives/edgar/data/1003935/000117891326005002/exhibit_99-1.htm) · [2025 20-F](https://www.sec.gov/Archives/edgar/data/1003935/000100393526000010/nice-20251231.htm)
+- **INTA，11/17 初筛，专业服务工作流。** 10/27 公告 Celeste 已商用，GAAP仍亏。季度 CFO $28.4m−软件 $2.0m−设备 $0.3m−SBC $33.1m，约 −$7.0m，应收回落受账单与收款时点影响。收盘 $45.98，未核带时点盘前；先看新签付费、合同续约和扣股酬后的现金，暂不晋级。[10-Q](https://www.sec.gov/Archives/edgar/data/1565687/000156568726000128/inta-20260930.htm)
+- **CCC（旧代码 CCCS），11/17 初筛后淘汰，保险理赔。** 10/29 10-Q 可见九个月 CFO $259.5m，但拟以每股 $7.75 现金被收购，且已停止指引。交易收益依赖监管及交割，两代码只算一只，后续核交易进度。[公司原文](https://ir.cccis.com/news-releases/news-release-details/ccc-intelligent-solutions-holdings-inc-announces-third-quarter-4)
+- **旧线索推进。** ADBE 的付费 ARR 与普通股现金已复核，仍需更好的合并现金或报价。GNTX、HRB、CI、FIS、GIB、NNN、BNL、WPC、O、VICI、PYPL 与近期平台估值观察承接上轮。ACM、POWL、ARMK 继续核实际项目付款和客户地理，FANG等交割后杠杆，TSN按52周再核牛肉现金。无成员变更，研究优先 ADBE、NICE、ACM、NNN、POWL。
