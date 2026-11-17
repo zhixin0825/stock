@@ -589,3 +589,12 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **INTA，11/17 初筛，专业服务工作流。** 10/27 公告 Celeste 已商用，GAAP仍亏。季度 CFO $28.4m−软件 $2.0m−设备 $0.3m−SBC $33.1m，约 −$7.0m，应收回落受账单与收款时点影响。收盘 $45.98，未核带时点盘前；先看新签付费、合同续约和扣股酬后的现金，暂不晋级。[10-Q](https://www.sec.gov/Archives/edgar/data/1565687/000156568726000128/inta-20260930.htm)
 - **CCC（旧代码 CCCS），11/17 初筛后淘汰，保险理赔。** 10/29 10-Q 可见九个月 CFO $259.5m，但拟以每股 $7.75 现金被收购，且已停止指引。交易收益依赖监管及交割，两代码只算一只，后续核交易进度。[公司原文](https://ir.cccis.com/news-releases/news-release-details/ccc-intelligent-solutions-holdings-inc-announces-third-quarter-4)
 - **旧线索推进。** ADBE 的付费 ARR 与普通股现金已复核，仍需更好的合并现金或报价。GNTX、HRB、CI、FIS、GIB、NNN、BNL、WPC、O、VICI、PYPL 与近期平台估值观察承接上轮。ACM、POWL、ARMK 继续核实际项目付款和客户地理，FANG等交割后杠杆，TSN按52周再核牛肉现金。无成员变更，研究优先 ADBE、NICE、ACM、NNN、POWL。
+
+
+### 2026-11-17 洛杉矶 04:48 盘前增量
+
+- **REGN** 补公司原始发布。欧盟批准 Libtayo 在现有适应症延长给药间隔及缩短输注，未估未披露的新增现金，继续核 06:00 PST 投资者活动及实际商业影响。[公司发布](https://www.globenewswire.com/news-release/2026/11/17/3404448/0/en/libtayo-cemiplimab-approved-in-the-european-union-eu-for-extended-dosing-and-faster-infusion-times-across-skin-lung-and-cervical-cancer-indications.html)
+- **ADBE／HII** 更新盘前比较及原文核查。ADBE 报价下移，CMA 与续约、算力及行业共振仍待核。HII 核实 82 台新订单及五年计划潜在总额，优先研究减少暴露，验收和实收仍待核。**HD／ACM** 分别补营运资金现金桥、财报后报价及工程付款验证点。
+- **ACN** 为既有池外线索的补核，股权薪酬及设备扣后 FY26 审计现金约 $9.52bn，实际业务及投资购置另计。当前现金代理收益率约 6.6%，尚未形成买入资格。NICE／INTA／CCC 沿本日早段初筛。研究覆盖记录不等于新增推荐。[ACN 原文](https://www.sec.gov/Archives/edgar/data/1467373/000146737326000049/acn-20260831.htm)
+
+逐股CSV增量列只更新 REGN、ADBE、HII、HD、ACM 五行，保留原字段和原研究。成员未调整，仍为 100 个唯一代码。本次定向补核没有重跑早段全池，也没有新增完整独立估值。[当日增量与来源](reviews/2026-11-17_EVENING_OPERATION_PLAN.md) · [逐股资料](../data/watchlists/universe_100_20261022.csv)
