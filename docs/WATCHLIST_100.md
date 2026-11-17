@@ -1,5 +1,7 @@
 # 100隻美股機會觀察池
 
+> **当前入口：2026-11-17 收市。** [操作理由日志](journal/2026-11-17_OPERATION_REASON_LOG.md)和[逐股资料](../data/watchlists/universe_100_20261022.csv)的 `afterclose_20261117_*` 列。100 个唯一代码，常规行情 100、盘后带时点 87、新闻索引 100、具名评级 99。经营现金或比较更新 9 只，四只补价值区或重新标价。成员未变。
+
 > **当前入口：2026-11-17 北京盘前。** [当轮方案](reviews/2026-11-17_EVENING_OPERATION_PLAN.md)和[逐股证据](../data/watchlists/universe_100_20261022.csv)的 `premarket_20261117_*` 列。100 个唯一代码，数据日期及限制见方案。
 
 > **当前入口：2026-11-16 收市复盘。** [操作理由日志](journal/2026-11-16_OPERATION_REASON_LOG.md)及[逐股证据](../data/watchlists/universe_100_20261022.csv) `afterclose_20261116_*`。100 个唯一代码，收盘 100/100、盘后 91/100、新闻索引 100/100、具名索引 99/100。重点经营现金覆盖 5/100，其中独立估值 3/100；两项不与基本行情覆盖混用。
@@ -598,3 +600,11 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **ACN** 为既有池外线索的补核，股权薪酬及设备扣后 FY26 审计现金约 $9.52bn，实际业务及投资购置另计。当前现金代理收益率约 6.6%，尚未形成买入资格。NICE／INTA／CCC 沿本日早段初筛。研究覆盖记录不等于新增推荐。[ACN 原文](https://www.sec.gov/Archives/edgar/data/1467373/000146737326000049/acn-20260831.htm)
 
 逐股CSV增量列只更新 REGN、ADBE、HII、HD、ACM 五行，保留原字段和原研究。成员未调整，仍为 100 个唯一代码。本次定向补核没有重跑早段全池，也没有新增完整独立估值。[当日增量与来源](reviews/2026-11-17_EVENING_OPERATION_PLAN.md) · [逐股资料](../data/watchlists/universe_100_20261022.csv)
+
+### 2026-11-17 收市增量
+
+- **BKNG、INTU、HII、ADBE。** BKNG 到旧研究价仍受正式监管程序及商户现金滚动约束，复算 TTM 扣设备与股酬 $8.64bn。INTU 将放款和递延税分开，11/19 盘后重算。HII 海军验收与付款验证保持优先，ADBE 跌近盈利现金复核区，AI 续费、监管及共同敞口尚未闭合。 [现金与比较](journal/2026-11-17_OPERATION_REASON_LOG.md#hiiadbe-同额一年比较)
+- **STRL、AMZN、MSFT。** NVDA 芯片出货及实收代理有新增事实。STRL 的区分维持已批在建／已签待开／未签，Loudoun 议程、德州 TCEQ 与 ERCOT 接入核验逐项目推进。MSFT 与 AMZN 核各自现金设备支出、租赁、客户负荷及实收。无新增资格变化。 [收市原文与现金桥](journal/2026-11-17_OPERATION_REASON_LOG.md#补仓及风险的独立复核)
+- **DOCS、BR 新进入池外初筛，代码第一次单独研究。** 医疗工作流 DOCS 的 AI 套件有逾 190 家付费机构，季度扣费用化股酬后的 FCF 约 $50.7m，对比 $62.1m。需核资本化股酬、付费留存、药企预算。金融机构运营 BR 经常性收入 +11%，季度扣设备、软件、股酬现金约 $53.1m，仍需看续约及未来资本，12/8 公司投资者日复核。两只均未取得新增资格。[DOCS](https://investors.doximity.com/news/news-details/2026/Doximity-Announces-Fiscal-2027-Second-Quarter-Financial-Results/default.aspx) · [BR](https://www.broadridge-ir.com/news/news-details/2026/Broadridge-Reports-First-Quarter-Fiscal-2027-Results/default.aspx)
+- **既有池外。** NICE、INTA 延续原限制，CCC/CCCS 作为同一收购事件保留。VICI 复核已披露 Caesars 租金约占租金及贷款收入 34%，旧价停用。DOCS 与 BR 暂登记这里，现金和估值进展不足以先移出既有成员。备选档现有记录保留。 [备选档](../data/watchlists/reserve_20261022.csv)
+
