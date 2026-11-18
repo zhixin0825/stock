@@ -1,5 +1,7 @@
 # 100隻美股機會觀察池
 
+> **当前入口：2026-11-18 晚间盘前。** [盘前方案](reviews/2026-11-18_EVENING_OPERATION_PLAN.md)与[逐股资料](../data/watchlists/universe_100_20261022.csv) `premarket_20261118_*`。昨收 100/100，截点前盘前 29/100，新闻索引 100/100，具名 97/100。重点现金／估值复核 6/100。成员仍为 100 个唯一代码。
+
 > **当前入口：2026-11-17 收市。** [操作理由日志](journal/2026-11-17_OPERATION_REASON_LOG.md)和[逐股资料](../data/watchlists/universe_100_20261022.csv)的 `afterclose_20261117_*` 列。100 个唯一代码，常规行情 100、盘后带时点 87、新闻索引 100、具名评级 99。经营现金或比较更新 9 只，四只补价值区或重新标价。成员未变。
 
 > **当前入口：2026-11-17 北京盘前。** [当轮方案](reviews/2026-11-17_EVENING_OPERATION_PLAN.md)和[逐股证据](../data/watchlists/universe_100_20261022.csv)的 `premarket_20261117_*` 列。100 个唯一代码，数据日期及限制见方案。
@@ -608,3 +610,9 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **DOCS、BR 新进入池外初筛，代码第一次单独研究。** 医疗工作流 DOCS 的 AI 套件有逾 190 家付费机构，季度扣费用化股酬后的 FCF 约 $50.7m，对比 $62.1m。需核资本化股酬、付费留存、药企预算。金融机构运营 BR 经常性收入 +11%，季度扣设备、软件、股酬现金约 $53.1m，仍需看续约及未来资本，12/8 公司投资者日复核。两只均未取得新增资格。[DOCS](https://investors.doximity.com/news/news-details/2026/Doximity-Announces-Fiscal-2027-Second-Quarter-Financial-Results/default.aspx) · [BR](https://www.broadridge-ir.com/news/news-details/2026/Broadridge-Reports-First-Quarter-Fiscal-2027-Results/default.aspx)
 - **既有池外。** NICE、INTA 延续原限制，CCC/CCCS 作为同一收购事件保留。VICI 复核已披露 Caesars 租金约占租金及贷款收入 34%，旧价停用。DOCS 与 BR 暂登记这里，现金和估值进展不足以先移出既有成员。备选档现有记录保留。 [备选档](../data/watchlists/reserve_20261022.csv)
 
+### 2026-11-18 盘前增量
+
+- **DECK 原线索实质推进。** 补用 10-K 与 10-Q 将经营现金扣资本开支、股酬后滚动到约 $1.007bn。基准 $81–103、双压 $52–62，同额比较见当轮方案。库存与关税尚待核，$77–80 只是研究区。 [DECK 原报](https://ir.deckers.com/sec-filings/all-sec-filings/content/0001628280-26-068116/deck-20260930.htm)
+- **BTSG 新池外初筛。** 10/30，家庭和社区医疗。前九月 CFO 扣设备、股酬约 $257.5m，停营业务处置 $810.9m 另列。未来核继续营业资金、医疗付款方及药品分销集中，估值暂未完成。 [财报](https://ir.brightspringhealth.com/news-releases/news-release-details/brightspring-health-services-inc-reports-third-quarter-2026)
+- **API 新池外初筛。** 11/16，实时语音和对话 AI。收入 +19%，前九月 CFO 扣设备与股酬约 $1.51m，显著低于去年 $11.92m。再核利用率、客户留存及地区风险后评现金，暂不晋级。 [财报](https://www.sec.gov/Archives/edgar/data/1802883/000119312526464790/api-ex99_1.htm)
+- **STRL／AMZN、HII／ADBE。** 更新 Loudoun 投票的报道及公开 Ashburn 具体项目证据；区分项目阶段和收入实收。更新 HII 与 ADBE 报价、回款与监管，两端未同时过关。OMC、VICI、NNN 与 DOCS/BR 按各自现金和风险继续观察。此次资料更新未达到更换池成员所需证据。 [当轮报告](reviews/2026-11-18_EVENING_OPERATION_PLAN.md) · [备选档](../data/watchlists/reserve_20261022.csv)
