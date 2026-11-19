@@ -641,3 +641,15 @@ MCK/VRSK为本轮池外新登记，CROX为旧线索实质推进，详见[发现�
 - **旧线索** TAP两端比较推进；GNTX、DECK、VICI及CCOI／MD原限制保留，不能重新包装发现。目标前排STRL、ORCL、半导体仍按许可／融资／出口及现金验资格。
 
 本轮更新100行当轮范围、时刻、当前资格与下一验证字段，保留原455列；成员未增删，100个唯一代码。原G备选整行留档不变。完整券商近一年逐次历史与全部原始新闻未取得，新闻索引和评级阅读不等于完成基本面深审。[完整方案](reviews/2026-11-19_EVENING_OPERATION_PLAN.md)
+
+
+### 2026-11-19 收市增量
+
+- **INTU结果后重算。** 收入指引下调源于Credit Karma，EPS／营业利润维持，尚不含Mailchimp拟出售影响。现金与股票对价、交割条件分开；Q1扣设备／SBC／投资性应收净投523m，TTM代理6.944bn，贷款出售、分类及税仍须正常化。旧350触发失效，存量有条件持有、新增不通过。不是降价解冻。[原报](https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/fy27q1earningspressrelease.htm)
+- **REGN监管状态更正。** 11/18 18:03 EST已宣布cemdisiran获批，后续核商业化、Alnylam许可及实收，不再称待批准。11/19 ASH数据预告不当新增销售。[公司](https://investor.regeneron.com/news-releases/news-release-details/livsayistm-cemdisiran-approved-fda-first-and-only-sirna-therapy/)
+- **Loudoun执行范围补齐。** 县方11/18公布部分立法申请暂停，行政程序／Route28和电网等例外分开；33项可能受影响不等于全部在建停工。具体承包项目现金映射仍缺，STRL不解冻。[县方](https://sheriff.loudoun.gov/Archive/ViewFile/Item/15495)
+- **TAP／BKNG及OMC。** 11/19盘中较晚TAP40.00版本优先于盘前41.30，本轮现金／价格重审后下一窗口仍仅条件TAP≤40.00；BKNG不追低恢复旧卖线。OMC维持有条件持有不追加，Q4季节性回款不是保证，旧86.30不自动执行。[同额比较](journal/2026-11-19_OPERATION_REASON_LOG.md#bkngtap同额同期限与唯一条件计划)
+- **WSM／WMT本收市轮首次池外初筛。** 发现及事件11/19：WSM补9M现金但关税退款税后未正常化；WMT经营增长和上调指引已核，资本开支后现金下降且SBC／NCI未闭合。均未晋级，台账保留具体缺项。BRC／KFY为同日晨间首次，不能再称本轮新发现；CCOI／MD旧失败／观察不抹去。[发现台账](../data/watchlists/discovery_20261119.csv)
+- **ROST新报。** 同店及指引已核，EPS含0.60退款；9M扣设备／SBC约1.464bn，正常化与新增估值未完成。ADBE、DECK、VICI、GNTX接近旧价仍分别核监管、库存、租户和资本，不自动放行。
+
+本轮100只收盘及1/5/20锚、100新闻索引已更新；98带时点盘后缺AXS／PRDO，99具名和99共识缺PRDO。重点现金／事件／旧估值复核8/100，INTU现金滚动新算1只；ROST另补新报但准入未完成，不能称全池深审。当前100成员不变；原53池外延续，加WSM／WMT为55。公开仅追加状态和来源，保留原465列及所有历史判断。详见[本轮收市日志](journal/2026-11-19_OPERATION_REASON_LOG.md)。
