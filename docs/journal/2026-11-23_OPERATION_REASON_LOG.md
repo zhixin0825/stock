@@ -89,3 +89,7 @@ Loudoun11/17表决、11/18官方发布的申请暂停及Route28/已批等例外�
 
 
 研究正文收敛：2026-11-23 22:17:00 UTC（北京11/24约06:17）；发布、main回读和实际完成时间另验，不冒充17:00即完成。
+
+## 来源与归档验收补记（2026-11-23 22:18:12 UTC）
+
+已回读main核对收市日志、事前方案收市追加、533列100唯一代码CSV、发现台账与观察池入口，内容与本轮预期相符；这只证明产物保存，不证明独立通知送达或精确启动已修复。MMSD客户9/28原文再次核到“待Veolia法律挑战解决才签、原合同到2028结束”的限制；获选和准备过渡不等已签可收现金。[MMSD客户原文](https://www.mmsd.com/about-us/news/mmsd-commission-votes-to-select-jacobs-solutions-for-new-10-year-operations-and-maintenance-contract)。最新司法解除文件仍未取得，不以未查到当没有诉讼。
