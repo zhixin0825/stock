@@ -87,3 +87,8 @@ Loudoun11/18官方立法申请暂停与Route28/已批例外仍在，STRL具体�
 [逐股CSV](../../data/watchlists/universe_100_20261022.csv) · [候选台账](../WATCHLIST_100.md) · [ENR初筛](../../data/watchlists/discovery_20261123.csv)。
 
 研究正文收敛：2026-11-23 12:06:12 UTC；发布及main回读另验。
+
+## 后续补充：现金机会成本（2026-11-23 12:08:50 UTC）
+
+已读美国财政部11/20官方曲线，1年期CMT为4.51%，只是同期限名义国债收益参考，不是当前可成交国债价、券商现金收益或用户实际获得收益。NNN≤39对应低端普通股现金收益约8.08%，较该参考高约3.57个百分点；分红若维持约6.36%，不再把全部留存现金当额外分红加一次。INTU275的持续现金收益范围与NNN重叠，故只支持小额边际风险调整，不宣称无风险或保证更高回报。国债/现金可作机会成本基准，不改变股票卖出须配合格买端及过渡资金纪律。
+[美国财政部原表](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve)。
