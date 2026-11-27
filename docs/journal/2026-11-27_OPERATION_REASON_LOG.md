@@ -71,3 +71,9 @@ SJM为本日盘前首次发现，本轮是后续推进：全年公司FCF指引1.
 - [SJM11/24](https://investors.jmsmucker.com/news/news-details/2026/The-J-M--Smucker-Co--Announces-Fiscal-Year-2027-Second-Quarter-Results-and-Updates-Full-Year-Fiscal-2027-Outlook/default.aspx)；[BURL11/24](https://www.sec.gov/Archives/edgar/data/1579298/000119312526473122/burl-ex99_1.htm)。
 - [HPE11/23](https://www.hpe.com/us/en/newsroom/press-release/2026/11/hpe-reports-fiscal-2026-fourth-quarter-results.html)；[CRWD改期](https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-third-quarter-fiscal-year-2027-financial)。
 - [NYSE日历](https://www.nyse.com/trade/hours-calendars)；[GEV日程](https://www.gevernova.com/investors/events)；[AVGO日程](https://investors.broadcom.com/)。
+
+## 追加验收与候选交接 — 2026-11-27 19:19:31 UTC
+
+本轮可核研究及欠账清单已形成，完整原始研究尚有第6节列明缺项，不能称全100深审完成。main已逐字回读日志、同日方案、WATCHLIST、池外台账与100行601列CSV；原592列单元格逐项相同，100唯一代码。相关提交：日志32fd8d803373a777ef37500d514c66ea8ed50942、方案1382e8d3642c4df831a103d8475ef0695326a3be、说明76888aebe9c720b4db44805567f541a0a7b07dd8、台账4bf7f3f035ec589b7f71c697d7a68ca9ec94ab9d、CSV e544ab826034ff26e79725523d98c1173bdf76fe。公开与私人资料分开；交付回执仍未知，不把产物等同已送达。
+
+补充承接旧候选：OMC同日参考价下的正常化现金基准90–108、压力57–67仍为助手假设，Q4营运资本实收与整合资本尚未支持加仓；VICI旧25条件继续停用，PIK/NCI及Caesars约34%租金风险未解除，即使接近旧价也不进入可买名单。本轮已读取同日旧研究并更新两者参考报价，均不是因单有降价而解冻。下一既有盘前轮次优先补关键现金；不能据此声称市场没有更好候选。
