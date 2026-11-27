@@ -83,3 +83,34 @@ NYSE：https://ir.theice.com/press/news-details/2025/NYSE-Group-Announces-2026-2
 SJM报价字段更正：前文“130.06仅11/25参考、盘前未得”是本轮文字整理错误。本轮已读来源页另有11/27 06:02EST盘前129.20美元；130.06仍是11/25收盘参考，源页错误13:00收盘标签按前述处理。按129.20重标价，仍缺退款税/套保资本及持续普通股现金证据，不改变观察、不买的判断。保留前文事前文本，不把更正当公司新增公告或资格解冻。私人当期表按带时点盘前参考重新排序。
 
 本轮先后保存方案、池外台账、100逐股CSV及WATCHLIST；逐股CSV内容blob 82382e7612fdb364db0d7ef737a0806a05753b11，与本地生成100行592列逐值一致，原583列未变。方案初版及其后更正分别保存；全部产物的main回读另行核验完成后再交付，不以提交存在证明定时准确启动或独立送达。
+
+
+## 收市后追加与纠错 — 2026-11-28 03:16北京 / 2026-11-27 14:16EST
+
+观察截止纽约14:16，保留前文全部事前版本。
+
+本轮后续执行结论：不追买GEN/MPC，不自动续用旧买价，不新增换股方案。AVGO减敞口第一、GEV第二的经济方向保留，配对执行资格另核；缺合格新股不能证明原股最优。GEN若已经形成敞口，现持判断待复核，不由新增冻结推出机械清仓。下一窗口11/30，最迟北京20:00既有盘前节点重核；采用前核公告、买卖一与价差。重大法律/融资或核心客户公告立即令相关旧条件失效。
+GEN是本轮补读旧事实后的研究纠错：10/28原10-Q所披露NYAG案仍未决，潜在损失无法估计；2025/11/24解决的CFPB是另案，不解除NYAG。6M CFO760m−设备7m−SBC110m=643m，贷款净投资15m后628m历史代理。Instacash现金与损失已进入现金桥，不重复扣损失或无条件加回占用。借贷资本、2027到期债及法律风险尚未形成合格普通股现金估值，不能据旧买价放行。
+NNN新补主要租户CWH 11/2原文：季度调整EBITDA同比下降62.4%，不是确认欠租。PLAY/CWH合计6.8%租金是敞口而非损失。既有压力现金已计租户/再租风险，不重复扣。PRDO法院下周PDF新列12/4当地10:00动议听证，按丹佛MST换算纽约12:00、北京12/5 01:00。11/30、12/1无该案听证不代表没有法律进展。
+
+统一一年终点2027/11/27、同额10000美元的助手敏感度，不是概率/损失上限：
+AVGO参考收盘312.34，持续股东现金45–50bn/4.8bn股、收益率3–3.5%得268–347，股息假设2.60，基准期末8650–11193；业务与估值双压35–40bn、4–4.5%得162–208，含息5270–6743；固定当前46.584bn运行率倍数，期末约9743–10817。43bn后盾不是已付现金，旧责任重叠不加总。
+GEN参考收盘30.47：暂设持续普通股现金1.1–1.3bn/600m股、收益率7–8%得22.9–31.0，股息0.50，基准期末7680–10340；压力0.8–1.0bn、9–10%得13.3–18.5，含息4530–6250；固定628m半年代理×2所对应当前现金倍数，期末约8920–10510。借贷资本/再融资/法律缺口未补，该范围不能生成有效买入上限。FCFE已扣利息，不再从股权值机械减净债务。最强反方为CyberSafety续费和交叉销售兑现更强现金，保守范围可能偏低，但须证据解除限制。
+NNN假设现金630–650m/200m股、7.5–8%得39.4–43.3，以42.04及股息2.48得期末9962–10890；压力500–540m、9.5–10%得25–28.4，股息2–2.48得6422–7345；无倍数扩张10434–10746。39是现金门槛向下取整，不是准入通过。
+SCHW/AXS承接今日已补资本模型，80/96仅研究门槛，不是新订单；NNN/SCHW/AXS独立新增加仓均未全部过关。最终合格替代比较未完成，无法证明继续持有更优。未知税费不填零，不默认2.5%磨损，股息不重复加，SBC/NCI/必要资本对称。
+
+变化来源：GEN为原始法律/现金遗漏的纠错，不是今日突发；PRDO下周日历缺项补齐；NNN核心租户原文推进。价格反弹只改变输入，不解除AVGO/GEV或MPC加仓限制。11/26休市，不制造新交易日收益。
+下一两个交易日11/30、12/1；GEV 12/3 08:00EST会议、PRDO 12/4当地10:00法院、AVGO 12/9 17:00EST财报、REGN 12/12–15 ASH。CRWD 11/23财报原文明确取消原12/1日程并提前，不继续用旧通知；HPE已11/23发布。全池财报时刻仍未逐一原文确认。
+SJM为本日盘前首次发现，本轮是后续推进：全年公司FCF指引1.1bn含关税退款，不能当纯持续现金；季度CFO/FCF同比下降，退款税/套保资本正常化仍缺。BURL旧线索补库存+16%与约1.115bn资本投入，借贷流动性不当自由现金；HPE公司FCF与SBC/收购/金融服务资本仍需桥；CRWD补改期与收购稀释约束，均未通过新增。HPQ/DE例行报价评级，未新完成现金桥。本轮无首次发现，不包装旧名为新发现；成员调整证据不足，暂不调整100，池外GEN单列，不擅自认定实际持有。
+政策继续承接BIS终端用途与11/19远程访问许可、关联实体暂停适用边界，不能称全面解除；Loudoun部分程序暂停不是全国已批准施工停工；客户预算、预收交付资本、电网/水/许可、MPC 45Z/RIN仍按实际敞口核。DCF已有风险不再重复扣。
+
+100/100取得当期参考行情及新闻/评级索引，99/100供应商目标统计（PRDO缺）；索引检查不等于原文核验或深度完成。49/100收盘时间对齐13:00；其余51/100原页错误16:00或收盘未核，第二来源取得当日收市后参考，仍不称官方收盘。BRK.B历史别名已补，49/100完整同口径收盘1/5/20；其余51只仅参考价对历史收盘变化。历史分母11/25、11/19、10/29，原始价格不含息，非个人收益。盘后稀疏异步，无实时盘口保证。
+本轮新增原文/实质事件核查池内4/100（AVGO/GEV/NNN/PRDO），完整独立新估值0/100；其余96只承接盘前深度，不冒称重审完成。池外GEN/SJM/BURL/HPE/CRWD重点推进。未核官方收盘：ADBE, ADI, AEP, AMP, AMZN, ANET, BNY, CDNS, CEG, CMG, CRM, CSCO, DFIN, DHR, DOV, DUK, ETN, FANG, GEV, HD, ICE, IQV, ISRG, J, JPM, LLY, LNG, MA, MCO, MDT, MEDP, MPC, MRK, OMC, ORCL, OSIS, PAYX, PEP, PWR, ROST, SCHW, STRL, TAP, TT, TXN, V, VRTX, VST, WM, XOM, XYL。
+
+- [GEN10-Q](https://www.sec.gov/Archives/edgar/data/849399/000084939926000083/gen-20261002.htm)；[CFPB另案](https://www.consumerfinance.gov/enforcement/actions/moneylion-technologies-inc-ml-plus-llc-and-other-subsidiaries/)。
+- [CWH11/2](https://investor.campingworld.com/news-releases/news-release-details/camping-world-holdings-inc-reports-third-quarter-2026-results)；[法院下周PDF](https://www.cod.uscourts.gov/Documents/Judges/Calendars/2026-11-30/rbj.pdf)。
+- [SJM11/24](https://investors.jmsmucker.com/news/news-details/2026/The-J-M--Smucker-Co--Announces-Fiscal-Year-2027-Second-Quarter-Results-and-Updates-Full-Year-Fiscal-2027-Outlook/default.aspx)；[BURL11/24](https://www.sec.gov/Archives/edgar/data/1579298/000119312526473122/burl-ex99_1.htm)。
+- [HPE11/23](https://www.hpe.com/us/en/newsroom/press-release/2026/11/hpe-reports-fiscal-2026-fourth-quarter-results.html)；[CRWD改期](https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-third-quarter-fiscal-year-2027-financial)。
+- [NYSE日历](https://www.nyse.com/trade/hours-calendars)；[GEV日程](https://www.gevernova.com/investors/events)；[AVGO日程](https://investors.broadcom.com/)。
+
+[当日日志](../journal/2026-11-27_OPERATION_REASON_LOG.md)。
