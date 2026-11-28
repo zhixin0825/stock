@@ -112,3 +112,10 @@ NNN的39研究门槛来自保守现金价值下沿向下取整，本轮重新验
 |WDC|https://investor.wdc.com/news-releases/news-release-details/wd-reports-fiscal-first-quarter-2027-financial-results|
 
 基金9/30事实表：https://workplace.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F0094.pdf 、https://workplace.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F5487.pdf 、https://workplace.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F0584.pdf 。
+
+
+## 追加验收 — 2026-11-28 北京20:27
+
+上文20:19为研究草稿形成时点，最终原文、模型与输出复核截止北京20:27；没有改变休市不交易、GEN减仓研究优先且配对未成立的结论。main已逐字回读本方案、WATCHLIST、池外六只台账和100行616列CSV；原607列60700个单元格逐项保留，100唯一代码，所有链接目标存在。首轮提交分别为方案1a590ccbc6a0b4b2a816cf1447abbc19af5ce234、CSV 1d17911ebd4c43b2b0aedaef425406051d4cf009、台账cd9923404e91c0a6e83d92a63cea21ccb2bd8d48、说明f3e9286de60c7a773b54302b3464e31c15c4ef61。本节也须保存后回读，不能以本地文件冒充发布。
+
+验收仅证明当轮可核产物及明确覆盖，不将14只局部原文核验冒充100只独立估值；未完成的86只深审、全100未来原始财报时刻、GEN完整未来现金/融资桥及合格配对继续列欠账。基金行情、个人持有/执行和完整目标价跟踪仅保留私人报告。没有新增证券操作或额外任务；自动触发与独立送达不据此宣称修复或确认。
